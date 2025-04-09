@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="home">
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
+
+  {{ content }}
+
+  <div class="footer-content">
+    <p>© {{ site.time | date: '%Y' }} Market Reports. Generated daily at 1:10 PM Los Angeles time.</p>
+    <p>Powered by <a href="https://github.com/features/actions">GitHub Actions</a> and enhanced with ChatGPT.</p>
+  </div>
+</div>

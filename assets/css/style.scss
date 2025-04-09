@@ -1,0 +1,208 @@
+---
+---
+
+@import "minima";
+
+/* Custom styles */
+:root {
+  --primary-color: #0056b3;
+  --secondary-color: #6c757d;
+  --background-color: #f8f9fa;
+  --card-bg: #ffffff;
+  --border-color: #dee2e6;
+  --text-color: #343a40;
+  --muted-text: #6c757d;
+  --success-color: #28a745;
+  --danger-color: #dc3545;
+  --warning-color: #ffc107;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  line-height: 1.6;
+  color: var(--text-color);
+  background-color: var(--background-color);
+}
+
+.site-header {
+  border-bottom: 1px solid var(--border-color);
+  background-color: var(--card-bg);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.latest-report {
+  background-color: var(--card-bg);
+  border-radius: 8px;
+  padding: 20px;
+  margin-bottom: 30px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.latest-report:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+}
+
+.latest-report-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.latest-report h3 {
+  color: var(--primary-color);
+  margin-top: 0;
+}
+
+.report-date {
+  color: var(--muted-text);
+  font-weight: 500;
+}
+
+.read-more {
+  color: var(--primary-color);
+  font-weight: 500;
+}
+
+.report-item {
+  padding: 12px 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.report-item a {
+  text-decoration: none;
+  color: var(--text-color);
+}
+
+.report-item:hover {
+  background-color: rgba(0, 0, 0, 0.02);
+}
+
+.market-report {
+  padding: 20px;
+  background-color: var(--card-bg);
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+}
+
+.report-header {
+  margin-bottom: 30px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.ai-summary-section {
+  background-color: #f0f7ff;
+  padding: 20px;
+  border-left: 4px solid var(--primary-color);
+  margin-bottom: 30px;
+  border-radius: 0 4px 4px 0;
+}
+
+.ai-summary h3 {
+  margin-top: 0;
+  color: var(--primary-color);
+}
+
+.ai-summary p:last-child {
+  margin-bottom: 0;
+}
+
+.report-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+  margin: 20px 0;
+}
+
+.report-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+
+.report-content th {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: left;
+  border: 1px solid var(--border-color);
+}
+
+.report-content td {
+  padding: 10px;
+  border: 1px solid var(--border-color);
+}
+
+.report-content tr:nth-child(even) {
+  background-color: #fafafa;
+}
+
+.navigation {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid var(--border-color);
+}
+
+.prev-next {
+  display: flex;
+  gap: 20px;
+}
+
+.prev, .next, .back-home {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  text-decoration: none;
+  color: var(--primary-color);
+}
+
+.prev:hover, .next:hover, .back-home:hover {
+  background-color: var(--background-color);
+}
+
+.archive-list h2 {
+  margin-top: 40px;
+  padding-bottom: 10px;
+  border-bottom: 2px solid var(--primary-color);
+}
+
+.archive-list h3 {
+  margin-top: 20px;
+  color: var(--secondary-color);
+}
+
+.report-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.report-list li {
+  padding: 8px 0;
+  border-bottom: 1px dashed var(--border-color);
+}
+
+.report-list a {
+  text-decoration: none;
+  color: var(--text-color);
+}
+
+@media (max-width: 768px) {
+  .report-content table {
+    display: block;
+    overflow-x: auto;
+  }
+  
+  .navigation {
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  .prev-next {
+    flex-direction: column;
+    gap: 10px;
+  }
+}

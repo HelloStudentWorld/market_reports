@@ -1,0 +1,39 @@
+title: Daily Market Strength Reports
+description: Automated market analysis using William O'Neil's relative strength methodology
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Theme settings
+theme: minima
+minima:
+  skin: classic
+
+# Collections
+collections:
+  reports:
+    output: true
+    permalink: /:collection/:name
+
+defaults:
+  - scope:
+      path: ""
+      type: "reports"
+    values:
+      layout: "report"
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+  - README.md
