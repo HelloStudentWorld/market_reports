@@ -10,15 +10,11 @@ from pathlib import Path
 import requests
 import openai
 import shutil
-from dotenv import load_dotenv
-
-# Load environment variables from .env file if it exists
-load_dotenv()
 
 # Set up OpenAI API
 openai.api_key = os.environ.get("OPENAI_API_KEY")
 if not openai.api_key:
-    print("WARNING: OPENAI_API_KEY not found in environment variables or .env file")
+    print("WARNING: OPENAI_API_KEY not found in environment variables")
 
 def get_latest_report():
     """Find the latest report in the market_reports directory."""
