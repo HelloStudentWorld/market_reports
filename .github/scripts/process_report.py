@@ -10,6 +10,7 @@ from pathlib import Path
 import requests
 import openai
 import shutil
+import sys
 
 # Set up OpenAI API
 openai.api_key = os.environ.get("OPENAI_API_KEY")
@@ -18,11 +19,28 @@ if not openai.api_key:
 
 def get_latest_report():
     """Find the latest report in the market_reports directory."""
-    reports = glob.glob("oneil_relative_strength_report_*.md")
-    if not reports:
-        print("No reports found")
-        return None
-    return sorted(reports)[-1]
+    # List all directories and files to debug
+    print("Current directory:", os.getcwd())
+    print("Files in current directory:", os.listdir("."))
+    
+    # Try multiple patterns
+    patterns = [
+        "oneil_relative_strength_report_*.md",
+        "**/oneil_relative_strength_report_*.md",
+        "market_reports/oneil_relative_strength_report_*.md",
+        "**/market_reports/oneil_relative_strength_report_*.md"
+    ]
+    
+    for pattern in patterns:
+        reports = glob.glob(pattern, recursive=True)
+        if reports:
+            print(f"Found reports using pattern '{pattern}':", reports)
+            return sorted(reports)[-1]
+        else:
+            print(f"No reports found using pattern '{pattern}'")
+    
+    print("ERROR: No reports found with any pattern!")
+    return None
 
 def process_with_openai(report_content):
     """Process the report content with OpenAI to generate a detailed explanation."""
@@ -63,9 +81,18 @@ def process_with_openai(report_content):
 
 def convert_markdown_to_jekyll(input_path, output_dir):
     """Convert a standard markdown report to Jekyll format with front matter."""
+    print(f"Converting file: {input_path}")
+    
+    # Check if file exists
+    if not os.path.exists(input_path):
+        print(f"ERROR: Input file does not exist: {input_path}")
+        return None
+    
     # Read the report content
     with open(input_path, 'r', encoding='utf-8') as f:
         content = f.read()
+    
+    print(f"Successfully read {len(content)} characters from {input_path}")
     
     # Extract date from filename
     date_match = re.search(r'(\d{4}-\d{2}-\d{2})', os.path.basename(input_path))
@@ -74,9 +101,12 @@ def convert_markdown_to_jekyll(input_path, output_dir):
         return None
     
     report_date = date_match.group(1)
+    print(f"Extracted date: {report_date}")
     
     # Process with OpenAI
+    print("Processing content with OpenAI...")
     ai_summary = process_with_openai(content)
+    print(f"Generated AI summary of {len(ai_summary)} characters")
     
     # Create front matter
     post = frontmatter.Post(
@@ -90,13 +120,14 @@ def convert_markdown_to_jekyll(input_path, output_dir):
     # Create the _reports directory if it doesn't exist
     reports_dir = os.path.join(output_dir, "_reports")
     os.makedirs(reports_dir, exist_ok=True)
+    print(f"Created reports directory: {reports_dir}")
     
     # Write the Jekyll post
     output_path = os.path.join(reports_dir, f"{report_date}-market-report.md")
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(frontmatter.dumps(post))
     
-    print(f"Converted {input_path} to {output_path}")
+    print(f"Successfully wrote Jekyll post to {output_path}")
     return output_path
 
 def copy_images(report_date, output_dir):
@@ -107,10 +138,14 @@ def copy_images(report_date, output_dir):
         f"sector_strength_{report_date.replace('-', '')}.png"
     ]
     
+    print(f"Looking for image files: {image_files}")
+    
     assets_dir = os.path.join(output_dir, "assets", "images")
     os.makedirs(assets_dir, exist_ok=True)
+    print(f"Created assets directory: {assets_dir}")
     
     for image_file in image_files:
+        print(f"Checking for image file: {image_file}")
         if os.path.exists(image_file):
             try:
                 shutil.copy2(image_file, os.path.join(assets_dir, image_file))
@@ -121,7 +156,20 @@ def copy_images(report_date, output_dir):
             except Exception as e:
                 print(f"Error copying {image_file}: {e}")
         else:
-            print(f"Image file not found: {image_file}")
+            # Try to find the image in other directories
+            for root, dirs, files in os.walk('.'):
+                for file in files:
+                    if file == image_file:
+                        full_path = os.path.join(root, file)
+                        try:
+                            shutil.copy2(full_path, os.path.join(assets_dir, image_file))
+                            print(f"Found and copied {full_path} to assets directory")
+                            
+                            # Update image paths in the report
+                            update_image_paths(report_date, image_file, output_dir)
+                            break
+                        except Exception as e:
+                            print(f"Error copying {full_path}: {e}")
 
 def update_image_paths(report_date, image_file, output_dir):
     """Update image paths in the report to point to the assets directory."""
@@ -134,11 +182,24 @@ def update_image_paths(report_date, image_file, output_dir):
     with open(report_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Update image paths
-    updated_content = content.replace(
-        f"![{image_file.split('_')[0].title()}]({image_file})",
-        f"![{image_file.split('_')[0].title()}](/assets/images/{image_file})"
-    )
+    # Update image paths - try both formats
+    updated_content = content
+    
+    replacements = [
+        (f"![{image_file.split('_')[0].title()}]({image_file})", 
+         f"![{image_file.split('_')[0].title()}](/assets/images/{image_file})"),
+        (f"![{image_file.split('_')[0].title()} {image_file}]({image_file})", 
+         f"![{image_file.split('_')[0].title()}](/assets/images/{image_file})"),
+        (f"![{image_file.split('_')[0].title()}](/{image_file})", 
+         f"![{image_file.split('_')[0].title()}](/assets/images/{image_file})"),
+        (f"![{image_file.split('_')[0].title()}](./{image_file})", 
+         f"![{image_file.split('_')[0].title()}](/assets/images/{image_file})"),
+    ]
+    
+    for old, new in replacements:
+        if old in updated_content:
+            updated_content = updated_content.replace(old, new)
+            print(f"Replaced image path: {old} -> {new}")
     
     with open(report_path, 'w', encoding='utf-8') as f:
         f.write(updated_content)
@@ -146,31 +207,39 @@ def update_image_paths(report_date, image_file, output_dir):
     print(f"Updated image paths in {report_path}")
 
 def main():
-    # Find the latest report
-    latest_report = get_latest_report()
-    if not latest_report:
-        return
-    
-    print(f"Processing latest report: {latest_report}")
-    
-    # Extract date from filename
-    date_match = re.search(r'(\d{4}-\d{2}-\d{2})', latest_report)
-    if not date_match:
-        print(f"Could not extract date from filename: {latest_report}")
-        return
-    
-    report_date = date_match.group(1)
-    
-    # Set output directory to current directory (repo root)
-    output_dir = "."
-    
-    # Convert markdown to Jekyll format
-    convert_markdown_to_jekyll(latest_report, output_dir)
-    
-    # Copy and update image paths
-    copy_images(report_date, output_dir)
-    
-    print("Report processing completed successfully.")
+    try:
+        # Find the latest report
+        latest_report = get_latest_report()
+        if not latest_report:
+            print("ERROR: No report found. Exiting.")
+            sys.exit(1)
+        
+        print(f"Processing latest report: {latest_report}")
+        
+        # Extract date from filename
+        date_match = re.search(r'(\d{4}-\d{2}-\d{2})', latest_report)
+        if not date_match:
+            print(f"Could not extract date from filename: {latest_report}")
+            sys.exit(1)
+        
+        report_date = date_match.group(1)
+        
+        # Set output directory to current directory (repo root)
+        output_dir = "."
+        
+        # Convert markdown to Jekyll format
+        converted_path = convert_markdown_to_jekyll(latest_report, output_dir)
+        if not converted_path:
+            print("ERROR: Failed to convert report to Jekyll format")
+            sys.exit(1)
+        
+        # Copy and update image paths
+        copy_images(report_date, output_dir)
+        
+        print("Report processing completed successfully.")
+    except Exception as e:
+        print(f"ERROR: An unexpected error occurred: {e}")
+        sys.exit(1)
 
 if __name__ == "__main__":
     main()

@@ -10,7 +10,7 @@ Welcome to the O'Neil Relative Strength Market Reports page. These reports are a
 ## Latest Report
 
 {% assign latest_report = site.reports | sort: 'date' | last %}
-
+{% if latest_report %}
 <a href="{{ latest_report.url | relative_url }}" class="latest-report-link">
   <div class="latest-report">
     <h3>{{ latest_report.title }}</h3>
@@ -24,19 +24,31 @@ Welcome to the O'Neil Relative Strength Market Reports page. These reports are a
     </div>
   </div>
 </a>
+{% else %}
+<div class="latest-report">
+  <h3>No reports available yet</h3>
+  <p>The first report will be generated soon. Please check back later.</p>
+</div>
+{% endif %}
 
 ## Previous Reports
 
 {% assign reports = site.reports | sort: 'date' | reverse %}
-{% for report in reports limit:10 %}
-  {% unless forloop.first %}
-  <div class="report-item">
-    <a href="{{ report.url | relative_url }}">
-      <span class="report-date">{{ report.date | date: "%Y-%m-%d" }}</span> - 
-      <span class="report-title">{{ report.title }}</span>
-    </a>
-  </div>
-  {% endunless %}
-{% endfor %}
+{% if reports.size > 1 %}
+  {% for report in reports limit:10 %}
+    {% if forloop.first == false %}
+    <div class="report-item">
+      <a href="{{ report.url | relative_url }}">
+        <span class="report-date">{{ report.date | date: "%Y-%m-%d" }}</span> - 
+        <span class="report-title">{{ report.title }}</span>
+      </a>
+    </div>
+    {% endif %}
+  {% endfor %}
+{% else %}
+  <p>Previous reports will appear here as they are generated.</p>
+{% endif %}
 
+{% if reports.size > 1 %}
 [View All Reports]({{ '/archive' | relative_url }})
+{% endif %}
