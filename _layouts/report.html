@@ -4,18 +4,16 @@ layout: default
 
 <article class="market-report">
   <header class="report-header">
-    <!--
+      <!--
     {% if page.title %}
       <h1>{{ page.title }}</h1>
     {% else %}
       <h1>Market Report</h1>
     {% endif %}
-    -->
-    
+
     {% if page.date %}
       <p class="report-date">{{ page.date | date: "%Y-%m-%d" }}</p>
     {% else %}
-      <!-- Try to extract date from filename for archived reports -->
       {% assign path_parts = page.path | split: '/' %}
       {% assign filename = path_parts | last %}
       {% if filename contains 'report' and filename contains '-' %}
@@ -23,8 +21,9 @@ layout: default
         {% if date_match %}
           <p class="report-date">{{ date_match }}</p>
         {% endif %}
-      {% endif %}
+      {% endif %} 
     {% endif %}
+    -->
   </header>
 
   {% if page.ai_summary %}
