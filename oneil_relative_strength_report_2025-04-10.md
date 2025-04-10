@@ -1,3 +1,12 @@
+---
+layout: page
+title: "Daily Relative Strength Report - 2025-04-10"
+---
+
+<div class="site-nav" style="margin-bottom: 20px;">
+  <a href="{{ site.baseurl }}/archive" class="nav-link">Report Archive</a>
+</div>
+
 # Daily Relative Strength Report
 
 **Date:** 2025-04-10

@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Daily Relative Strength Report - 2025-04-09"
+---
+
+<div class="site-nav" style="margin-bottom: 20px;">
+  <a href="{{ site.baseurl }}/archive" class="nav-link">Report Archive</a>
+  <a href="{{ site.baseurl }}/oneil_relative_strength_report_2025-04-10" class="nav-link">Latest Report</a>
+</div>
+
 # Daily Relative Strength Report
 
 **Date:** 2025-04-09

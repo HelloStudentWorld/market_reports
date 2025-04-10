@@ -4,6 +4,10 @@ title: Report Archive
 permalink: /archive/
 ---
 
+<div class="site-nav" style="margin-bottom: 20px;">
+  <a href="{{ site.baseurl }}/oneil_relative_strength_report_2025-04-10" class="nav-link">Latest Report</a>
+</div>
+
 # Report Archive
 
 Browse all past market reports organized by date.

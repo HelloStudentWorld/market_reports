@@ -4,6 +4,21 @@
 @import "minima";
 
 /* Custom styles */
+.nav-link {
+  display: inline-block;
+  padding: 8px 16px;
+  background-color: var(--card-bg);
+  border: 1px solid var(--border-color);
+  border-radius: 4px;
+  text-decoration: none;
+  color: var(--primary-color);
+  margin-right: 10px;
+  font-weight: 500;
+}
+
+.nav-link:hover {
+  background-color: var(--background-color);
+}
 :root {
   --primary-color: #0056b3;
   --secondary-color: #6c757d;
