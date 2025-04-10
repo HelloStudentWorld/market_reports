@@ -26,6 +26,15 @@ defaults:
       type: "reports"
     values:
       layout: "report"
+  - scope:
+      path: "archived_reports"
+      type: ""
+    values:
+      layout: "report"
+
+# Archived reports directory
+include:
+  - archived_reports
 
 # Exclude from processing
 exclude:
