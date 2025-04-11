@@ -1,27 +1,49 @@
 ---
 layout: home
-title: O'Neil Relative Strength Market Reports
+title: Market Reports
 custom_css: custom
 ---
 
 <div class="home-content">
-  <h1>Daily Market Strength Reports</h1>
-  <p>Welcome to the Market Strength Reports dashboard. These reports provide automated market analysis using William O'Neil's relative strength methodology.</p>
+  <h1>O'Neil Market Reports</h1>
   
-  <div class="latest-report-container">
-    <h2>Latest Report</h2>
-    <a href="oneil_relative_strength_report_2025-04-11" style="display: inline-block; padding: 12px 24px; background-color: #0366d6; text-decoration: none; border-radius: 4px; margin-top: 10px;">
-      <span style="color: white; font-weight: bold;">View Latest Report (2025-04-11)</span>
+  <div class="report-buttons">
+    <a href="oneil_relative_strength_report_2025-04-11" style="display: inline-block; padding: 12px 24px; background-color: #0366d6; text-decoration: none; border-radius: 4px; margin: 10px;">
+      <span style="color: white; font-weight: bold;">Relative Strength Report</span>
     </a>
     
-    <div style="margin-top: 20px;">
-      <a href="market_trend_report/market_trend_report.html" style="display: inline-block; padding: 12px 24px; background-color: #333366; text-decoration: none; border-radius: 4px;">
-        <span style="color: white; font-weight: bold;">Market Trend Analysis</span>
-      </a>
-    </div>
+    <a href="market_trend_report/market_trend_report.html" style="display: inline-block; padding: 12px 24px; background-color: #333366; text-decoration: none; border-radius: 4px; margin: 10px;">
+      <span style="color: white; font-weight: bold;">Market Trend Analysis</span>
+    </a>
   </div>
   
-  <div class="archive-link">
-    <p>Looking for older reports? <a href="archive">Browse the Archive</a></p>
+  <div class="archive-link" style="margin-top: 20px;">
+    <p><a href="archive">Browse Archived Reports</a></p>
   </div>
 </div>
+
+<style>
+.home-content {
+  text-align: center;
+  margin: 30px auto;
+  max-width: 800px;
+}
+
+.report-buttons {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 30px 0;
+}
+
+@media (max-width: 600px) {
+  .report-buttons {
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .report-buttons a {
+    margin-bottom: 15px;
+  }
+}
+</style>
