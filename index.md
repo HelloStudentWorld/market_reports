@@ -1,6 +1,7 @@
 ---
 layout: home
-title: O'Neil Relative Strength Market Reports
+title: Market Reports Dashboard
+permalink: /
 ---
 
 {% assign reports = site.static_files | where_exp: "file", "file.path contains 'oneil_relative_strength_report_'" | sort: 'path' | reverse %}
