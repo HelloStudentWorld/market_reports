@@ -215,6 +215,25 @@ body {
   color: var(--text-color);
 }
 
+/* Custom button for home page */
+.custom-report-button {
+  display: inline-block !important;
+  padding: 12px 24px !important;
+  background-color: #0366d6 !important;
+  text-decoration: none !important;
+  border-radius: 4px !important;
+  margin-top: 10px !important;
+}
+
+.custom-report-button:hover {
+  background-color: #0056b3 !important;
+}
+
+.custom-report-button span {
+  color: white !important;
+  font-weight: bold !important;
+}
+
 @media (max-width: 768px) {
   .report-content table {
     display: block;
