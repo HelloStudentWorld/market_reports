@@ -1,0 +1,292 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <title>O'Neil Market Trend Analysis</title>
+        
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        h1 { color: #333366; }
+        h2 { color: #333366; margin-top: 30px; }
+        .report-container { max-width: 900px; margin: 0 auto; }
+        .overall-status { 
+            padding: 15px; 
+            border-radius: 5px; 
+            margin-bottom: 20px; 
+            font-weight: bold;
+        }
+        .confirmed-uptrend { background-color: #d4edda; color: #155724; }
+        .under-pressure { background-color: #fff3cd; color: #856404; }
+        .confirmed-downtrend { background-color: #f8d7da; color: #721c24; }
+        .market-metrics { margin: 20px 0; }
+        .etf-card {
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+        .etf-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 10px;
+        }
+        .price-change { font-weight: bold; }
+        .positive { color: green; }
+        .negative { color: red; }
+        .metric-row {
+            display: flex;
+            justify-content: space-between;
+            margin-bottom: 5px;
+        }
+        .metric-label { font-weight: bold; width: 30%; }
+        .metric-value { width: 70%; }
+        .footer { 
+            margin-top: 30px; 
+            font-size: 0.8em; 
+            color: #666; 
+            text-align: center; 
+        }
+    </style>
+    
+    </head>
+    <body>
+        <div class="report-container">
+            <h1>O'Neil Market Trend Analysis</h1>
+            <p>Generated on 2025-04-11 04:26:33</p>
+    
+            <div class="overall-status confirmed-downtrend">
+                OVERALL MARKET STATUS: Confirmed Downtrend
+            </div>
+            
+            <div class="market-metrics">
+                <div><strong>Market Pulse Score:</strong> 38.5/100</div>
+                <div><strong>Avg Distribution Days:</strong> 6.5</div>
+                <div><strong>Recommendation:</strong> Defensive positioning, raise cash, short-term trades only</div>
+            </div>
+            
+            <h2>Individual ETF Analysis</h2>
+        
+            <div class="etf-card">
+                <div class="etf-header">
+                    <h3>SPY</h3>
+                    <div class="price-change negative">
+                        $524.58 (-4.38%)
+                    </div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Market Phase:</div>
+                    <div class="metric-value confirmed-downtrend">Confirmed Downtrend</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Market Pulse:</div>
+                    <div class="metric-value">33.8/100</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Distribution Days:</div>
+                    <div class="metric-value">8.0</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">MA Status:</div>
+                    <div class="metric-value">
+                        Below 10-MA, 
+                        Below 50-MA, 
+                        Below 200-MA
+                        (Golden Cross)
+                    </div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Price vs 50-MA:</div>
+                    <div class="metric-value negative">-8.92%</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Up/Down Volume Ratio:</div>
+                    <div class="metric-value">0.97</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Recent Follow-Through:</div>
+                    <div class="metric-value">No</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Churning Days (5d):</div>
+                    <div class="metric-value">1.0</div>
+                </div>
+            </div>
+        
+            <div class="etf-card">
+                <div class="etf-header">
+                    <h3>QQQ</h3>
+                    <div class="price-change negative">
+                        $446.18 (-4.25%)
+                    </div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Market Phase:</div>
+                    <div class="metric-value under-pressure">Uptrend Under Pressure</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Market Pulse:</div>
+                    <div class="metric-value">44.2/100</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Distribution Days:</div>
+                    <div class="metric-value">5.0</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">MA Status:</div>
+                    <div class="metric-value">
+                        Below 10-MA, 
+                        Below 50-MA, 
+                        Below 200-MA
+                        (Golden Cross)
+                    </div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Price vs 50-MA:</div>
+                    <div class="metric-value negative">-9.79%</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Up/Down Volume Ratio:</div>
+                    <div class="metric-value">1.01</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Recent Follow-Through:</div>
+                    <div class="metric-value">No</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Churning Days (5d):</div>
+                    <div class="metric-value">1.0</div>
+                </div>
+            </div>
+        
+            <div class="etf-card">
+                <div class="etf-header">
+                    <h3>IWM</h3>
+                    <div class="price-change negative">
+                        $181.71 (-4.20%)
+                    </div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Market Phase:</div>
+                    <div class="metric-value confirmed-downtrend">Confirmed Downtrend</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Market Pulse:</div>
+                    <div class="metric-value">31.1/100</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Distribution Days:</div>
+                    <div class="metric-value">8.0</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">MA Status:</div>
+                    <div class="metric-value">
+                        Below 10-MA, 
+                        Below 50-MA, 
+                        Below 200-MA
+                        (Death Cross)
+                    </div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Price vs 50-MA:</div>
+                    <div class="metric-value negative">-13.27%</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Up/Down Volume Ratio:</div>
+                    <div class="metric-value">1.02</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Recent Follow-Through:</div>
+                    <div class="metric-value">No</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Churning Days (5d):</div>
+                    <div class="metric-value">0.0</div>
+                </div>
+            </div>
+        
+            <div class="etf-card">
+                <div class="etf-header">
+                    <h3>DIA</h3>
+                    <div class="price-change negative">
+                        $395.68 (-2.56%)
+                    </div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Market Phase:</div>
+                    <div class="metric-value under-pressure">Uptrend Under Pressure</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Market Pulse:</div>
+                    <div class="metric-value">45.0/100</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Distribution Days:</div>
+                    <div class="metric-value">5.0</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">MA Status:</div>
+                    <div class="metric-value">
+                        Below 10-MA, 
+                        Below 50-MA, 
+                        Below 200-MA
+                        (Golden Cross)
+                    </div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Price vs 50-MA:</div>
+                    <div class="metric-value negative">-7.24%</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Up/Down Volume Ratio:</div>
+                    <div class="metric-value">0.92</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Recent Follow-Through:</div>
+                    <div class="metric-value">No</div>
+                </div>
+                
+                <div class="metric-row">
+                    <div class="metric-label">Churning Days (5d):</div>
+                    <div class="metric-value">0.0</div>
+                </div>
+            </div>
+        
+            <div class="footer">
+                Based on William O'Neil's Market Trend Analysis Methodology
+            </div>
+        </div>
+    </body>
+    </html>
+    
