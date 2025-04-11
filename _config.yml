@@ -41,6 +41,9 @@ defaults:
 include:
   - archived_reports
 
+# URLs
+permalink: /:title/
+
 # Exclude from processing
 exclude:
   - .sass-cache/

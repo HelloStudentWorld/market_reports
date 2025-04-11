@@ -3,11 +3,6 @@ layout: page
 title: Report Archive
 permalink: /archive/
 ---
-<!--
-<div class="site-nav" style="margin-bottom: 20px;">
-  <a href="{{ site.baseurl }}/oneil_relative_strength_report_2025-04-10" class="nav-link">Latest Report</a>
-</div>
--->
 
 # Report Archive
 
@@ -50,22 +45,21 @@ Browse all past market reports organized by date.
       {% endif %}
     {% endfor %}
     
-    {% assign reports_by_year = reports | group_by_exp: "file", "file.name | slice: -14, 4" %}
+    {% assign sorted_reports = reports | sort: "path" | reverse %}
     
-    {% for year in reports_by_year %}
-      <h3>{{ year.name }}</h3>
-      <ul class="report-list">
-        {% for file in year.items %}
-          {% assign date_string = file.name | slice: -14, 10 %}
-          <li>
-            <a href="{{ file.path | relative_url }}">
-              <span class="report-date">{{ date_string }}</span> - 
-              <span class="report-title">O'Neil Relative Strength Report</span>
-            </a>
-          </li>
-        {% endfor %}
-      </ul>
-    {% endfor %}
+    <ul class="report-list">
+      {% for file in sorted_reports %}
+        {% assign filename = file.path | split: '/' | last %}
+        {% assign date_parts = filename | split: '_' %}
+        {% assign date_string = date_parts | last | split: '.' | first %}
+        <li>
+          <a href="{{ file.path | relative_url }}">
+            <span class="report-date">{{ date_string }}</span> - 
+            <span class="report-title">O'Neil Relative Strength Report</span>
+          </a>
+        </li>
+      {% endfor %}
+    </ul>
   {% else %}
     <p>No archived reports found.</p>
   {% endif %}
