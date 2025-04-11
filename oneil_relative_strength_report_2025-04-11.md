@@ -66,8 +66,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 42.5 | 45.0 | -13.22% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | Artificial Intelligence & Technology |
 | [TLT](https://www.tradingview.com/chart/?symbol=TLT) | 40.5 | 81.0 | 0.58% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Long-term Treasuries |
 | [IYT](https://www.tradingview.com/chart/?symbol=IYT) | 40.0 | 40.0 | -15.05% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | Transportation |
-| [BIL](https://www.tradingview.com/chart/?symbol=BIL) | 39.5 | 79.0 | 0.03% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Short-term Treasuries |
 | [XLY](https://www.tradingview.com/chart/?symbol=XLY) | 39.5 | 39.0 | -15.50% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | Consumer Discretionary |
+| [BIL](https://www.tradingview.com/chart/?symbol=BIL) | 39.5 | 79.0 | 0.03% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Short-term Treasuries |
 | [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 38.5 | 37.0 | -16.38% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | Fintech Innovation |
 | [XLK](https://www.tradingview.com/chart/?symbol=XLK) | 38.0 | 36.0 | -16.92% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | Technology |
 | [XLV](https://www.tradingview.com/chart/?symbol=XLV) | 35.5 | 71.0 | -3.45% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Healthcare |
@@ -111,27 +111,27 @@ The following 44 stocks show exceptional relative strength:
 | RS Rating | Buy Score | Current Price | Chart | Name | Ticker |
 |-----------|-----------|---------------|-------|------|--------|
 | 100 | 100 | $111.55 | [Chart](https://www.tradingview.com/chart/?symbol=AEM) | Agnico Eagle Mines Ltd. | AEM |
-| 100 | 100 | $131.04 | [Chart](https://www.tradingview.com/chart/?symbol=UGL) | ProShares Ultra Gold | UGL |
 | 100 | 100 | $27.97 | [Chart](https://www.tradingview.com/chart/?symbol=AGI) | Alamos Gold Inc. Class A Common Shares | AGI |
-| 99 | 100 | $77.90 | [Chart](https://www.tradingview.com/chart/?symbol=WPM) | Wheaton Precious Metals Corp. Common Stock | WPM |
+| 100 | 100 | $131.04 | [Chart](https://www.tradingview.com/chart/?symbol=UGL) | ProShares Ultra Gold | UGL |
 | 99 | 100 | $117.30 | [Chart](https://www.tradingview.com/chart/?symbol=BJ) | BJs Wholesale Club Holdings, Inc. Common Stock | BJ |
 | 99 | 100 | $18.49 | [Chart](https://www.tradingview.com/chart/?symbol=SWI) | SolarWinds Corporation Common Stock | SWI |
+| 99 | 100 | $77.90 | [Chart](https://www.tradingview.com/chart/?symbol=WPM) | Wheaton Precious Metals Corp. Common Stock | WPM |
+| 99 | 100 | $15.49 | [Chart](https://www.tradingview.com/chart/?symbol=EZPW) | Ezcorp Inc | EZPW |
 | 99 | 100 | $58.23 | [Chart](https://www.tradingview.com/chart/?symbol=GDXJ) | VanEck Junior Gold Miners ETF | GDXJ |
 | 99 | 100 | $142.99 | [Chart](https://www.tradingview.com/chart/?symbol=PLMR) | Palomar Holdings, Inc. Common stock | PLMR |
 | 99 | 100 | $170.97 | [Chart](https://www.tradingview.com/chart/?symbol=RGLD) | Royal Gold Inc | RGLD |
-| 99 | 100 | $15.49 | [Chart](https://www.tradingview.com/chart/?symbol=EZPW) | Ezcorp Inc | EZPW |
 | 98 | 100 | $22.02 | [Chart](https://www.tradingview.com/chart/?symbol=SRAD) | Sportradar Group AG Class A Ordinary Shares | SRAD |
 | 97 | 100 | $30.26 | [Chart](https://www.tradingview.com/chart/?symbol=SGOL) | abrdn Physical Gold Shares ETF | SGOL |
-| 97 | 100 | $24.32 | [Chart](https://www.tradingview.com/chart/?symbol=PHYS) | Sprott Physical Gold Trust | PHYS |
-| 97 | 100 | $292.35 | [Chart](https://www.tradingview.com/chart/?symbol=GLD) | SPDR Gold Trust, SPDR Gold Shares | GLD |
 | 97 | 100 | $59.81 | [Chart](https://www.tradingview.com/chart/?symbol=IAU) | iShares Gold Trust | IAU |
-| 97 | 100 | $31.32 | [Chart](https://www.tradingview.com/chart/?symbol=AAAU) | Goldman Sachs Physical Gold ETF Shares | AAAU |
 | 97 | 100 | $62.80 | [Chart](https://www.tradingview.com/chart/?symbol=GLDM) | SPDR Gold MiniShares | GLDM |
-| 97 | 100 | $31.26 | [Chart](https://www.tradingview.com/chart/?symbol=BAR) | GraniteShares Gold Shares | BAR |
-| 97 | 100 | $30.55 | [Chart](https://www.tradingview.com/chart/?symbol=OUNZ) | VanEck Merk Gold ETF | OUNZ |
-| 97 | 100 | $31.63 | [Chart](https://www.tradingview.com/chart/?symbol=IAUM) | iShares Gold Trust Micro | IAUM |
-| 97 | 100 | $21.81 | [Chart](https://www.tradingview.com/chart/?symbol=OR) | Osisko Gold Royalties Ltd | OR |
+| 97 | 100 | $292.35 | [Chart](https://www.tradingview.com/chart/?symbol=GLD) | SPDR Gold Trust, SPDR Gold Shares | GLD |
 | 97 | 100 | $240.23 | [Chart](https://www.tradingview.com/chart/?symbol=RSG) | Republic Services Inc. | RSG |
+| 97 | 100 | $31.63 | [Chart](https://www.tradingview.com/chart/?symbol=IAUM) | iShares Gold Trust Micro | IAUM |
+| 97 | 100 | $31.26 | [Chart](https://www.tradingview.com/chart/?symbol=BAR) | GraniteShares Gold Shares | BAR |
+| 97 | 100 | $21.81 | [Chart](https://www.tradingview.com/chart/?symbol=OR) | Osisko Gold Royalties Ltd | OR |
+| 97 | 100 | $30.55 | [Chart](https://www.tradingview.com/chart/?symbol=OUNZ) | VanEck Merk Gold ETF | OUNZ |
+| 97 | 100 | $31.32 | [Chart](https://www.tradingview.com/chart/?symbol=AAAU) | Goldman Sachs Physical Gold ETF Shares | AAAU |
+| 97 | 100 | $24.32 | [Chart](https://www.tradingview.com/chart/?symbol=PHYS) | Sprott Physical Gold Trust | PHYS |
 | 96 | 100 | $37.48 | [Chart](https://www.tradingview.com/chart/?symbol=MRX) | Marex Group plc Ordinary Shares | MRX |
 | 95 | 100 | $52.15 | [Chart](https://www.tradingview.com/chart/?symbol=SKWD) | Skyward Specialty Insurance Group, Inc. Common Stock | SKWD |
 | 95 | 100 | $27.97 | [Chart](https://www.tradingview.com/chart/?symbol=CEF) | Sprott Physical Gold and Silver Trust | CEF |
@@ -139,20 +139,20 @@ The following 44 stocks show exceptional relative strength:
 | 94 | 100 | $102.13 | [Chart](https://www.tradingview.com/chart/?symbol=EHC) | Encompass Health Corporation Common Stock | EHC |
 | 94 | 100 | $273.18 | [Chart](https://www.tradingview.com/chart/?symbol=PGR) | Progressive Corporation | PGR |
 | 94 | 100 | $438.01 | [Chart](https://www.tradingview.com/chart/?symbol=CASY) | Casey's General Stores Inc | CASY |
-| 93 | 100 | $40.55 | [Chart](https://www.tradingview.com/chart/?symbol=BTI) | British American Tobacco p.l.c. American Depositary Shares, American Depositary Shares, each representing one Ordinary Share | BTI |
-| 93 | 100 | $153.92 | [Chart](https://www.tradingview.com/chart/?symbol=SFM) | Sprouts Farmers Market, Inc. | SFM |
 | 93 | 100 | $31.71 | [Chart](https://www.tradingview.com/chart/?symbol=KTOS) | Kratos Defense & Security Solutions, Inc. | KTOS |
 | 93 | 100 | $102.78 | [Chart](https://www.tradingview.com/chart/?symbol=ATGE) | Adtalem Global Education Inc. Common Shares | ATGE |
-| 92 | 100 | $113.25 | [Chart](https://www.tradingview.com/chart/?symbol=OLLI) | Ollie's Bargain Outlet Holdings, Inc. Common Stock | OLLI |
+| 93 | 100 | $40.55 | [Chart](https://www.tradingview.com/chart/?symbol=BTI) | British American Tobacco p.l.c. American Depositary Shares, American Depositary Shares, each representing one Ordinary Share | BTI |
+| 93 | 100 | $153.92 | [Chart](https://www.tradingview.com/chart/?symbol=SFM) | Sprouts Farmers Market, Inc. | SFM |
 | 92 | 100 | $47.50 | [Chart](https://www.tradingview.com/chart/?symbol=GFL) | GFL Environmental Inc. Subordinate Voting Shares | GFL |
+| 92 | 100 | $113.25 | [Chart](https://www.tradingview.com/chart/?symbol=OLLI) | Ollie's Bargain Outlet Holdings, Inc. Common Stock | OLLI |
 | 91 | 100 | $114.00 | [Chart](https://www.tradingview.com/chart/?symbol=CWST) | Casella Waste Systems Inc | CWST |
 | 90 | 100 | $127.47 | [Chart](https://www.tradingview.com/chart/?symbol=TJX) | TJX Companies, Inc. (The) | TJX |
-| 89 | 100 | $33.96 | [Chart](https://www.tradingview.com/chart/?symbol=DRS) | Leonardo DRS, Inc. Common Stock | DRS |
 | 89 | 100 | $44.75 | [Chart](https://www.tradingview.com/chart/?symbol=MRCY) | Mercury Systems Inc. | MRCY |
+| 89 | 100 | $33.96 | [Chart](https://www.tradingview.com/chart/?symbol=DRS) | Leonardo DRS, Inc. Common Stock | DRS |
 | 88 | 97 | $75.79 | [Chart](https://www.tradingview.com/chart/?symbol=FAST) | Fastenal Co | FAST |
 | 85 | 97 | $22.48 | [Chart](https://www.tradingview.com/chart/?symbol=ATSG) | Air Transport Services Group, Inc. | ATSG |
-| 85 | 96 | $74.01 | [Chart](https://www.tradingview.com/chart/?symbol=BRBR) | BellRing Brands, Inc. | BRBR |
 | 85 | 96 | $35.94 | [Chart](https://www.tradingview.com/chart/?symbol=FYBR) | Frontier Communications Parent, Inc. Common Stock | FYBR |
+| 85 | 96 | $74.01 | [Chart](https://www.tradingview.com/chart/?symbol=BRBR) | BellRing Brands, Inc. | BRBR |
 | 83 | 96 | $111.60 | [Chart](https://www.tradingview.com/chart/?symbol=BOXX) | Alpha Architect 1-3 Month Box ETF | BOXX |
 
 ---
@@ -197,8 +197,8 @@ The following 36 stocks show deteriorating relative strength:
 | 30 | 76 | $22.11 | [Chart](https://www.tradingview.com/chart/?symbol=AMRK) | A-Mark Precious Metals, Inc. | AMRK |
 | 39 | 72 | $10.30 | [Chart](https://www.tradingview.com/chart/?symbol=CSTM) | Constellium SE Class A Ordinary shares | CSTM |
 | 36 | 70 | $10.90 | [Chart](https://www.tradingview.com/chart/?symbol=LBTYK) | Liberty Global Ltd. Class C Common Shares | LBTYK |
-| 36 | 69 | $10.34 | [Chart](https://www.tradingview.com/chart/?symbol=CMRE) | Costamare Inc. | CMRE |
 | 36 | 69 | $16.74 | [Chart](https://www.tradingview.com/chart/?symbol=CTRI) | Centuri Holdings, Inc. | CTRI |
+| 36 | 69 | $10.34 | [Chart](https://www.tradingview.com/chart/?symbol=CMRE) | Costamare Inc. | CMRE |
 | 38 | 63 | $34.28 | [Chart](https://www.tradingview.com/chart/?symbol=LIT) | Global X Lithium & Battery Tech ETF | LIT |
 
 ## **Methodology**
