@@ -1,11 +1,7 @@
 ---
 layout: home
-title: Market Reports Dashboard
-permalink: /
+title: O'Neil Relative Strength Market Reports
 ---
-
-{% assign reports = site.static_files | where_exp: "file", "file.path contains 'oneil_relative_strength_report_'" | sort: 'path' | reverse %}
-{% assign latest_report = reports[0].path | split: '/' | last | split: '.' | first %}
 
 <div class="home-content">
   <h1>Daily Market Strength Reports</h1>
@@ -13,11 +9,11 @@ permalink: /
   
   <div class="latest-report">
     <h2>Latest Report</h2>
-    <a href="{{ site.baseurl }}/{{ latest_report }}" class="report-button">View Latest Report ({{ latest_report | split: '_' | last }})</a>
+    <a href="oneil_relative_strength_report_2025-04-11" class="report-button">View Latest Report (2025-04-11)</a>
   </div>
   
   <div class="archive-link">
-    <p>Looking for older reports? <a href="{{ site.baseurl }}/archive">Browse the Archive</a></p>
+    <p>Looking for older reports? <a href="archive">Browse the Archive</a></p>
   </div>
 </div>
 

@@ -35,7 +35,7 @@ defaults:
       path: ""
       extname: ".md"
     values:
-      layout: "page"
+      layout: "report"
 
 # Archived reports directory
 include:
