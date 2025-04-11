@@ -1,4 +1,4 @@
-title: Daily Market Strength Reports
+title: Daily Market Strength Report
 description: Automated market analysis using William O'Neil's relative strength methodology
 baseurl: "/market_reports"  # Updated to match your repository name
 url: "https://hellostudentworld.github.io"
@@ -35,7 +35,7 @@ defaults:
       path: ""
       extname: ".md"
     values:
-      layout: "report"
+      layout: "page"
 
 # Archived reports directory
 include:

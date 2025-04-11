@@ -3,14 +3,45 @@ layout: default
 ---
 
 <div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+  <header class="home-header">
+    <div class="container">
+      {%- if page.title -%}
+        <h1 class="page-heading">{{ page.title }}</h1>
+      {%- endif -%}
+    </div>
+  </header>
 
-  {{ content }}
-
-  <div class="footer-content">
-    <p>© {{ site.time | date: '%Y' }} Market Reports. Generated daily at 1:10 PM Los Angeles time.</p>
-    <p>Powered by <a href="https://github.com/features/actions">GitHub Actions</a> and enhanced with ChatGPT.</p>
+  <div class="container">
+    {{ content }}
   </div>
+
+  <footer class="site-footer">
+    <div class="container">
+      <div class="footer-content">
+        <p>© {{ site.time | date: '%Y' }} Market Reports. Generated daily at 1:10 PM Los Angeles time.</p>
+        <p>Powered by <a href="https://github.com/features/actions">GitHub Actions</a> and enhanced with ChatGPT.</p>
+      </div>
+    </div>
+  </footer>
 </div>
+
+<style>
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+  }
+  .home-header {
+    background-color: #f6f8fa;
+    padding: 2rem 0;
+    margin-bottom: 2rem;
+    border-bottom: 1px solid #e1e4e8;
+  }
+  .site-footer {
+    margin-top: 3rem;
+    padding: 2rem 0;
+    border-top: 1px solid #e1e4e8;
+    background-color: #f6f8fa;
+    text-align: center;
+  }
+</style>
