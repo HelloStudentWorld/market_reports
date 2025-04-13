@@ -64,8 +64,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [XLC](https://www.tradingview.com/chart/?symbol=XLC) | 50.0 | 60.0 | -6.16% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | Communications |
 | [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 49.4 | 39.0 | -14.34% | 10d ✓, 50d ✗, 200d ✗ | ↗️ | Fintech Innovation |
 | [UUP](https://www.tradingview.com/chart/?symbol=UUP) | 48.5 | 57.0 | -7.29% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | U.S. Dollar |
-| [XLK](https://www.tradingview.com/chart/?symbol=XLK) | 48.4 | 37.0 | -15.19% | 10d ✓, 50d ✗, 200d ✗ | ↗️ | Technology |
 | [BIL](https://www.tradingview.com/chart/?symbol=BIL) | 48.4 | 77.0 | 0.05% | 10d ✓, 50d ✗, 200d ✗ | ↘️ | Short-term Treasuries |
+| [XLK](https://www.tradingview.com/chart/?symbol=XLK) | 48.4 | 37.0 | -15.19% | 10d ✓, 50d ✗, 200d ✗ | ↗️ | Technology |
 | [ICLN](https://www.tradingview.com/chart/?symbol=ICLN) | 45.4 | 71.0 | -2.08% | 10d ✓, 50d ✗, 200d ✗ | ↘️ | Clean Energy |
 | [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 44.9 | 30.0 | -18.28% | 10d ✓, 50d ✗, 200d ✗ | ↗️ | Blockchain & Cryptocurrency |
 | [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 43.0 | 46.0 | -11.49% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | Artificial Intelligence & Technology |
@@ -81,8 +81,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [ARKG](https://www.tradingview.com/chart/?symbol=ARKG) | 25.4 | 31.0 | -17.76% | 10d ✓, 50d ✗, 200d ✗ | ↘️ | Genomics |
 | [XLE](https://www.tradingview.com/chart/?symbol=XLE) | 24.5 | 49.0 | -10.38% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Energy |
 | [URA](https://www.tradingview.com/chart/?symbol=URA) | 24.4 | 29.0 | -18.64% | 10d ✓, 50d ✗, 200d ✗ | ↘️ | Uranium |
-| [ITB](https://www.tradingview.com/chart/?symbol=ITB) | 20.5 | 41.0 | -13.17% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Home Construction |
 | [IBB](https://www.tradingview.com/chart/?symbol=IBB) | 20.5 | 41.0 | -13.25% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Biotechnology |
+| [ITB](https://www.tradingview.com/chart/?symbol=ITB) | 20.5 | 41.0 | -13.17% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Home Construction |
 | [SOXX](https://www.tradingview.com/chart/?symbol=SOXX) | 10.5 | 21.0 | -22.94% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Semiconductors |
 
 ### **Sector ETF Performance Interpretation**
