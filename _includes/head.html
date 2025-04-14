@@ -11,4 +11,37 @@
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const strengthReportLink = document.getElementById('latestStrengthReport');
+      if (strengthReportLink) {
+        fetch('/market_reports/')
+          .then(response => response.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const doc = parser.parseFromString(html, 'text/html');
+            const links = Array.from(doc.querySelectorAll('a[href]'));
+            
+            // Find the latest oneil_relative_strength_report file
+            const reportLinks = links
+              .map(link => link.getAttribute('href'))
+              .filter(href => href && href.startsWith('oneil_relative_strength_report_'))
+              .sort()
+              .reverse();
+            
+            if (reportLinks.length > 0) {
+              strengthReportLink.href = reportLinks[0];
+            } else {
+              console.error('No relative strength reports found');
+              strengthReportLink.href = '#';
+            }
+          })
+          .catch(error => {
+            console.error('Error finding latest report:', error);
+            strengthReportLink.href = '#';
+          });
+      }
+    });
+  </script>
 </head>
