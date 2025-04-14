@@ -16,31 +16,64 @@
     document.addEventListener('DOMContentLoaded', function() {
       const strengthReportLink = document.getElementById('latestStrengthReport');
       if (strengthReportLink) {
-        fetch('/market_reports/')
-          .then(response => response.text())
-          .then(html => {
-            const parser = new DOMParser();
-            const doc = parser.parseFromString(html, 'text/html');
-            const links = Array.from(doc.querySelectorAll('a[href]'));
+        // Check for the latest report in the current directory
+        let currentReport = null;
+        
+        // Set initial link to the latest available file
+        if (typeof latestReportDate !== 'undefined') {
+          // If Jekyll provides this variable
+          currentReport = 'oneil_relative_strength_report_' + latestReportDate;
+          strengthReportLink.href = currentReport;
+        } else {
+          // Fallback - check existing files directly
+          const today = new Date();
+          
+          // Try the current date first
+          const year = today.getFullYear();
+          const month = String(today.getMonth() + 1).padStart(2, '0');
+          const day = String(today.getDate()).padStart(2, '0');
+          const dateStr = `${year}-${month}-${day}`;
+          
+          // Try looking for files with the current date, then fallback to checking previous days
+          const checkReport = (date) => {
+            const reportPath = `oneil_relative_strength_report_${date}`;
             
-            // Find the latest oneil_relative_strength_report file
-            const reportLinks = links
-              .map(link => link.getAttribute('href'))
-              .filter(href => href && href.startsWith('oneil_relative_strength_report_'))
-              .sort()
-              .reverse();
-            
-            if (reportLinks.length > 0) {
-              strengthReportLink.href = reportLinks[0];
-            } else {
-              console.error('No relative strength reports found');
-              strengthReportLink.href = '#';
-            }
-          })
-          .catch(error => {
-            console.error('Error finding latest report:', error);
-            strengthReportLink.href = '#';
-          });
+            // Use a HEAD request to check if the file exists
+            fetch(reportPath, { method: 'HEAD' })
+              .then(response => {
+                if (response.ok) {
+                  strengthReportLink.href = reportPath;
+                } else {
+                  // If file not found and we're checking today's date, try archived reports
+                  if (date === dateStr) {
+                    // Look in archived reports folder
+                    fetch(`archived_reports/oneil_relative_strength_report_${date}`, { method: 'HEAD' })
+                      .then(archiveResponse => {
+                        if (archiveResponse.ok) {
+                          strengthReportLink.href = `archived_reports/oneil_relative_strength_report_${date}`;
+                        } else {
+                          // Try yesterday
+                          const yesterday = new Date(today);
+                          yesterday.setDate(yesterday.getDate() - 1);
+                          const yyear = yesterday.getFullYear();
+                          const ymonth = String(yesterday.getMonth() + 1).padStart(2, '0');
+                          const yday = String(yesterday.getDate()).padStart(2, '0');
+                          const yesterdayStr = `${yyear}-${ymonth}-${yday}`;
+                          
+                          checkReport(yesterdayStr);
+                        }
+                      });
+                  }
+                }
+              })
+              .catch(error => {
+                console.error('Error checking report:', error);
+              });
+          };
+          
+          // Start the checking process with today's date
+          checkReport(dateStr);
+        }
       }
     });
   </script>
