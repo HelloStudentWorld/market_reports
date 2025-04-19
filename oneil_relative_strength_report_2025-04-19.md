@@ -66,11 +66,11 @@ Based on William O'Neil's Relative Strength Methodology
 | [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 51.4 | 43.0 | -13.01% | 10d ✓, 50d ✗, 200d ✗ | ↗️ | Artificial Intelligence & Technology |
 | [PAVE](https://www.tradingview.com/chart/?symbol=PAVE) | 50.4 | 41.0 | -13.99% | 10d ✓, 50d ✗, 200d ✗ | ↗️ | Infrastructure |
 | [IYT](https://www.tradingview.com/chart/?symbol=IYT) | 48.9 | 38.0 | -15.15% | 10d ✓, 50d ✗, 200d ✗ | ↗️ | Transportation |
-| [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 48.4 | 37.0 | -15.58% | 10d ✓, 50d ✗, 200d ✗ | ↗️ | Fintech Innovation |
 | [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 48.4 | 37.0 | -15.46% | 10d ✓, 50d ✗, 200d ✗ | ↗️ | Next Generation Internet |
+| [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 48.4 | 37.0 | -15.58% | 10d ✓, 50d ✗, 200d ✗ | ↗️ | Fintech Innovation |
 | [UUP](https://www.tradingview.com/chart/?symbol=UUP) | 48.0 | 56.0 | -7.80% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | U.S. Dollar |
-| [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 40.4 | 21.0 | -23.10% | 10d ✓, 50d ✗, 200d ✗ | ↗️ | Innovation |
 | [DBC](https://www.tradingview.com/chart/?symbol=DBC) | 40.4 | 61.0 | -5.73% | 10d ✓, 50d ✗, 200d ✗ | ↘️ | Commodities |
+| [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 40.4 | 21.0 | -23.10% | 10d ✓, 50d ✗, 200d ✗ | ↗️ | Innovation |
 | [TLT](https://www.tradingview.com/chart/?symbol=TLT) | 38.5 | 77.0 | 0.89% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Long-term Treasuries |
 | [XLB](https://www.tradingview.com/chart/?symbol=XLB) | 38.4 | 57.0 | -7.23% | 10d ✓, 50d ✗, 200d ✗ | ↘️ | Materials |
 | [JETS](https://www.tradingview.com/chart/?symbol=JETS) | 37.9 | 16.0 | -27.47% | 10d ✓, 50d ✗, 200d ✗ | ↗️ | Airlines |
