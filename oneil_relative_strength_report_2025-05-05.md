@@ -270,10 +270,10 @@ The following 97 stocks show deteriorating relative strength:
 | 9 | 96 | $10.77 | [Chart](https://www.tradingview.com/chart/?symbol=SONO) | Sonos, Inc. Common Stock | SONO |
 | 15 | 96 | $16.32 | [Chart](https://www.tradingview.com/chart/?symbol=MLKN) | MillerKnoll, Inc. Common Stock | MLKN |
 | 19 | 96 | $10.95 | [Chart](https://www.tradingview.com/chart/?symbol=GES) | Guess?, Inc. | GES |
-| 7 | 95 | $111.86 | [Chart](https://www.tradingview.com/chart/?symbol=BLDR) | Builders FirstSource, Inc. | BLDR |
 | 9 | 95 | $34.94 | [Chart](https://www.tradingview.com/chart/?symbol=CRC) | California Resources Corporation | CRC |
 | 15 | 95 | $11.84 | [Chart](https://www.tradingview.com/chart/?symbol=M) | Macy's Inc. | M |
 | 17 | 95 | $15.27 | [Chart](https://www.tradingview.com/chart/?symbol=PSFE) | Paysafe Limited | PSFE |
+| 7 | 94 | $111.86 | [Chart](https://www.tradingview.com/chart/?symbol=BLDR) | Builders FirstSource, Inc. | BLDR |
 | 9 | 94 | $10.31 | [Chart](https://www.tradingview.com/chart/?symbol=VREX) | Varex Imaging Corporation Common Stock | VREX |
 | 11 | 94 | $25.07 | [Chart](https://www.tradingview.com/chart/?symbol=AA) | Alcoa Corporation | AA |
 | 16 | 94 | $25.80 | [Chart](https://www.tradingview.com/chart/?symbol=GDEN) | Golden Entertainment, Inc. Common Stock | GDEN |
