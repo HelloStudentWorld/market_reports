@@ -9,11 +9,11 @@
 | Metric | Value |
 |--------|-------|
 | **Market Valuation** | **Fair Valued** |
-| **Current Ratio** | 9.57 |
-| **Historical Mean** | 9.39 |
+| **Current Ratio** | 9.58 |
+| **Historical Mean** | 9.38 |
 | **Standard Deviation** | 0.49 |
-| **Z-Score (StdDev from Mean)** | 0.71 |
-| **Total Market Cap** | $286.77 trillion |
+| **Z-Score (StdDev from Mean)** | 0.37 |
+| **Total Market Cap** | $287.15 trillion |
 | **GDP** | $29.98 trillion |
 
 ## **Market Insights**
@@ -49,41 +49,41 @@ Based on William O'Neil's Relative Strength Methodology
 
 | ETF | Strength | RS Rating | Performance | Above Key MAs | Trend | Sector |
 |-----|----------|-----------|-------------|--------------|-------|--------|
-| [GLD](https://www.tradingview.com/chart/?symbol=GLD) | 96.0 | 92.0 | 12.85% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Gold |
-| [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 93.5 | 87.0 | 9.01% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
-| [XLI](https://www.tradingview.com/chart/?symbol=XLI) | 88.0 | 76.0 | 2.51% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Industrial |
-| [SLV](https://www.tradingview.com/chart/?symbol=SLV) | 87.5 | 75.0 | 1.87% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Silver |
-| [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 86.5 | 73.0 | 1.26% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Utilities |
-| [CIBR](https://www.tradingview.com/chart/?symbol=CIBR) | 86.0 | 72.0 | 0.63% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Cybersecurity |
-| [XLP](https://www.tradingview.com/chart/?symbol=XLP) | 85.5 | 71.0 | 0.50% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Consumer Staples |
-| [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 81.5 | 63.0 | -1.19% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
-| [DBA](https://www.tradingview.com/chart/?symbol=DBA) | 80.5 | 61.0 | -1.91% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Agriculture |
-| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 79.0 | 58.0 | -2.79% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
-| [XLC](https://www.tradingview.com/chart/?symbol=XLC) | 78.0 | 56.0 | -3.43% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Communications |
-| [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 76.5 | 53.0 | -4.44% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
-| [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 75.5 | 51.0 | -4.76% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
-| [ICLN](https://www.tradingview.com/chart/?symbol=ICLN) | 75.0 | 90.0 | 10.94% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Clean Energy |
-| [PAVE](https://www.tradingview.com/chart/?symbol=PAVE) | 72.6 | 65.0 | -0.84% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Infrastructure |
-| [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 70.1 | 60.0 | -2.14% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Financial |
-| [URA](https://www.tradingview.com/chart/?symbol=URA) | 69.0 | 78.0 | 3.60% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Uranium |
-| [KWEB](https://www.tradingview.com/chart/?symbol=KWEB) | 65.1 | 50.0 | -4.78% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Chinese Internet |
-| [BIL](https://www.tradingview.com/chart/?symbol=BIL) | 64.5 | 69.0 | 0.00% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Short-term Treasuries |
-| [XLY](https://www.tradingview.com/chart/?symbol=XLY) | 63.6 | 47.0 | -5.64% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Consumer Discretionary |
-| [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 53.1 | 26.0 | -12.97% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Innovation |
-| [IYR](https://www.tradingview.com/chart/?symbol=IYR) | 46.0 | 52.0 | -4.60% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | Real Estate |
-| [XLK](https://www.tradingview.com/chart/?symbol=XLK) | 44.6 | 49.0 | -5.02% | 10d ✗, 50d ✓, 200d ✓ | ↘️ | Technology |
-| [JETS](https://www.tradingview.com/chart/?symbol=JETS) | 40.9 | 22.0 | -14.76% | 10d ✗, 50d ✓, 200d ✗ | ↗️ | Airlines |
-| [XLB](https://www.tradingview.com/chart/?symbol=XLB) | 36.9 | 54.0 | -4.18% | 10d ✗, 50d ✓, 200d ✗ | ↘️ | Materials |
-| [DBC](https://www.tradingview.com/chart/?symbol=DBC) | 31.4 | 43.0 | -6.88% | 10d ✓, 50d ✗, 200d ✗ | ↘️ | Commodities |
-| [IYT](https://www.tradingview.com/chart/?symbol=IYT) | 27.9 | 36.0 | -9.13% | 10d ✗, 50d ✓, 200d ✗ | ↘️ | Transportation |
-| [SOXX](https://www.tradingview.com/chart/?symbol=SOXX) | 26.4 | 33.0 | -10.13% | 10d ✗, 50d ✓, 200d ✗ | ↘️ | Semiconductors |
-| [TLT](https://www.tradingview.com/chart/?symbol=TLT) | 24.5 | 49.0 | -5.16% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Long-term Treasuries |
-| [UUP](https://www.tradingview.com/chart/?symbol=UUP) | 24.5 | 49.0 | -5.14% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | U.S. Dollar |
-| [IBB](https://www.tradingview.com/chart/?symbol=IBB) | 23.4 | 27.0 | -12.72% | 10d ✓, 50d ✗, 200d ✗ | ↘️ | Biotechnology |
-| [ITB](https://www.tradingview.com/chart/?symbol=ITB) | 16.5 | 33.0 | -10.16% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Home Construction |
-| [XLV](https://www.tradingview.com/chart/?symbol=XLV) | 16.0 | 32.0 | -10.62% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Healthcare |
-| [XLE](https://www.tradingview.com/chart/?symbol=XLE) | 14.5 | 29.0 | -11.64% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Energy |
-| [ARKG](https://www.tradingview.com/chart/?symbol=ARKG) | 3.5 | 7.0 | -27.49% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Genomics |
+| [GLD](https://www.tradingview.com/chart/?symbol=GLD) | 95.0 | 90.0 | 11.35% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Gold |
+| [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 92.5 | 85.0 | 8.34% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
+| [SLV](https://www.tradingview.com/chart/?symbol=SLV) | 86.5 | 73.0 | 1.57% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Silver |
+| [CIBR](https://www.tradingview.com/chart/?symbol=CIBR) | 85.0 | 70.0 | 0.63% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Cybersecurity |
+| [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 81.0 | 62.0 | -1.19% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
+| [XLI](https://www.tradingview.com/chart/?symbol=XLI) | 80.1 | 80.0 | 5.04% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Industrial |
+| [XLC](https://www.tradingview.com/chart/?symbol=XLC) | 79.5 | 59.0 | -1.76% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Communications |
+| [DBA](https://www.tradingview.com/chart/?symbol=DBA) | 79.0 | 58.0 | -1.91% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Agriculture |
+| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 77.5 | 55.0 | -2.79% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
+| [PAVE](https://www.tradingview.com/chart/?symbol=PAVE) | 77.1 | 74.0 | 2.42% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Infrastructure |
+| [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 74.5 | 49.0 | -4.44% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
+| [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 74.0 | 48.0 | -4.71% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Innovation |
+| [URA](https://www.tradingview.com/chart/?symbol=URA) | 74.0 | 88.0 | 9.70% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Uranium |
+| [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 73.5 | 47.0 | -4.76% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
+| [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 72.6 | 65.0 | -0.36% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Utilities |
+| [XLP](https://www.tradingview.com/chart/?symbol=XLP) | 70.1 | 60.0 | -1.56% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Consumer Staples |
+| [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 70.1 | 60.0 | -1.62% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Financial |
+| [KWEB](https://www.tradingview.com/chart/?symbol=KWEB) | 69.1 | 58.0 | -2.07% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Chinese Internet |
+| [XLY](https://www.tradingview.com/chart/?symbol=XLY) | 68.1 | 56.0 | -2.53% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Consumer Discretionary |
+| [BIL](https://www.tradingview.com/chart/?symbol=BIL) | 63.5 | 67.0 | -0.03% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Short-term Treasuries |
+| [ICLN](https://www.tradingview.com/chart/?symbol=ICLN) | 52.9 | 86.0 | 8.46% | 10d ✗, 50d ✓, 200d ✗ | ↘️ | Clean Energy |
+| [XLK](https://www.tradingview.com/chart/?symbol=XLK) | 52.6 | 65.0 | -0.40% | 10d ✗, 50d ✓, 200d ✓ | ↘️ | Technology |
+| [JETS](https://www.tradingview.com/chart/?symbol=JETS) | 43.9 | 28.0 | -11.41% | 10d ✗, 50d ✓, 200d ✗ | ↗️ | Airlines |
+| [IYR](https://www.tradingview.com/chart/?symbol=IYR) | 43.5 | 47.0 | -4.84% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | Real Estate |
+| [XLB](https://www.tradingview.com/chart/?symbol=XLB) | 37.4 | 55.0 | -2.69% | 10d ✗, 50d ✓, 200d ✗ | ↘️ | Materials |
+| [SOXX](https://www.tradingview.com/chart/?symbol=SOXX) | 34.4 | 49.0 | -4.50% | 10d ✗, 50d ✓, 200d ✗ | ↘️ | Semiconductors |
+| [DBC](https://www.tradingview.com/chart/?symbol=DBC) | 29.9 | 40.0 | -6.88% | 10d ✓, 50d ✗, 200d ✗ | ↘️ | Commodities |
+| [IYT](https://www.tradingview.com/chart/?symbol=IYT) | 26.4 | 33.0 | -9.13% | 10d ✗, 50d ✓, 200d ✗ | ↘️ | Transportation |
+| [UUP](https://www.tradingview.com/chart/?symbol=UUP) | 23.0 | 46.0 | -5.29% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | U.S. Dollar |
+| [IBB](https://www.tradingview.com/chart/?symbol=IBB) | 22.4 | 25.0 | -12.43% | 10d ✓, 50d ✗, 200d ✗ | ↘️ | Biotechnology |
+| [TLT](https://www.tradingview.com/chart/?symbol=TLT) | 20.0 | 40.0 | -6.91% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Long-term Treasuries |
+| [ITB](https://www.tradingview.com/chart/?symbol=ITB) | 18.0 | 36.0 | -8.10% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Home Construction |
+| [XLE](https://www.tradingview.com/chart/?symbol=XLE) | 15.0 | 30.0 | -10.83% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Energy |
+| [XLV](https://www.tradingview.com/chart/?symbol=XLV) | 14.0 | 28.0 | -11.40% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Healthcare |
+| [ARKG](https://www.tradingview.com/chart/?symbol=ARKG) | 5.5 | 11.0 | -21.39% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Genomics |
 
 ### **Sector ETF Performance Interpretation**
 
@@ -98,216 +98,239 @@ This table shows the relative strength metrics for different market sectors base
 
 ### **Current Sector Leadership**
 
-The current market leadership is coming from the following sectors: **Gold, Blockchain & Cryptocurrency, Industrial**.
+The current market leadership is coming from the following sectors: **Gold, Blockchain & Cryptocurrency, Silver**.
 
-The **Gold** sector (represented by **GLD**) is showing particularly strong relative strength with an RS rating of 92.0 and performance of 12.85% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
+The **Gold** sector (represented by **GLD**) is showing particularly strong relative strength with an RS rating of 90.0 and performance of 11.35% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
 
 ---
 
 ## **Buy Recommendations**
 
-The following 97 stocks show exceptional relative strength:
+The following 88 stocks show exceptional relative strength:
 
 | RS Rating | Buy Score | Current Price | Chart | Name | Ticker |
 |-----------|-----------|---------------|-------|------|--------|
+| 100 | 100 | $102.39 | [Chart](https://www.tradingview.com/chart/?symbol=SEZL) | Sezzle Inc. Common Stock | SEZL |
+| 100 | 100 | $28.33 | [Chart](https://www.tradingview.com/chart/?symbol=DB) | Deutsche Bank Aktiengesellschaft | DB |
 | 100 | 100 | $193.70 | [Chart](https://www.tradingview.com/chart/?symbol=DAVE) | Dave Inc. Class A Common Stock | DAVE |
-| 100 | 100 | $28.45 | [Chart](https://www.tradingview.com/chart/?symbol=DB) | Deutsche Bank Aktiengesellschaft | DB |
-| 100 | 100 | $99.11 | [Chart](https://www.tradingview.com/chart/?symbol=SEZL) | Sezzle Inc. Common Stock | SEZL |
-| 100 | 100 | $193.13 | [Chart](https://www.tradingview.com/chart/?symbol=AGX) | Argan, Inc | AGX |
-| 100 | 100 | $155.47 | [Chart](https://www.tradingview.com/chart/?symbol=NRG) | NRG Energy, Inc. | NRG |
-| 100 | 100 | $24.38 | [Chart](https://www.tradingview.com/chart/?symbol=GRND) | Grindr Inc. | GRND |
 | 100 | 100 | $23.16 | [Chart](https://www.tradingview.com/chart/?symbol=PRA) | ProAssurance Corporation | PRA |
-| 100 | 100 | $735.38 | [Chart](https://www.tradingview.com/chart/?symbol=AXON) | Axon Enterprise, Inc. Common Stock | AXON |
-| 99 | 100 | $29.80 | [Chart](https://www.tradingview.com/chart/?symbol=FMS) | Fresenius Medical Care AG | FMS |
+| 100 | 100 | $296.92 | [Chart](https://www.tradingview.com/chart/?symbol=CVNA) | Carvana Co. | CVNA |
 | 99 | 100 | $161.54 | [Chart](https://www.tradingview.com/chart/?symbol=PLMR) | Palomar Holdings, Inc. Common stock | PLMR |
-| 99 | 100 | $26.54 | [Chart](https://www.tradingview.com/chart/?symbol=UVE) | UNIVERSAL INSURANCE HLDG, INC. | UVE |
+| 99 | 100 | $54.81 | [Chart](https://www.tradingview.com/chart/?symbol=SHLD) | Global X Defense Tech ETF | SHLD |
 | 99 | 100 | $71.54 | [Chart](https://www.tradingview.com/chart/?symbol=ULS) | UL Solutions Inc. | ULS |
+| 99 | 100 | $82.29 | [Chart](https://www.tradingview.com/chart/?symbol=RBLX) | Roblox Corporation | RBLX |
+| 99 | 100 | $89.62 | [Chart](https://www.tradingview.com/chart/?symbol=RBRK) | Rubrik, Inc. | RBRK |
+| 99 | 100 | $35.73 | [Chart](https://www.tradingview.com/chart/?symbol=UTI) | Universal Technical Institute, Inc. | UTI |
+| 99 | 100 | $735.38 | [Chart](https://www.tradingview.com/chart/?symbol=AXON) | Axon Enterprise, Inc. Common Stock | AXON |
 | 99 | 100 | $38.66 | [Chart](https://www.tradingview.com/chart/?symbol=PAY) | Paymentus Holdings, Inc. | PAY |
-| 99 | 100 | $24.98 | [Chart](https://www.tradingview.com/chart/?symbol=OR) | OR Royalties Inc. | OR |
-| 99 | 100 | $81.16 | [Chart](https://www.tradingview.com/chart/?symbol=RBLX) | Roblox Corporation | RBLX |
-| 99 | 100 | $54.94 | [Chart](https://www.tradingview.com/chart/?symbol=SHLD) | Global X Defense Tech ETF | SHLD |
-| 98 | 100 | $130.70 | [Chart](https://www.tradingview.com/chart/?symbol=ATGE) | Adtalem Global Education Inc. Common Shares | ATGE |
-| 98 | 100 | $43.72 | [Chart](https://www.tradingview.com/chart/?symbol=EXEL) | Exelixis Inc | EXEL |
-| 98 | 100 | $37.00 | [Chart](https://www.tradingview.com/chart/?symbol=AS) | Amer Sports, Inc. | AS |
+| 99 | 100 | $193.13 | [Chart](https://www.tradingview.com/chart/?symbol=AGX) | Argan, Inc | AGX |
 | 98 | 100 | $21.32 | [Chart](https://www.tradingview.com/chart/?symbol=TFPM) | Triple Flag Precious Metals Corp. | TFPM |
-| 97 | 100 | $98.34 | [Chart](https://www.tradingview.com/chart/?symbol=LBRDK) | Liberty Broadband Corporation Class C | LBRDK |
-| 97 | 100 | $43.16 | [Chart](https://www.tradingview.com/chart/?symbol=EWP) | iShares MSCI Spain ETF | EWP |
-| 97 | 100 | $141.11 | [Chart](https://www.tradingview.com/chart/?symbol=UGL) | ProShares Ultra Gold | UGL |
-| 97 | 100 | $73.20 | [Chart](https://www.tradingview.com/chart/?symbol=WRB) | W.R. Berkley Corporation | WRB |
-| 97 | 100 | $35.32 | [Chart](https://www.tradingview.com/chart/?symbol=UTI) | Universal Technical Institute, Inc. | UTI |
-| 97 | 100 | $87.75 | [Chart](https://www.tradingview.com/chart/?symbol=RBRK) | Rubrik, Inc. | RBRK |
-| 97 | 100 | $85.27 | [Chart](https://www.tradingview.com/chart/?symbol=WPM) | Wheaton Precious Metals Corp. Common Stock | WPM |
-| 97 | 100 | $163.26 | [Chart](https://www.tradingview.com/chart/?symbol=SE) | Sea Limited American Depositary Shares, each representing one Class A Ordinary Share | SE |
+| 98 | 100 | $64.64 | [Chart](https://www.tradingview.com/chart/?symbol=HOOD) | Robinhood Markets, Inc. Class A Common Stock | HOOD |
+| 98 | 100 | $29.61 | [Chart](https://www.tradingview.com/chart/?symbol=FMS) | Fresenius Medical Care AG | FMS |
+| 98 | 100 | $26.54 | [Chart](https://www.tradingview.com/chart/?symbol=UVE) | UNIVERSAL INSURANCE HLDG, INC. | UVE |
+| 98 | 100 | $161.78 | [Chart](https://www.tradingview.com/chart/?symbol=SE) | Sea Limited American Depositary Shares, each representing one Class A Ordinary Share | SE |
+| 98 | 100 | $162.82 | [Chart](https://www.tradingview.com/chart/?symbol=HWM) | Howmet Aerospace Inc. | HWM |
+| 98 | 100 | $36.70 | [Chart](https://www.tradingview.com/chart/?symbol=AS) | Amer Sports, Inc. | AS |
+| 98 | 100 | $24.05 | [Chart](https://www.tradingview.com/chart/?symbol=GRND) | Grindr Inc. | GRND |
+| 97 | 100 | $130.70 | [Chart](https://www.tradingview.com/chart/?symbol=ATGE) | Adtalem Global Education Inc. Common Shares | ATGE |
+| 97 | 100 | $84.26 | [Chart](https://www.tradingview.com/chart/?symbol=WPM) | Wheaton Precious Metals Corp. Common Stock | WPM |
+| 96 | 100 | $43.16 | [Chart](https://www.tradingview.com/chart/?symbol=EWP) | iShares MSCI Spain ETF | EWP |
+| 96 | 100 | $138.44 | [Chart](https://www.tradingview.com/chart/?symbol=UGL) | ProShares Ultra Gold | UGL |
 | 96 | 100 | $119.85 | [Chart](https://www.tradingview.com/chart/?symbol=EHC) | Encompass Health Corporation Common Stock | EHC |
+| 96 | 100 | $1191.21 | [Chart](https://www.tradingview.com/chart/?symbol=NFLX) | NetFlix Inc | NFLX |
+| 96 | 100 | $152.50 | [Chart](https://www.tradingview.com/chart/?symbol=CAH) | Cardinal Health, Inc. | CAH |
 | 96 | 100 | $281.08 | [Chart](https://www.tradingview.com/chart/?symbol=VRSN) | VeriSign Inc | VRSN |
-| 96 | 100 | $153.31 | [Chart](https://www.tradingview.com/chart/?symbol=CAH) | Cardinal Health, Inc. | CAH |
-| 95 | 100 | $165.67 | [Chart](https://www.tradingview.com/chart/?symbol=FNV) | Franco-Nevada Corporation | FNV |
-| 95 | 100 | $1194.63 | [Chart](https://www.tradingview.com/chart/?symbol=NFLX) | NetFlix Inc | NFLX |
-| 95 | 100 | $31.69 | [Chart](https://www.tradingview.com/chart/?symbol=EUFN) | iShares MSCI Europe Financials ETF | EUFN |
-| 95 | 100 | $115.63 | [Chart](https://www.tradingview.com/chart/?symbol=AEM) | Agnico Eagle Mines Ltd. | AEM |
+| 95 | 100 | $63.02 | [Chart](https://www.tradingview.com/chart/?symbol=IBIT) | iShares Bitcoin Trust ETF | IBIT |
+| 95 | 100 | $97.78 | [Chart](https://www.tradingview.com/chart/?symbol=LBRDK) | Liberty Broadband Corporation Class C | LBRDK |
 | 95 | 100 | $179.70 | [Chart](https://www.tradingview.com/chart/?symbol=RGLD) | Royal Gold Inc | RGLD |
-| 95 | 100 | $31.27 | [Chart](https://www.tradingview.com/chart/?symbol=BCH) | Banco de ChileAmerican Depositary Shares (Each representing 200 shares of Common Stock) | BCH |
-| 95 | 100 | $162.76 | [Chart](https://www.tradingview.com/chart/?symbol=HWM) | Howmet Aerospace Inc. | HWM |
-| 95 | 100 | $47.65 | [Chart](https://www.tradingview.com/chart/?symbol=EWI) | iShares MSCI Italy ETF | EWI |
-| 94 | 100 | $129.62 | [Chart](https://www.tradingview.com/chart/?symbol=HIG) | The Hartford Insurance Group, Inc. | HIG |
-| 94 | 100 | $17.57 | [Chart](https://www.tradingview.com/chart/?symbol=BCS) | Barclays PLC | BCS |
-| 94 | 100 | $23.74 | [Chart](https://www.tradingview.com/chart/?symbol=BTSG) | BrightSpring Health Services, Inc. Common Stock | BTSG |
-| 94 | 100 | $74.09 | [Chart](https://www.tradingview.com/chart/?symbol=VRNA) | Verona Pharma plc | VRNA |
-| 94 | 100 | $174.64 | [Chart](https://www.tradingview.com/chart/?symbol=PM) | Philip Morris International Inc. | PM |
-| 94 | 100 | $41.68 | [Chart](https://www.tradingview.com/chart/?symbol=EWG) | iShares MSCI Germany ETF | EWG |
-| 94 | 100 | $44.46 | [Chart](https://www.tradingview.com/chart/?symbol=BTI) | British American Tobacco p.l.c. American Depositary Shares, American Depositary Shares, each representing one Ordinary Share | BTI |
-| 93 | 100 | $281.74 | [Chart](https://www.tradingview.com/chart/?symbol=CME) | CME Group Inc. | CME |
-| 93 | 100 | $117.50 | [Chart](https://www.tradingview.com/chart/?symbol=BJ) | BJs Wholesale Club Holdings, Inc. Common Stock | BJ |
-| 93 | 100 | $63.86 | [Chart](https://www.tradingview.com/chart/?symbol=HOOD) | Robinhood Markets, Inc. Class A Common Stock | HOOD |
-| 93 | 100 | $63.11 | [Chart](https://www.tradingview.com/chart/?symbol=SLF) | Sun Life Financial Inc. | SLF |
-| 92 | 100 | $31.98 | [Chart](https://www.tradingview.com/chart/?symbol=OUNZ) | VanEck Merk Gold ETF | OUNZ |
-| 92 | 100 | $324.50 | [Chart](https://www.tradingview.com/chart/?symbol=PODD) | Insulet Corporation | PODD |
-| 92 | 100 | $305.82 | [Chart](https://www.tradingview.com/chart/?symbol=GLD) | SPDR Gold Trust, SPDR Gold Shares | GLD |
-| 92 | 100 | $65.72 | [Chart](https://www.tradingview.com/chart/?symbol=GLDM) | SPDR Gold MiniShares | GLDM |
-| 92 | 100 | $62.59 | [Chart](https://www.tradingview.com/chart/?symbol=IAU) | iShares Gold Trust | IAU |
-| 92 | 100 | $32.78 | [Chart](https://www.tradingview.com/chart/?symbol=AAAU) | Goldman Sachs Physical Gold ETF Shares | AAAU |
-| 92 | 100 | $31.66 | [Chart](https://www.tradingview.com/chart/?symbol=SGOL) | abrdn Physical Gold Shares ETF | SGOL |
-| 92 | 100 | $33.09 | [Chart](https://www.tradingview.com/chart/?symbol=IAUM) | iShares Gold Trust Micro | IAUM |
-| 92 | 100 | $30.70 | [Chart](https://www.tradingview.com/chart/?symbol=TGS) | Transportadora de Gas del Sur S.A. ADS | TGS |
-| 92 | 100 | $25.20 | [Chart](https://www.tradingview.com/chart/?symbol=BSAC) | Banco Santander-Chile | BSAC |
-| 91 | 100 | $25.35 | [Chart](https://www.tradingview.com/chart/?symbol=PHYS) | Sprott Physical Gold Trust | PHYS |
-| 91 | 100 | $170.79 | [Chart](https://www.tradingview.com/chart/?symbol=ITA) | iShares U.S. Aerospace & Defense ETF | ITA |
-| 91 | 100 | $233.54 | [Chart](https://www.tradingview.com/chart/?symbol=GE) | GE Aerospace | GE |
-| 91 | 100 | $145.37 | [Chart](https://www.tradingview.com/chart/?symbol=TW) | Tradeweb Markets Inc. Class A Common Stock | TW |
-| 91 | 100 | $81.32 | [Chart](https://www.tradingview.com/chart/?symbol=NFG) | National Fuel Gas Co. | NFG |
-| 90 | 100 | $230.29 | [Chart](https://www.tradingview.com/chart/?symbol=CRS) | Carpenter Technology Corp | CRS |
-| 90 | 100 | $29.97 | [Chart](https://www.tradingview.com/chart/?symbol=NTGR) | NETGEAR, Inc. | NTGR |
-| 90 | 100 | $80.55 | [Chart](https://www.tradingview.com/chart/?symbol=LB) | LandBridge Company LLC | LB |
+| 94 | 100 | $47.65 | [Chart](https://www.tradingview.com/chart/?symbol=EWI) | iShares MSCI Italy ETF | EWI |
+| 94 | 100 | $114.21 | [Chart](https://www.tradingview.com/chart/?symbol=AEM) | Agnico Eagle Mines Ltd. | AEM |
+| 94 | 100 | $165.67 | [Chart](https://www.tradingview.com/chart/?symbol=FNV) | Franco-Nevada Corporation | FNV |
+| 94 | 100 | $231.89 | [Chart](https://www.tradingview.com/chart/?symbol=GE) | GE Aerospace | GE |
+| 94 | 100 | $31.27 | [Chart](https://www.tradingview.com/chart/?symbol=BCH) | Banco de ChileAmerican Depositary Shares (Each representing 200 shares of Common Stock) | BCH |
+| 94 | 100 | $18.00 | [Chart](https://www.tradingview.com/chart/?symbol=MIR) | Mirion Technologies, Inc. | MIR |
+| 94 | 100 | $43.27 | [Chart](https://www.tradingview.com/chart/?symbol=EXEL) | Exelixis Inc | EXEL |
+| 93 | 100 | $41.56 | [Chart](https://www.tradingview.com/chart/?symbol=EWG) | iShares MSCI Germany ETF | EWG |
+| 93 | 100 | $17.46 | [Chart](https://www.tradingview.com/chart/?symbol=BCS) | Barclays PLC | BCS |
+| 93 | 100 | $44.16 | [Chart](https://www.tradingview.com/chart/?symbol=BTI) | British American Tobacco p.l.c. American Depositary Shares, American Depositary Shares, each representing one Ordinary Share | BTI |
+| 93 | 100 | $129.62 | [Chart](https://www.tradingview.com/chart/?symbol=HIG) | The Hartford Insurance Group, Inc. | HIG |
+| 93 | 100 | $97.74 | [Chart](https://www.tradingview.com/chart/?symbol=JCI) | Johnson Controls International plc | JCI |
+| 92 | 100 | $63.11 | [Chart](https://www.tradingview.com/chart/?symbol=SLF) | Sun Life Financial Inc. | SLF |
+| 92 | 100 | $281.65 | [Chart](https://www.tradingview.com/chart/?symbol=CME) | CME Group Inc. | CME |
+| 92 | 100 | $74.46 | [Chart](https://www.tradingview.com/chart/?symbol=VRNA) | Verona Pharma plc | VRNA |
+| 91 | 100 | $115.97 | [Chart](https://www.tradingview.com/chart/?symbol=BJ) | BJs Wholesale Club Holdings, Inc. Common Stock | BJ |
+| 91 | 100 | $25.20 | [Chart](https://www.tradingview.com/chart/?symbol=BSAC) | Banco Santander-Chile | BSAC |
+| 91 | 100 | $30.70 | [Chart](https://www.tradingview.com/chart/?symbol=TGS) | Transportadora de Gas del Sur S.A. ADS | TGS |
+| 90 | 100 | $81.32 | [Chart](https://www.tradingview.com/chart/?symbol=NFG) | National Fuel Gas Co. | NFG |
+| 90 | 100 | $32.49 | [Chart](https://www.tradingview.com/chart/?symbol=AAAU) | Goldman Sachs Physical Gold ETF Shares | AAAU |
+| 90 | 100 | $65.14 | [Chart](https://www.tradingview.com/chart/?symbol=GLDM) | SPDR Gold MiniShares | GLDM |
+| 90 | 100 | $32.80 | [Chart](https://www.tradingview.com/chart/?symbol=IAUM) | iShares Gold Trust Micro | IAUM |
+| 90 | 100 | $31.38 | [Chart](https://www.tradingview.com/chart/?symbol=SGOL) | abrdn Physical Gold Shares ETF | SGOL |
+| 90 | 100 | $62.03 | [Chart](https://www.tradingview.com/chart/?symbol=IAU) | iShares Gold Trust | IAU |
+| 90 | 100 | $303.11 | [Chart](https://www.tradingview.com/chart/?symbol=GLD) | SPDR Gold Trust, SPDR Gold Shares | GLD |
+| 90 | 100 | $145.37 | [Chart](https://www.tradingview.com/chart/?symbol=TW) | Tradeweb Markets Inc. Class A Common Stock | TW |
+| 90 | 100 | $170.79 | [Chart](https://www.tradingview.com/chart/?symbol=ITA) | iShares U.S. Aerospace & Defense ETF | ITA |
+| 90 | 100 | $49.43 | [Chart](https://www.tradingview.com/chart/?symbol=TRP) | TC Energy Corporation | TRP |
+| 89 | 100 | $54.61 | [Chart](https://www.tradingview.com/chart/?symbol=RELX) | RELX PLC | RELX |
+| 89 | 100 | $173.79 | [Chart](https://www.tradingview.com/chart/?symbol=PM) | Philip Morris International Inc. | PM |
+| 89 | 100 | $230.29 | [Chart](https://www.tradingview.com/chart/?symbol=CRS) | Carpenter Technology Corp | CRS |
+| 89 | 100 | $29.97 | [Chart](https://www.tradingview.com/chart/?symbol=NTGR) | NETGEAR, Inc. | NTGR |
 | 89 | 100 | $19.39 | [Chart](https://www.tradingview.com/chart/?symbol=KT) | KT Corp. | KT |
-| 88 | 100 | $59.45 | [Chart](https://www.tradingview.com/chart/?symbol=MO) | Altria Group, Inc. | MO |
-| 87 | 100 | $252.19 | [Chart](https://www.tradingview.com/chart/?symbol=RSG) | Republic Services Inc. | RSG |
-| 89 | 99 | $61.79 | [Chart](https://www.tradingview.com/chart/?symbol=IBIT) | iShares Bitcoin Trust ETF | IBIT |
-| 89 | 99 | $33.71 | [Chart](https://www.tradingview.com/chart/?symbol=FDP) | Fresh Del Monte Produce Inc. | FDP |
+| 88 | 100 | $25.11 | [Chart](https://www.tradingview.com/chart/?symbol=PHYS) | Sprott Physical Gold Trust | PHYS |
 | 89 | 99 | $58.18 | [Chart](https://www.tradingview.com/chart/?symbol=UVV) | Universal Corporation | UVV |
-| 87 | 99 | $46.90 | [Chart](https://www.tradingview.com/chart/?symbol=MRCY) | Mercury Systems Inc. | MRCY |
-| 86 | 99 | $29.35 | [Chart](https://www.tradingview.com/chart/?symbol=CEF) | Sprott Physical Gold and Silver Trust | CEF |
 | 88 | 98 | $48.15 | [Chart](https://www.tradingview.com/chart/?symbol=FTS) | Fortis Inc. Common Shares | FTS |
-| 88 | 98 | $49.84 | [Chart](https://www.tradingview.com/chart/?symbol=TRP) | TC Energy Corporation | TRP |
-| 88 | 98 | $97.21 | [Chart](https://www.tradingview.com/chart/?symbol=JCI) | Johnson Controls International plc | JCI |
-| 87 | 98 | $55.10 | [Chart](https://www.tradingview.com/chart/?symbol=RELX) | RELX PLC | RELX |
+| 88 | 98 | $33.71 | [Chart](https://www.tradingview.com/chart/?symbol=FDP) | Fresh Del Monte Produce Inc. | FDP |
+| 86 | 98 | $46.90 | [Chart](https://www.tradingview.com/chart/?symbol=MRCY) | Mercury Systems Inc. | MRCY |
 | 87 | 97 | $228.23 | [Chart](https://www.tradingview.com/chart/?symbol=CBOE) | Cboe Global Markets, Inc. | CBOE |
-| 86 | 97 | $205.31 | [Chart](https://www.tradingview.com/chart/?symbol=ALL) | The Allstate Corporation | ALL |
-| 86 | 96 | $18.04 | [Chart](https://www.tradingview.com/chart/?symbol=MIR) | Mirion Technologies, Inc. | MIR |
-| 85 | 96 | $96.77 | [Chart](https://www.tradingview.com/chart/?symbol=CALM) | Cal-Maine Foods Inc | CALM |
+| 86 | 97 | $32.35 | [Chart](https://www.tradingview.com/chart/?symbol=ATAT) | Atour Lifestyle Holdings Limited American Depositary Shares | ATAT |
+| 84 | 97 | $29.00 | [Chart](https://www.tradingview.com/chart/?symbol=CEF) | Sprott Physical Gold and Silver Trust | CEF |
+| 84 | 97 | $249.10 | [Chart](https://www.tradingview.com/chart/?symbol=RSG) | Republic Services Inc. | RSG |
 | 85 | 96 | $58.53 | [Chart](https://www.tradingview.com/chart/?symbol=IGF) | iShares Global Infrastructure ETF | IGF |
-| 85 | 96 | $134.95 | [Chart](https://www.tradingview.com/chart/?symbol=RTX) | RTX Corporation | RTX |
-| 81 | 96 | $27.47 | [Chart](https://www.tradingview.com/chart/?symbol=T) | AT&T Inc. | T |
+| 85 | 96 | $13.59 | [Chart](https://www.tradingview.com/chart/?symbol=MUFG) | Mitsubishi UFJ Financial Group, Inc. | MUFG |
 | 85 | 95 | $62.41 | [Chart](https://www.tradingview.com/chart/?symbol=RYTM) | Rhythm Pharmaceuticals, Inc. Common Stock | RYTM |
-| 84 | 95 | $312.33 | [Chart](https://www.tradingview.com/chart/?symbol=VRSK) | Verisk Analytics, Inc. Common Stock | VRSK |
-| 83 | 95 | $59.34 | [Chart](https://www.tradingview.com/chart/?symbol=HSBC) | HSBC Holdings PLC | HSBC |
-| 83 | 95 | $43.14 | [Chart](https://www.tradingview.com/chart/?symbol=HMN) | Horace Mann Educators Corporation | HMN |
-| 83 | 94 | $13.81 | [Chart](https://www.tradingview.com/chart/?symbol=MUFG) | Mitsubishi UFJ Financial Group, Inc. | MUFG |
-| 82 | 94 | $55.71 | [Chart](https://www.tradingview.com/chart/?symbol=EQT) | EQT CORP | EQT |
-| 81 | 93 | $32.59 | [Chart](https://www.tradingview.com/chart/?symbol=ZLAB) | Zai Lab Limited American Depositary Shares | ZLAB |
-| 80 | 93 | $107.95 | [Chart](https://www.tradingview.com/chart/?symbol=RBA) | RB Global, Inc. | RBA |
-| 82 | 92 | $5293.31 | [Chart](https://www.tradingview.com/chart/?symbol=BKNG) | Booking Holdings Inc. Common Stock | BKNG |
-| 80 | 90 | $195.93 | [Chart](https://www.tradingview.com/chart/?symbol=WCN) | Waste Connections, Inc. | WCN |
+| 84 | 95 | $96.77 | [Chart](https://www.tradingview.com/chart/?symbol=CALM) | Cal-Maine Foods Inc | CALM |
+| 83 | 94 | $312.33 | [Chart](https://www.tradingview.com/chart/?symbol=VRSK) | Verisk Analytics, Inc. Common Stock | VRSK |
+| 82 | 94 | $59.18 | [Chart](https://www.tradingview.com/chart/?symbol=HSBC) | HSBC Holdings PLC | HSBC |
+| 82 | 94 | $43.14 | [Chart](https://www.tradingview.com/chart/?symbol=HMN) | Horace Mann Educators Corporation | HMN |
+| 81 | 94 | $513.75 | [Chart](https://www.tradingview.com/chart/?symbol=DE) | Deere & Company | DE |
+| 80 | 93 | $205.90 | [Chart](https://www.tradingview.com/chart/?symbol=DASH) | DoorDash, Inc. Class A Common Stock | DASH |
+| 80 | 93 | $299.17 | [Chart](https://www.tradingview.com/chart/?symbol=SAP) | SAP SE | SAP |
+| 80 | 92 | $32.59 | [Chart](https://www.tradingview.com/chart/?symbol=ZLAB) | Zai Lab Limited American Depositary Shares | ZLAB |
+| 81 | 91 | $117.42 | [Chart](https://www.tradingview.com/chart/?symbol=CLS) | Celestica, Inc. | CLS |
+| 80 | 90 | $5293.31 | [Chart](https://www.tradingview.com/chart/?symbol=BKNG) | Booking Holdings Inc. Common Stock | BKNG |
 
 ---
 
 
 ## **Sell Recommendations**
 
-The following 91 stocks show deteriorating relative strength:
+The following 123 stocks show deteriorating relative strength:
 
 | RS Rating | Sell Score | Current Price | Chart | Name | Ticker |
 |-----------|------------|---------------|-------|------|--------|
 | 1 | 100 | $16.51 | [Chart](https://www.tradingview.com/chart/?symbol=FWRD) | Forward Air Corp | FWRD |
-| 2 | 100 | $25.51 | [Chart](https://www.tradingview.com/chart/?symbol=FIVN) | FIVE9, INC. | FIVN |
 | 2 | 100 | $12.69 | [Chart](https://www.tradingview.com/chart/?symbol=IART) | Integra LifeSciences Holdings | IART |
 | 2 | 100 | $31.31 | [Chart](https://www.tradingview.com/chart/?symbol=CYTK) | Cytokinetics Inc. | CYTK |
+| 2 | 100 | $13.90 | [Chart](https://www.tradingview.com/chart/?symbol=DQ) | Daqo New Energy Corp. American Depositary Shares (each representing 5 Ordinary Shares) | DQ |
+| 3 | 100 | $11.12 | [Chart](https://www.tradingview.com/chart/?symbol=CLB) | Core Laboratories Inc. | CLB |
 | 3 | 100 | $28.47 | [Chart](https://www.tradingview.com/chart/?symbol=TWST) | Twist Bioscience Corporation Common Stock | TWST |
-| 3 | 100 | $13.69 | [Chart](https://www.tradingview.com/chart/?symbol=DNLI) | Denali Therapeutics Inc. Common Stock | DNLI |
-| 3 | 100 | $13.90 | [Chart](https://www.tradingview.com/chart/?symbol=DQ) | Daqo New Energy Corp. American Depositary Shares (each representing 5 Ordinary Shares) | DQ |
-| 4 | 100 | $16.55 | [Chart](https://www.tradingview.com/chart/?symbol=VRNT) | Verint Systems Inc | VRNT |
-| 4 | 100 | $14.78 | [Chart](https://www.tradingview.com/chart/?symbol=SYRE) | Spyre Therapeutics, Inc. Common Stock | SYRE |
-| 4 | 100 | $11.12 | [Chart](https://www.tradingview.com/chart/?symbol=CLB) | Core Laboratories Inc. | CLB |
-| 4 | 100 | $14.20 | [Chart](https://www.tradingview.com/chart/?symbol=PENN) | PENN Entertainment, Inc. Common Stock | PENN |
-| 5 | 100 | $41.07 | [Chart](https://www.tradingview.com/chart/?symbol=WHD) | Cactus, Inc. | WHD |
-| 5 | 100 | $22.91 | [Chart](https://www.tradingview.com/chart/?symbol=RPD) | Rapid7, Inc. Common Stock | RPD |
-| 5 | 100 | $126.68 | [Chart](https://www.tradingview.com/chart/?symbol=KRYS) | Krystal Biotech, Inc. Common Stock | KRYS |
+| 3 | 100 | $16.55 | [Chart](https://www.tradingview.com/chart/?symbol=VRNT) | Verint Systems Inc | VRNT |
+| 3 | 100 | $25.93 | [Chart](https://www.tradingview.com/chart/?symbol=FIVN) | FIVE9, INC. | FIVN |
+| 3 | 100 | $14.78 | [Chart](https://www.tradingview.com/chart/?symbol=SYRE) | Spyre Therapeutics, Inc. Common Stock | SYRE |
+| 4 | 100 | $41.07 | [Chart](https://www.tradingview.com/chart/?symbol=WHD) | Cactus, Inc. | WHD |
+| 4 | 100 | $13.73 | [Chart](https://www.tradingview.com/chart/?symbol=DNLI) | Denali Therapeutics Inc. Common Stock | DNLI |
+| 4 | 100 | $14.39 | [Chart](https://www.tradingview.com/chart/?symbol=PENN) | PENN Entertainment, Inc. Common Stock | PENN |
+| 4 | 100 | $126.68 | [Chart](https://www.tradingview.com/chart/?symbol=KRYS) | Krystal Biotech, Inc. Common Stock | KRYS |
 | 5 | 100 | $121.97 | [Chart](https://www.tradingview.com/chart/?symbol=TFX) | Teleflex Incorporated | TFX |
-| 6 | 100 | $63.00 | [Chart](https://www.tradingview.com/chart/?symbol=ARCB) | ArcBest Corporation | ARCB |
-| 6 | 100 | $14.41 | [Chart](https://www.tradingview.com/chart/?symbol=IMVT) | Immunovant, Inc. Common Stock | IMVT |
-| 7 | 100 | $14.76 | [Chart](https://www.tradingview.com/chart/?symbol=DXC) | DXC Technology Company | DXC |
-| 8 | 100 | $20.32 | [Chart](https://www.tradingview.com/chart/?symbol=AMRK) | A-Mark Precious Metals, Inc. | AMRK |
-| 8 | 100 | $32.02 | [Chart](https://www.tradingview.com/chart/?symbol=MBIN) | Merchants Bancorp Common Stock | MBIN |
-| 9 | 100 | $29.68 | [Chart](https://www.tradingview.com/chart/?symbol=SRDX) | Surmodics, Inc. Common Stock | SRDX |
-| 9 | 100 | $12.15 | [Chart](https://www.tradingview.com/chart/?symbol=ARCT) | Arcturus Therapeutics Holdings Inc. Common Stock | ARCT |
-| 12 | 100 | $90.54 | [Chart](https://www.tradingview.com/chart/?symbol=CHRD) | Chord Energy Corporation Common Stock | CHRD |
-| 12 | 100 | $19.67 | [Chart](https://www.tradingview.com/chart/?symbol=VECO) | Veeco Instruments Inc | VECO |
-| 19 | 100 | $45.47 | [Chart](https://www.tradingview.com/chart/?symbol=LINE) | Lineage, Inc. Common Stock | LINE |
+| 5 | 100 | $14.41 | [Chart](https://www.tradingview.com/chart/?symbol=IMVT) | Immunovant, Inc. Common Stock | IMVT |
+| 5 | 100 | $63.00 | [Chart](https://www.tradingview.com/chart/?symbol=ARCB) | ArcBest Corporation | ARCB |
+| 5 | 100 | $22.91 | [Chart](https://www.tradingview.com/chart/?symbol=RPD) | Rapid7, Inc. Common Stock | RPD |
+| 6 | 100 | $11.45 | [Chart](https://www.tradingview.com/chart/?symbol=WEN) | The Wendy's Company | WEN |
+| 7 | 100 | $20.32 | [Chart](https://www.tradingview.com/chart/?symbol=AMRK) | A-Mark Precious Metals, Inc. | AMRK |
+| 7 | 100 | $14.20 | [Chart](https://www.tradingview.com/chart/?symbol=INMD) | InMode Ltd. Ordinary Shares | INMD |
+| 7 | 100 | $32.02 | [Chart](https://www.tradingview.com/chart/?symbol=MBIN) | Merchants Bancorp Common Stock | MBIN |
+| 8 | 100 | $20.75 | [Chart](https://www.tradingview.com/chart/?symbol=UCO) | ProShares Ultra Bloomberg Crude Oil | UCO |
+| 8 | 100 | $10.21 | [Chart](https://www.tradingview.com/chart/?symbol=PK) | Park Hotels & Resorts Inc. Common Stock | PK |
+| 8 | 100 | $29.68 | [Chart](https://www.tradingview.com/chart/?symbol=SRDX) | Surmodics, Inc. Common Stock | SRDX |
+| 8 | 100 | $12.15 | [Chart](https://www.tradingview.com/chart/?symbol=ARCT) | Arcturus Therapeutics Holdings Inc. Common Stock | ARCT |
+| 9 | 100 | $60.12 | [Chart](https://www.tradingview.com/chart/?symbol=SPB) | Spectrum Brands Holdings, Inc. | SPB |
+| 9 | 100 | $38.40 | [Chart](https://www.tradingview.com/chart/?symbol=TDW) | Tidewater, Inc. | TDW |
+| 10 | 100 | $14.92 | [Chart](https://www.tradingview.com/chart/?symbol=DXC) | DXC Technology Company | DXC |
+| 10 | 100 | $19.67 | [Chart](https://www.tradingview.com/chart/?symbol=VECO) | Veeco Instruments Inc | VECO |
+| 10 | 100 | $90.54 | [Chart](https://www.tradingview.com/chart/?symbol=CHRD) | Chord Energy Corporation Common Stock | CHRD |
+| 11 | 100 | $27.01 | [Chart](https://www.tradingview.com/chart/?symbol=WSC) | WillScot Holdings Corporation Class A Common Stock | WSC |
+| 12 | 100 | $18.90 | [Chart](https://www.tradingview.com/chart/?symbol=NVDS) | Investment Managers Series Trust II Tradr 1.5X Short NVDA Daily ETF | NVDS |
+| 16 | 100 | $12.10 | [Chart](https://www.tradingview.com/chart/?symbol=ZUMZ) | Zumiez Inc. | ZUMZ |
+| 17 | 100 | $45.47 | [Chart](https://www.tradingview.com/chart/?symbol=LINE) | Lineage, Inc. Common Stock | LINE |
+| 19 | 100 | $14.71 | [Chart](https://www.tradingview.com/chart/?symbol=FXN) | First Trust Energy AlphaDEX Fund | FXN |
 | 4 | 99 | $10.22 | [Chart](https://www.tradingview.com/chart/?symbol=HPK) | HighPeak Energy, Inc. Common Stock | HPK |
-| 10 | 99 | $60.12 | [Chart](https://www.tradingview.com/chart/?symbol=SPB) | Spectrum Brands Holdings, Inc. | SPB |
-| 17 | 99 | $12.10 | [Chart](https://www.tradingview.com/chart/?symbol=ZUMZ) | Zumiez Inc. | ZUMZ |
-| 19 | 99 | $11.05 | [Chart](https://www.tradingview.com/chart/?symbol=GES) | Guess?, Inc. | GES |
-| 5 | 98 | $20.39 | [Chart](https://www.tradingview.com/chart/?symbol=VERA) | Vera Therapeutics, Inc. Class A Common Stock | VERA |
-| 10 | 98 | $45.58 | [Chart](https://www.tradingview.com/chart/?symbol=RHI) | Robert Half Inc. | RHI |
-| 21 | 98 | $14.71 | [Chart](https://www.tradingview.com/chart/?symbol=FXN) | First Trust Energy AlphaDEX Fund | FXN |
+| 4 | 99 | $20.39 | [Chart](https://www.tradingview.com/chart/?symbol=VERA) | Vera Therapeutics, Inc. Class A Common Stock | VERA |
+| 9 | 99 | $45.58 | [Chart](https://www.tradingview.com/chart/?symbol=RHI) | Robert Half Inc. | RHI |
+| 17 | 99 | $10.34 | [Chart](https://www.tradingview.com/chart/?symbol=CMRE) | Costamare Inc. | CMRE |
+| 4 | 98 | $10.77 | [Chart](https://www.tradingview.com/chart/?symbol=LSPD) | Lightspeed Commerce Inc. | LSPD |
+| 5 | 98 | $10.31 | [Chart](https://www.tradingview.com/chart/?symbol=VREX) | Varex Imaging Corporation Common Stock | VREX |
+| 15 | 98 | $33.87 | [Chart](https://www.tradingview.com/chart/?symbol=CPB) | The Campbell's Company Common Stock | CPB |
 | 4 | 97 | $184.20 | [Chart](https://www.tradingview.com/chart/?symbol=NVMI) | Nova Ltd. Ordinary Shares | NVMI |
-| 5 | 97 | $10.77 | [Chart](https://www.tradingview.com/chart/?symbol=LSPD) | Lightspeed Commerce Inc. | LSPD |
-| 6 | 97 | $10.31 | [Chart](https://www.tradingview.com/chart/?symbol=VREX) | Varex Imaging Corporation Common Stock | VREX |
-| 19 | 97 | $10.34 | [Chart](https://www.tradingview.com/chart/?symbol=CMRE) | Costamare Inc. | CMRE |
-| 9 | 96 | $14.21 | [Chart](https://www.tradingview.com/chart/?symbol=INMD) | InMode Ltd. Ordinary Shares | INMD |
-| 17 | 96 | $15.58 | [Chart](https://www.tradingview.com/chart/?symbol=AMZY) | YieldMax AMZN Option Income Strategy ETF | AMZY |
-| 11 | 95 | $21.45 | [Chart](https://www.tradingview.com/chart/?symbol=HZO) | MarineMax, Inc. | HZO |
-| 17 | 95 | $51.38 | [Chart](https://www.tradingview.com/chart/?symbol=KBH) | KB Home | KBH |
-| 10 | 94 | $11.62 | [Chart](https://www.tradingview.com/chart/?symbol=WEN) | The Wendy's Company | WEN |
-| 11 | 94 | $43.55 | [Chart](https://www.tradingview.com/chart/?symbol=MTDR) | MATADOR RESOURCES COMPANY | MTDR |
-| 14 | 94 | $18.91 | [Chart](https://www.tradingview.com/chart/?symbol=FOR) | Forestar Group Inc. | FOR |
-| 10 | 93 | $11.59 | [Chart](https://www.tradingview.com/chart/?symbol=APLE) | Apple Hospitality REIT, Inc. | APLE |
-| 14 | 92 | $11.91 | [Chart](https://www.tradingview.com/chart/?symbol=PBR) | PETROLEO BRASILEIRO S.A.-PETROBRAS ADS (REP 1 COMMON SHARE) | PBR |
-| 18 | 92 | $10.99 | [Chart](https://www.tradingview.com/chart/?symbol=GSBD) | Goldman Sachs BDC, Inc. | GSBD |
-| 12 | 91 | $18.90 | [Chart](https://www.tradingview.com/chart/?symbol=OII) | Oceaneering International Inc. | OII |
-| 18 | 90 | $115.94 | [Chart](https://www.tradingview.com/chart/?symbol=SITE) | SiteOne Landscape Supply, Inc. | SITE |
-| 25 | 90 | $64.07 | [Chart](https://www.tradingview.com/chart/?symbol=MTH) | Meritage Homes Corporation | MTH |
-| 15 | 89 | $81.48 | [Chart](https://www.tradingview.com/chart/?symbol=EMN) | Eastman Chemical Company | EMN |
-| 15 | 89 | $16.07 | [Chart](https://www.tradingview.com/chart/?symbol=CHCT) | Community Healthcare Trust Incorporated Common Stock, $0.01 par value per share | CHCT |
-| 19 | 89 | $11.22 | [Chart](https://www.tradingview.com/chart/?symbol=PBR.A) | Petroleo Brasileiro S.A.-Petrobras | PBR.A |
-| 19 | 89 | $10.11 | [Chart](https://www.tradingview.com/chart/?symbol=HOPE) | Hope Bancorp, Inc. | HOPE |
-| 25 | 89 | $10.05 | [Chart](https://www.tradingview.com/chart/?symbol=LBTYK) | Liberty Global Ltd. Class C Common Shares | LBTYK |
-| 31 | 89 | $19.15 | [Chart](https://www.tradingview.com/chart/?symbol=NVDS) | Investment Managers Series Trust II Tradr 1.5X Short NVDA Daily ETF | NVDS |
-| 14 | 88 | $108.91 | [Chart](https://www.tradingview.com/chart/?symbol=A) | Agilent Technologies Inc. | A |
-| 19 | 86 | $28.88 | [Chart](https://www.tradingview.com/chart/?symbol=BP) | BP p.l.c. | BP |
-| 22 | 86 | $58.48 | [Chart](https://www.tradingview.com/chart/?symbol=BMRN) | BioMarin Pharmaceuticals Inc | BMRN |
-| 18 | 85 | $11.33 | [Chart](https://www.tradingview.com/chart/?symbol=TWO) | Two Harbors Investment Corp. | TWO |
-| 20 | 85 | $25.18 | [Chart](https://www.tradingview.com/chart/?symbol=WY) | Weyerhaeuser Company | WY |
-| 21 | 85 | $22.81 | [Chart](https://www.tradingview.com/chart/?symbol=GPK) | Graphic Packaging Holding Company | GPK |
-| 26 | 85 | $16.13 | [Chart](https://www.tradingview.com/chart/?symbol=MLNK) | MeridianLink, Inc. | MLNK |
-| 26 | 85 | $279.85 | [Chart](https://www.tradingview.com/chart/?symbol=BLD) | TopBuild Corp. Common Stock | BLD |
-| 24 | 84 | $17.18 | [Chart](https://www.tradingview.com/chart/?symbol=STR) | Sitio Royalties Corp. | STR |
-| 25 | 84 | $104.67 | [Chart](https://www.tradingview.com/chart/?symbol=PLD) | PROLOGIS, INC. | PLD |
-| 26 | 84 | $34.23 | [Chart](https://www.tradingview.com/chart/?symbol=CPB) | The Campbell's Company Common Stock | CPB |
-| 28 | 83 | $14.12 | [Chart](https://www.tradingview.com/chart/?symbol=OCSL) | Oaktree Specialty Lending Corporation | OCSL |
-| 25 | 82 | $19.50 | [Chart](https://www.tradingview.com/chart/?symbol=BITI) | ProShares Short Bitcoin ETF | BITI |
-| 25 | 82 | $10.01 | [Chart](https://www.tradingview.com/chart/?symbol=SCS) | Steelcase, Inc. | SCS |
-| 27 | 82 | $35.14 | [Chart](https://www.tradingview.com/chart/?symbol=SU) | Suncor Energy, Inc. | SU |
-| 25 | 81 | $14.36 | [Chart](https://www.tradingview.com/chart/?symbol=HR) | Healthcare Realty Trust Incorporated | HR |
-| 21 | 80 | $31.29 | [Chart](https://www.tradingview.com/chart/?symbol=AXTA) | Axalta Coating Systems Ltd. | AXTA |
-| 21 | 80 | $33.50 | [Chart](https://www.tradingview.com/chart/?symbol=SQM) | Sociedad Quimica y Minera de Chile SA | SQM |
-| 23 | 80 | $10.78 | [Chart](https://www.tradingview.com/chart/?symbol=NEWT) | NewtekOne, Inc. Common Stock | NEWT |
-| 37 | 80 | $145.00 | [Chart](https://www.tradingview.com/chart/?symbol=MTN) | Vail Resorts, Inc. | MTN |
-| 26 | 79 | $102.48 | [Chart](https://www.tradingview.com/chart/?symbol=MHK) | Mohawk Industries, Inc. | MHK |
-| 28 | 79 | $14.75 | [Chart](https://www.tradingview.com/chart/?symbol=SAFE) | Safehold Inc. | SAFE |
-| 24 | 78 | $36.39 | [Chart](https://www.tradingview.com/chart/?symbol=BHE) | Benchmark Electronics | BHE |
-| 24 | 78 | $25.98 | [Chart](https://www.tradingview.com/chart/?symbol=NATL) | NCR Atleos Corporation | NATL |
-| 38 | 77 | $10.60 | [Chart](https://www.tradingview.com/chart/?symbol=NMFC) | NEW MOUNTAIN FINANCE CORPORATION | NMFC |
-| 30 | 76 | $12.40 | [Chart](https://www.tradingview.com/chart/?symbol=PMT) | PennyMac Mortgage Investment Trust | PMT |
-| 36 | 76 | $30.43 | [Chart](https://www.tradingview.com/chart/?symbol=BAX) | Baxter International Inc. | BAX |
-| 25 | 75 | $130.16 | [Chart](https://www.tradingview.com/chart/?symbol=HES) | Hess Corporation | HES |
-| 25 | 75 | $36.92 | [Chart](https://www.tradingview.com/chart/?symbol=NBHC) | NATIONAL BANK HOLDINGS CORP. | NBHC |
-| 33 | 75 | $153.99 | [Chart](https://www.tradingview.com/chart/?symbol=IBP) | INSTALLED BUILDING PRODUCTS, INC. | IBP |
-| 33 | 75 | $10.44 | [Chart](https://www.tradingview.com/chart/?symbol=AVO) | Mission Produce, Inc. Common Stock | AVO |
-| 33 | 74 | $73.17 | [Chart](https://www.tradingview.com/chart/?symbol=GMS) | GMS Inc. | GMS |
-| 39 | 72 | $37.87 | [Chart](https://www.tradingview.com/chart/?symbol=LIT) | Global X Lithium & Battery Tech ETF | LIT |
-| 32 | 70 | $77.36 | [Chart](https://www.tradingview.com/chart/?symbol=PFG) | Principal Financial Group, Inc. | PFG |
-| 39 | 67 | $10.92 | [Chart](https://www.tradingview.com/chart/?symbol=MQY) | Blackrock Muni Yield Quality Fund, Inc | MQY |
-| 38 | 63 | $38.54 | [Chart](https://www.tradingview.com/chart/?symbol=MLTX) | MoonLake Immunotherapeutics Class A Ordinary Shares | MLTX |
+| 15 | 97 | $51.38 | [Chart](https://www.tradingview.com/chart/?symbol=KBH) | KB Home | KBH |
+| 16 | 97 | $15.58 | [Chart](https://www.tradingview.com/chart/?symbol=AMZY) | YieldMax AMZN Option Income Strategy ETF | AMZY |
+| 6 | 96 | $24.57 | [Chart](https://www.tradingview.com/chart/?symbol=JANX) | Janux Therapeutics, Inc. Common Stock | JANX |
+| 10 | 96 | $21.45 | [Chart](https://www.tradingview.com/chart/?symbol=HZO) | MarineMax, Inc. | HZO |
+| 13 | 96 | $11.71 | [Chart](https://www.tradingview.com/chart/?symbol=PBR) | PETROLEO BRASILEIRO S.A.-PETROBRAS ADS (REP 1 COMMON SHARE) | PBR |
+| 9 | 95 | $46.97 | [Chart](https://www.tradingview.com/chart/?symbol=ERX) | Direxion Daily Energy Bull 2X Shares | ERX |
+| 12 | 95 | $10.63 | [Chart](https://www.tradingview.com/chart/?symbol=BWLP) | BW LPG Limited | BWLP |
+| 13 | 95 | $18.91 | [Chart](https://www.tradingview.com/chart/?symbol=FOR) | Forestar Group Inc. | FOR |
+| 13 | 95 | $42.81 | [Chart](https://www.tradingview.com/chart/?symbol=MTDR) | MATADOR RESOURCES COMPANY | MTDR |
+| 13 | 95 | $33.45 | [Chart](https://www.tradingview.com/chart/?symbol=SLB) | Schlumberger Limited | SLB |
+| 14 | 95 | $201.01 | [Chart](https://www.tradingview.com/chart/?symbol=AAPL) | Apple Inc. | AAPL |
+| 14 | 94 | $110.84 | [Chart](https://www.tradingview.com/chart/?symbol=NUE) | Nucor Corporation | NUE |
+| 16 | 94 | $10.99 | [Chart](https://www.tradingview.com/chart/?symbol=GSBD) | Goldman Sachs BDC, Inc. | GSBD |
+| 9 | 93 | $10.62 | [Chart](https://www.tradingview.com/chart/?symbol=VYX) | NCR Voyix Corporation | VYX |
+| 10 | 93 | $18.90 | [Chart](https://www.tradingview.com/chart/?symbol=OII) | Oceaneering International Inc. | OII |
+| 11 | 93 | $11.46 | [Chart](https://www.tradingview.com/chart/?symbol=APLE) | Apple Hospitality REIT, Inc. | APLE |
+| 19 | 93 | $58.23 | [Chart](https://www.tradingview.com/chart/?symbol=BMRN) | BioMarin Pharmaceuticals Inc | BMRN |
+| 14 | 92 | $109.60 | [Chart](https://www.tradingview.com/chart/?symbol=A) | Agilent Technologies Inc. | A |
+| 16 | 92 | $81.04 | [Chart](https://www.tradingview.com/chart/?symbol=EMN) | Eastman Chemical Company | EMN |
+| 16 | 92 | $115.94 | [Chart](https://www.tradingview.com/chart/?symbol=SITE) | SiteOne Landscape Supply, Inc. | SITE |
+| 18 | 92 | $11.06 | [Chart](https://www.tradingview.com/chart/?symbol=PBR.A) | Petroleo Brasileiro S.A.-Petrobras | PBR.A |
+| 23 | 92 | $64.07 | [Chart](https://www.tradingview.com/chart/?symbol=MTH) | Meritage Homes Corporation | MTH |
+| 14 | 91 | $11.18 | [Chart](https://www.tradingview.com/chart/?symbol=TWO) | Two Harbors Investment Corp. | TWO |
+| 17 | 91 | $10.11 | [Chart](https://www.tradingview.com/chart/?symbol=HOPE) | Hope Bancorp, Inc. | HOPE |
+| 19 | 91 | $22.63 | [Chart](https://www.tradingview.com/chart/?symbol=GPK) | Graphic Packaging Holding Company | GPK |
+| 23 | 91 | $30.36 | [Chart](https://www.tradingview.com/chart/?symbol=BAX) | Baxter International Inc. | BAX |
+| 26 | 91 | $10.02 | [Chart](https://www.tradingview.com/chart/?symbol=LBTYK) | Liberty Global Ltd. Class C Common Shares | LBTYK |
+| 14 | 90 | $16.07 | [Chart](https://www.tradingview.com/chart/?symbol=CHCT) | Community Healthcare Trust Incorporated Common Stock, $0.01 par value per share | CHCT |
+| 18 | 89 | $25.14 | [Chart](https://www.tradingview.com/chart/?symbol=WY) | Weyerhaeuser Company | WY |
+| 20 | 89 | $14.29 | [Chart](https://www.tradingview.com/chart/?symbol=HR) | Healthcare Realty Trust Incorporated | HR |
+| 20 | 88 | $28.57 | [Chart](https://www.tradingview.com/chart/?symbol=BP) | BP p.l.c. | BP |
+| 23 | 88 | $104.47 | [Chart](https://www.tradingview.com/chart/?symbol=PLD) | PROLOGIS, INC. | PLD |
+| 24 | 87 | $35.53 | [Chart](https://www.tradingview.com/chart/?symbol=TECK) | Teck Resources Limited | TECK |
+| 24 | 87 | $16.13 | [Chart](https://www.tradingview.com/chart/?symbol=MLNK) | MeridianLink, Inc. | MLNK |
+| 24 | 87 | $279.85 | [Chart](https://www.tradingview.com/chart/?symbol=BLD) | TopBuild Corp. Common Stock | BLD |
+| 16 | 86 | $110.02 | [Chart](https://www.tradingview.com/chart/?symbol=EOG) | EOG Resources, Inc. | EOG |
+| 18 | 86 | $33.27 | [Chart](https://www.tradingview.com/chart/?symbol=SQM) | Sociedad Quimica y Minera de Chile SA | SQM |
+| 22 | 86 | $17.18 | [Chart](https://www.tradingview.com/chart/?symbol=STR) | Sitio Royalties Corp. | STR |
+| 35 | 86 | $20.63 | [Chart](https://www.tradingview.com/chart/?symbol=LPG) | DORIAN LPG LTD | LPG |
+| 26 | 85 | $14.12 | [Chart](https://www.tradingview.com/chart/?symbol=OCSL) | Oaktree Specialty Lending Corporation | OCSL |
+| 23 | 84 | $10.01 | [Chart](https://www.tradingview.com/chart/?symbol=SCS) | Steelcase, Inc. | SCS |
+| 24 | 84 | $12.28 | [Chart](https://www.tradingview.com/chart/?symbol=PMT) | PennyMac Mortgage Investment Trust | PMT |
+| 34 | 83 | $145.00 | [Chart](https://www.tradingview.com/chart/?symbol=MTN) | Vail Resorts, Inc. | MTN |
+| 39 | 83 | $38.07 | [Chart](https://www.tradingview.com/chart/?symbol=IXC) | iShares Global Energy ETF | IXC |
+| 21 | 82 | $10.78 | [Chart](https://www.tradingview.com/chart/?symbol=NEWT) | NewtekOne, Inc. Common Stock | NEWT |
+| 19 | 81 | $62.49 | [Chart](https://www.tradingview.com/chart/?symbol=MAS) | Masco Corporation | MAS |
+| 23 | 81 | $128.92 | [Chart](https://www.tradingview.com/chart/?symbol=HES) | Hess Corporation | HES |
+| 24 | 81 | $102.48 | [Chart](https://www.tradingview.com/chart/?symbol=MHK) | Mohawk Industries, Inc. | MHK |
+| 24 | 81 | $31.53 | [Chart](https://www.tradingview.com/chart/?symbol=AXTA) | Axalta Coating Systems Ltd. | AXTA |
+| 26 | 81 | $14.75 | [Chart](https://www.tradingview.com/chart/?symbol=SAFE) | Safehold Inc. | SAFE |
+| 30 | 81 | $34.95 | [Chart](https://www.tradingview.com/chart/?symbol=SU) | Suncor Energy, Inc. | SU |
+| 22 | 80 | $36.39 | [Chart](https://www.tradingview.com/chart/?symbol=BHE) | Benchmark Electronics | BHE |
+| 22 | 80 | $25.98 | [Chart](https://www.tradingview.com/chart/?symbol=NATL) | NCR Atleos Corporation | NATL |
+| 34 | 80 | $13.45 | [Chart](https://www.tradingview.com/chart/?symbol=MANU) | MANCHESTER UNITED PLC | MANU |
+| 23 | 79 | $54.77 | [Chart](https://www.tradingview.com/chart/?symbol=SLG) | SL Green Realty Corp. | SLG |
+| 36 | 79 | $10.60 | [Chart](https://www.tradingview.com/chart/?symbol=NMFC) | NEW MOUNTAIN FINANCE CORPORATION | NMFC |
+| 23 | 77 | $36.92 | [Chart](https://www.tradingview.com/chart/?symbol=NBHC) | NATIONAL BANK HOLDINGS CORP. | NBHC |
+| 31 | 77 | $153.99 | [Chart](https://www.tradingview.com/chart/?symbol=IBP) | INSTALLED BUILDING PRODUCTS, INC. | IBP |
+| 31 | 77 | $10.44 | [Chart](https://www.tradingview.com/chart/?symbol=AVO) | Mission Produce, Inc. Common Stock | AVO |
+| 31 | 76 | $73.17 | [Chart](https://www.tradingview.com/chart/?symbol=GMS) | GMS Inc. | GMS |
+| 26 | 75 | $49.13 | [Chart](https://www.tradingview.com/chart/?symbol=TSCO) | Tractor Supply Co | TSCO |
+| 37 | 75 | $25.87 | [Chart](https://www.tradingview.com/chart/?symbol=RCI) | Rogers Communications, Inc. | RCI |
+| 37 | 74 | $37.87 | [Chart](https://www.tradingview.com/chart/?symbol=LIT) | Global X Lithium & Battery Tech ETF | LIT |
+| 36 | 73 | $29.10 | [Chart](https://www.tradingview.com/chart/?symbol=QID) | ProShares UltraShort QQQ | QID |
+| 37 | 73 | $11.73 | [Chart](https://www.tradingview.com/chart/?symbol=NVG) | Nuveen AMT-Free Municipal Credit Income Fund | NVG |
+| 30 | 72 | $77.36 | [Chart](https://www.tradingview.com/chart/?symbol=PFG) | Principal Financial Group, Inc. | PFG |
+| 30 | 72 | $81.10 | [Chart](https://www.tradingview.com/chart/?symbol=XLE) | Energy Select Sector SPDR Fund | XLE |
+| 36 | 70 | $10.92 | [Chart](https://www.tradingview.com/chart/?symbol=MQY) | Blackrock Muni Yield Quality Fund, Inc | MQY |
+| 35 | 69 | $33.81 | [Chart](https://www.tradingview.com/chart/?symbol=ALLY) | Ally Financial Inc. | ALLY |
+| 37 | 69 | $15.47 | [Chart](https://www.tradingview.com/chart/?symbol=ECAT) | BlackRock ESG Capital Allocation Term Trust | ECAT |
+| 39 | 69 | $10.60 | [Chart](https://www.tradingview.com/chart/?symbol=CELC) | Celcuity Inc. Common Stock | CELC |
+| 36 | 68 | $102.35 | [Chart](https://www.tradingview.com/chart/?symbol=XOM) | Exxon Mobil Corporation | XOM |
+| 39 | 68 | $11.71 | [Chart](https://www.tradingview.com/chart/?symbol=NZF) | Nuveen Municipal Credit Income Fund | NZF |
+| 38 | 67 | $10.30 | [Chart](https://www.tradingview.com/chart/?symbol=MYI) | BLACKROCK MUNIYIELD QUALITY FUND III, INC. | MYI |
+| 35 | 66 | $38.54 | [Chart](https://www.tradingview.com/chart/?symbol=MLTX) | MoonLake Immunotherapeutics Class A Ordinary Shares | MLTX |
+| 37 | 66 | $223.32 | [Chart](https://www.tradingview.com/chart/?symbol=UNP) | Union Pacific Corp. | UNP |
+| 38 | 65 | $15.81 | [Chart](https://www.tradingview.com/chart/?symbol=ELME) | Elme Communities | ELME |
+| 39 | 65 | $166.44 | [Chart](https://www.tradingview.com/chart/?symbol=EGP) | EastGroup Properties Inc. | EGP |
+| 38 | 64 | $10.86 | [Chart](https://www.tradingview.com/chart/?symbol=SEMR) | SEMrush Holdings, Inc. | SEMR |
+| 38 | 62 | $62.11 | [Chart](https://www.tradingview.com/chart/?symbol=STC) | Stewart Information Services Corporation | STC |
 
 ## **Methodology**
 
