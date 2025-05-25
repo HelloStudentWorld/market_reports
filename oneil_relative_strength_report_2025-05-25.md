@@ -65,8 +65,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 73.1 | 66.0 | 0.12% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Innovation |
 | [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 71.1 | 62.0 | -0.53% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
 | [XLC](https://www.tradingview.com/chart/?symbol=XLC) | 69.6 | 59.0 | -1.48% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Communications |
-| [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 68.6 | 57.0 | -1.79% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [KWEB](https://www.tradingview.com/chart/?symbol=KWEB) | 68.6 | 57.0 | -1.74% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Chinese Internet |
+| [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 68.6 | 57.0 | -1.79% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [XLY](https://www.tradingview.com/chart/?symbol=XLY) | 66.6 | 53.0 | -2.67% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Consumer Discretionary |
 | [ICLN](https://www.tradingview.com/chart/?symbol=ICLN) | 62.6 | 85.0 | 9.04% | 10d ✗, 50d ✓, 200d ✓ | ↘️ | Clean Energy |
 | [BIL](https://www.tradingview.com/chart/?symbol=BIL) | 62.5 | 65.0 | 0.02% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Short-term Treasuries |
@@ -125,8 +125,8 @@ The following 82 stocks show exceptional relative strength:
 | 98 | 100 | $164.06 | [Chart](https://www.tradingview.com/chart/?symbol=SE) | Sea Limited American Depositary Shares, each representing one Class A Ordinary Share | SE |
 | 98 | 100 | $71.79 | [Chart](https://www.tradingview.com/chart/?symbol=ULS) | UL Solutions Inc. | ULS |
 | 98 | 100 | $162.56 | [Chart](https://www.tradingview.com/chart/?symbol=PLMR) | Palomar Holdings, Inc. Common stock | PLMR |
-| 98 | 100 | $55.28 | [Chart](https://www.tradingview.com/chart/?symbol=SHLD) | Global X Defense Tech ETF | SHLD |
 | 98 | 100 | $24.00 | [Chart](https://www.tradingview.com/chart/?symbol=GRND) | Grindr Inc. | GRND |
+| 98 | 100 | $55.28 | [Chart](https://www.tradingview.com/chart/?symbol=SHLD) | Global X Defense Tech ETF | SHLD |
 | 97 | 100 | $34.99 | [Chart](https://www.tradingview.com/chart/?symbol=UTI) | Universal Technical Institute, Inc. | UTI |
 | 97 | 100 | $165.09 | [Chart](https://www.tradingview.com/chart/?symbol=HWM) | Howmet Aerospace Inc. | HWM |
 | 97 | 100 | $144.55 | [Chart](https://www.tradingview.com/chart/?symbol=UGL) | ProShares Ultra Gold | UGL |
