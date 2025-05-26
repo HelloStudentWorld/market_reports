@@ -51,8 +51,8 @@ Based on William O'Neil's Relative Strength Methodology
 |-----|----------|-----------|-------------|--------------|-------|--------|
 | [GLD](https://www.tradingview.com/chart/?symbol=GLD) | 96.0 | 92.0 | 15.31% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Gold |
 | [CIBR](https://www.tradingview.com/chart/?symbol=CIBR) | 91.0 | 82.0 | 7.07% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Cybersecurity |
-| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 90.0 | 80.0 | 5.81% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
 | [SLV](https://www.tradingview.com/chart/?symbol=SLV) | 90.0 | 80.0 | 5.62% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Silver |
+| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 90.0 | 80.0 | 5.81% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
 | [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 85.5 | 71.0 | 2.00% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Utilities |
 | [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 84.5 | 69.0 | 1.41% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
 | [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 81.1 | 82.0 | 6.96% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
@@ -98,7 +98,7 @@ This table shows the relative strength metrics for different market sectors base
 
 ### **Current Sector Leadership**
 
-The current market leadership is coming from the following sectors: **Gold, Cybersecurity, Next Generation Internet**.
+The current market leadership is coming from the following sectors: **Gold, Cybersecurity, Silver**.
 
 The **Gold** sector (represented by **GLD**) is showing particularly strong relative strength with an RS rating of 92.0 and performance of 15.31% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
 
