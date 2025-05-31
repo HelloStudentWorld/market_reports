@@ -58,8 +58,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [XLY](https://www.tradingview.com/chart/?symbol=XLY) | 79.5 | 59.0 | -0.46% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Consumer Discretionary |
 | [URA](https://www.tradingview.com/chart/?symbol=URA) | 79.0 | 98.0 | 30.08% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Uranium |
 | [XLP](https://www.tradingview.com/chart/?symbol=XLP) | 78.0 | 56.0 | -1.17% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Consumer Staples |
-| [PAVE](https://www.tradingview.com/chart/?symbol=PAVE) | 76.1 | 72.0 | 3.53% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Infrastructure |
 | [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 76.1 | 72.0 | 3.53% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
+| [PAVE](https://www.tradingview.com/chart/?symbol=PAVE) | 76.1 | 72.0 | 3.53% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Infrastructure |
 | [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 75.1 | 70.0 | 2.36% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Utilities |
 | [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 74.1 | 68.0 | 1.76% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Innovation |
 | [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 72.6 | 65.0 | 0.64% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
@@ -67,8 +67,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [XLC](https://www.tradingview.com/chart/?symbol=XLC) | 68.1 | 56.0 | -1.00% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Communications |
 | [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 67.1 | 54.0 | -1.48% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
 | [JETS](https://www.tradingview.com/chart/?symbol=JETS) | 66.5 | 33.0 | -6.96% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Airlines |
-| [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 64.6 | 49.0 | -2.55% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [ICLN](https://www.tradingview.com/chart/?symbol=ICLN) | 64.6 | 89.0 | 13.50% | 10d ✗, 50d ✓, 200d ✓ | ↘️ | Clean Energy |
+| [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 64.6 | 49.0 | -2.55% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [BIL](https://www.tradingview.com/chart/?symbol=BIL) | 61.5 | 63.0 | -0.01% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Short-term Treasuries |
 | [IYR](https://www.tradingview.com/chart/?symbol=IYR) | 61.3 | 43.0 | -4.03% | 10d ✓, 50d ✓, 200d ✗ | ↗️ | Real Estate |
 | [DBA](https://www.tradingview.com/chart/?symbol=DBA) | 58.7 | 57.0 | -0.90% | 10d ✗, 50d ✗, 200d ✓ | ↗️ | Agriculture |
