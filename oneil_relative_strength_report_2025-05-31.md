@@ -53,13 +53,13 @@ Based on William O'Neil's Relative Strength Methodology
 | [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 94.5 | 89.0 | 14.17% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
 | [SLV](https://www.tradingview.com/chart/?symbol=SLV) | 89.5 | 79.0 | 7.03% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Silver |
 | [XLI](https://www.tradingview.com/chart/?symbol=XLI) | 87.5 | 75.0 | 4.69% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Industrial |
-| [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 80.1 | 80.0 | 7.51% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
 | [CIBR](https://www.tradingview.com/chart/?symbol=CIBR) | 80.1 | 80.0 | 7.44% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Cybersecurity |
+| [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 80.1 | 80.0 | 7.51% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
 | [XLY](https://www.tradingview.com/chart/?symbol=XLY) | 79.5 | 59.0 | -0.46% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Consumer Discretionary |
 | [URA](https://www.tradingview.com/chart/?symbol=URA) | 79.0 | 98.0 | 30.08% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Uranium |
 | [XLP](https://www.tradingview.com/chart/?symbol=XLP) | 78.0 | 56.0 | -1.17% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Consumer Staples |
-| [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 76.1 | 72.0 | 3.53% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
 | [PAVE](https://www.tradingview.com/chart/?symbol=PAVE) | 76.1 | 72.0 | 3.53% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Infrastructure |
+| [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 76.1 | 72.0 | 3.53% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
 | [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 75.1 | 70.0 | 2.36% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Utilities |
 | [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 74.1 | 68.0 | 1.76% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Innovation |
 | [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 72.6 | 65.0 | 0.64% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
