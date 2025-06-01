@@ -67,8 +67,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [XLC](https://www.tradingview.com/chart/?symbol=XLC) | 68.1 | 56.0 | -1.00% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Communications |
 | [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 67.1 | 54.0 | -1.48% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
 | [JETS](https://www.tradingview.com/chart/?symbol=JETS) | 66.5 | 33.0 | -6.96% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Airlines |
-| [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 64.6 | 49.0 | -2.55% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [ICLN](https://www.tradingview.com/chart/?symbol=ICLN) | 64.6 | 89.0 | 13.50% | 10d ✗, 50d ✓, 200d ✓ | ↘️ | Clean Energy |
+| [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 64.6 | 49.0 | -2.55% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [BIL](https://www.tradingview.com/chart/?symbol=BIL) | 61.5 | 63.0 | -0.01% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Short-term Treasuries |
 | [IYR](https://www.tradingview.com/chart/?symbol=IYR) | 61.3 | 43.0 | -4.03% | 10d ✓, 50d ✓, 200d ✗ | ↗️ | Real Estate |
 | [DBA](https://www.tradingview.com/chart/?symbol=DBA) | 58.7 | 57.0 | -0.90% | 10d ✗, 50d ✗, 200d ✓ | ↗️ | Agriculture |
@@ -124,9 +124,9 @@ The following 77 stocks show exceptional relative strength:
 | 98 | 100 | $84.79 | [Chart](https://www.tradingview.com/chart/?symbol=RBLX) | Roblox Corporation | RBLX |
 | 98 | 100 | $24.53 | [Chart](https://www.tradingview.com/chart/?symbol=GRND) | Grindr Inc. | GRND |
 | 98 | 100 | $21.74 | [Chart](https://www.tradingview.com/chart/?symbol=TFPM) | Triple Flag Precious Metals Corp. | TFPM |
+| 98 | 100 | $56.60 | [Chart](https://www.tradingview.com/chart/?symbol=SHLD) | Global X Defense Tech ETF | SHLD |
 | 98 | 100 | $140.35 | [Chart](https://www.tradingview.com/chart/?symbol=UGL) | ProShares Ultra Gold | UGL |
 | 98 | 100 | $26.92 | [Chart](https://www.tradingview.com/chart/?symbol=UVE) | UNIVERSAL INSURANCE HLDG, INC. | UVE |
-| 98 | 100 | $56.60 | [Chart](https://www.tradingview.com/chart/?symbol=SHLD) | Global X Defense Tech ETF | SHLD |
 | 97 | 100 | $19.65 | [Chart](https://www.tradingview.com/chart/?symbol=SPNT) | SiriusPoint Ltd. | SPNT |
 | 97 | 100 | $163.93 | [Chart](https://www.tradingview.com/chart/?symbol=PLMR) | Palomar Holdings, Inc. Common stock | PLMR |
 | 97 | 100 | $52.03 | [Chart](https://www.tradingview.com/chart/?symbol=BBW) | Build-A-Bear Workshop, Inc. | BBW |
