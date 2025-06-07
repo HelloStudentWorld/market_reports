@@ -62,8 +62,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 82.0 | 64.0 | 4.40% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [GLD](https://www.tradingview.com/chart/?symbol=GLD) | 81.6 | 83.0 | 13.71% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Gold |
 | [XLC](https://www.tradingview.com/chart/?symbol=XLC) | 80.5 | 61.0 | 3.41% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Communications |
-| [URA](https://www.tradingview.com/chart/?symbol=URA) | 78.5 | 97.0 | 40.52% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Uranium |
 | [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 78.5 | 57.0 | 1.95% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
+| [URA](https://www.tradingview.com/chart/?symbol=URA) | 78.5 | 97.0 | 40.52% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Uranium |
 | [JETS](https://www.tradingview.com/chart/?symbol=JETS) | 76.5 | 53.0 | 0.96% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Airlines |
 | [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 73.1 | 66.0 | 5.05% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Utilities |
 | [ICLN](https://www.tradingview.com/chart/?symbol=ICLN) | 71.0 | 82.0 | 12.41% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Clean Energy |
