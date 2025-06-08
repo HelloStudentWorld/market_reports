@@ -56,14 +56,14 @@ Based on William O'Neil's Relative Strength Methodology
 | [CIBR](https://www.tradingview.com/chart/?symbol=CIBR) | 90.0 | 80.0 | 11.45% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Cybersecurity |
 | [SLV](https://www.tradingview.com/chart/?symbol=SLV) | 89.0 | 78.0 | 10.48% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Silver |
 | [PAVE](https://www.tradingview.com/chart/?symbol=PAVE) | 88.5 | 77.0 | 9.76% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Infrastructure |
-| [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 87.0 | 74.0 | 8.24% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
 | [XLI](https://www.tradingview.com/chart/?symbol=XLI) | 87.0 | 74.0 | 7.96% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Industrial |
+| [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 87.0 | 74.0 | 8.24% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
 | [DBA](https://www.tradingview.com/chart/?symbol=DBA) | 82.5 | 65.0 | 4.53% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Agriculture |
 | [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 82.0 | 64.0 | 4.40% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [GLD](https://www.tradingview.com/chart/?symbol=GLD) | 81.6 | 83.0 | 13.71% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Gold |
 | [XLC](https://www.tradingview.com/chart/?symbol=XLC) | 80.5 | 61.0 | 3.41% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Communications |
-| [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 78.5 | 57.0 | 1.95% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
 | [URA](https://www.tradingview.com/chart/?symbol=URA) | 78.5 | 97.0 | 40.52% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Uranium |
+| [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 78.5 | 57.0 | 1.95% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
 | [JETS](https://www.tradingview.com/chart/?symbol=JETS) | 77.0 | 54.0 | 0.96% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Airlines |
 | [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 73.1 | 66.0 | 5.05% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Utilities |
 | [ICLN](https://www.tradingview.com/chart/?symbol=ICLN) | 71.0 | 82.0 | 12.41% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Clean Energy |
