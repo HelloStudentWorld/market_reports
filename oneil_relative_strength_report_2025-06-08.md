@@ -56,8 +56,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [CIBR](https://www.tradingview.com/chart/?symbol=CIBR) | 90.0 | 80.0 | 11.45% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Cybersecurity |
 | [SLV](https://www.tradingview.com/chart/?symbol=SLV) | 89.0 | 78.0 | 10.48% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Silver |
 | [PAVE](https://www.tradingview.com/chart/?symbol=PAVE) | 88.5 | 77.0 | 9.76% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Infrastructure |
-| [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 87.0 | 74.0 | 8.24% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
 | [XLI](https://www.tradingview.com/chart/?symbol=XLI) | 87.0 | 74.0 | 7.96% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Industrial |
+| [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 87.0 | 74.0 | 8.24% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
 | [DBA](https://www.tradingview.com/chart/?symbol=DBA) | 82.5 | 65.0 | 4.53% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Agriculture |
 | [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 82.0 | 64.0 | 4.40% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [GLD](https://www.tradingview.com/chart/?symbol=GLD) | 81.6 | 83.0 | 13.71% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Gold |
