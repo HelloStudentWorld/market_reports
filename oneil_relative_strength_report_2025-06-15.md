@@ -76,13 +76,13 @@ Based on William O'Neil's Relative Strength Methodology
 | [XLP](https://www.tradingview.com/chart/?symbol=XLP) | 46.5 | 53.0 | 1.82% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | Consumer Staples |
 | [IYR](https://www.tradingview.com/chart/?symbol=IYR) | 43.3 | 47.0 | 0.45% | 10d ✓, 50d ✓, 200d ✗ | ↘️ | Real Estate |
 | [BIL](https://www.tradingview.com/chart/?symbol=BIL) | 41.8 | 44.0 | 0.00% | 10d ✓, 50d ✓, 200d ✗ | ↘️ | Short-term Treasuries |
-| [XLE](https://www.tradingview.com/chart/?symbol=XLE) | 37.8 | 36.0 | -1.85% | 10d ✓, 50d ✓, 200d ✗ | ↘️ | Energy |
+| [XLE](https://www.tradingview.com/chart/?symbol=XLE) | 37.3 | 35.0 | -1.85% | 10d ✓, 50d ✓, 200d ✗ | ↘️ | Energy |
 | [XLB](https://www.tradingview.com/chart/?symbol=XLB) | 35.9 | 52.0 | 1.63% | 10d ✗, 50d ✓, 200d ✗ | ↘️ | Materials |
 | [IYT](https://www.tradingview.com/chart/?symbol=IYT) | 34.4 | 49.0 | 0.99% | 10d ✗, 50d ✓, 200d ✗ | ↘️ | Transportation |
 | [IBB](https://www.tradingview.com/chart/?symbol=IBB) | 32.8 | 26.0 | -4.61% | 10d ✓, 50d ✓, 200d ✗ | ↘️ | Biotechnology |
 | [XLV](https://www.tradingview.com/chart/?symbol=XLV) | 30.8 | 22.0 | -6.07% | 10d ✓, 50d ✓, 200d ✗ | ↘️ | Healthcare |
 | [TLT](https://www.tradingview.com/chart/?symbol=TLT) | 23.9 | 28.0 | -4.26% | 10d ✓, 50d ✗, 200d ✗ | ↘️ | Long-term Treasuries |
-| [UUP](https://www.tradingview.com/chart/?symbol=UUP) | 14.0 | 28.0 | -4.30% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | U.S. Dollar |
+| [UUP](https://www.tradingview.com/chart/?symbol=UUP) | 13.5 | 27.0 | -4.30% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | U.S. Dollar |
 | [ITB](https://www.tradingview.com/chart/?symbol=ITB) | 12.0 | 24.0 | -5.35% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Home Construction |
 
 ### **Sector ETF Performance Interpretation**
@@ -106,7 +106,7 @@ The **Next Generation Internet** sector (represented by **ARKW**) is showing par
 
 ## **Buy Recommendations**
 
-The following 65 stocks show exceptional relative strength:
+The following 64 stocks show exceptional relative strength:
 
 | RS Rating | Buy Score | Current Price | Chart | Name | Ticker |
 |-----------|-----------|---------------|-------|------|--------|
@@ -123,7 +123,6 @@ The following 65 stocks show exceptional relative strength:
 | 97 | 100 | $41.76 | [Chart](https://www.tradingview.com/chart/?symbol=KTOS) | Kratos Defense & Security Solutions, Inc. | KTOS |
 | 96 | 100 | $125.33 | [Chart](https://www.tradingview.com/chart/?symbol=CLS) | Celestica, Inc. | CLS |
 | 96 | 100 | $253.18 | [Chart](https://www.tradingview.com/chart/?symbol=GWRE) | GUIDEWIRE SOFTWARE, INC. | GWRE |
-| 96 | 100 | $248.72 | [Chart](https://www.tradingview.com/chart/?symbol=CRS) | Carpenter Technology Corp | CRS |
 | 96 | 100 | $26.80 | [Chart](https://www.tradingview.com/chart/?symbol=OR) | OR Royalties Inc. | OR |
 | 96 | 100 | $21.42 | [Chart](https://www.tradingview.com/chart/?symbol=MAG) | MAG Silver Corp. | MAG |
 | 96 | 100 | $480.62 | [Chart](https://www.tradingview.com/chart/?symbol=CRWD) | CrowdStrike Holdings, Inc. Class A Common Stock | CRWD |
@@ -151,12 +150,12 @@ The following 65 stocks show exceptional relative strength:
 | 89 | 100 | $35.40 | [Chart](https://www.tradingview.com/chart/?symbol=AHR) | American Healthcare REIT, Inc. | AHR |
 | 88 | 100 | $28.61 | [Chart](https://www.tradingview.com/chart/?symbol=FMS) | Fresenius Medical Care AG | FMS |
 | 87 | 100 | $279.90 | [Chart](https://www.tradingview.com/chart/?symbol=VRSN) | VeriSign Inc | VRSN |
+| 86 | 100 | $217.50 | [Chart](https://www.tradingview.com/chart/?symbol=DRI) | Darden Restaurants, Inc. | DRI |
 | 88 | 99 | $180.22 | [Chart](https://www.tradingview.com/chart/?symbol=ITA) | iShares U.S. Aerospace & Defense ETF | ITA |
-| 88 | 99 | $182.29 | [Chart](https://www.tradingview.com/chart/?symbol=RGLD) | Royal Gold Inc | RGLD |
 | 87 | 99 | $48.80 | [Chart](https://www.tradingview.com/chart/?symbol=BTI) | British American Tobacco p.l.c. American Depositary Shares, American Depositary Shares, each representing one Ordinary Share | BTI |
-| 86 | 99 | $217.50 | [Chart](https://www.tradingview.com/chart/?symbol=DRI) | Darden Restaurants, Inc. | DRI |
 | 88 | 98 | $136.67 | [Chart](https://www.tradingview.com/chart/?symbol=PPA) | Invesco Aerospace & Defense ETF | PPA |
 | 87 | 98 | $217.30 | [Chart](https://www.tradingview.com/chart/?symbol=BAP) | Credicorp LTD | BAP |
+| 87 | 98 | $182.29 | [Chart](https://www.tradingview.com/chart/?symbol=RGLD) | Royal Gold Inc | RGLD |
 | 85 | 98 | $41.12 | [Chart](https://www.tradingview.com/chart/?symbol=VIRT) | Virtu Financial, Inc. Class A | VIRT |
 | 84 | 97 | $316.29 | [Chart](https://www.tradingview.com/chart/?symbol=GLD) | SPDR Gold Trust, SPDR Gold Shares | GLD |
 | 84 | 97 | $32.75 | [Chart](https://www.tradingview.com/chart/?symbol=SGOL) | abrdn Physical Gold Shares ETF | SGOL |
@@ -197,11 +196,11 @@ The following 156 stocks show deteriorating relative strength:
 | 3 | 100 | $20.72 | [Chart](https://www.tradingview.com/chart/?symbol=THS) | Treehouse Foods, Inc. | THS |
 | 3 | 100 | $10.32 | [Chart](https://www.tradingview.com/chart/?symbol=PACS) | PACS Group, Inc. | PACS |
 | 3 | 100 | $13.36 | [Chart](https://www.tradingview.com/chart/?symbol=INMD) | InMode Ltd. Ordinary Shares | INMD |
+| 3 | 100 | $12.36 | [Chart](https://www.tradingview.com/chart/?symbol=ERII) | Energy Recovery, Inc. | ERII |
 | 3 | 100 | $10.07 | [Chart](https://www.tradingview.com/chart/?symbol=MBC) | MasterBrand, Inc. | MBC |
 | 3 | 100 | $43.65 | [Chart](https://www.tradingview.com/chart/?symbol=LINE) | Lineage, Inc. Common Stock | LINE |
 | 4 | 100 | $137.07 | [Chart](https://www.tradingview.com/chart/?symbol=KRYS) | Krystal Biotech, Inc. Common Stock | KRYS |
 | 4 | 100 | $10.71 | [Chart](https://www.tradingview.com/chart/?symbol=PUBM) | PubMatic, Inc. Class A Common Stock | PUBM |
-| 4 | 100 | $12.36 | [Chart](https://www.tradingview.com/chart/?symbol=ERII) | Energy Recovery, Inc. | ERII |
 | 5 | 100 | $50.72 | [Chart](https://www.tradingview.com/chart/?symbol=SLVM) | Sylvamo Corporation | SLVM |
 | 5 | 100 | $10.80 | [Chart](https://www.tradingview.com/chart/?symbol=TWO) | Two Harbors Investment Corp. | TWO |
 | 5 | 100 | $29.87 | [Chart](https://www.tradingview.com/chart/?symbol=FUN) | Six Flags Entertainment Corporation | FUN |
@@ -212,17 +211,17 @@ The following 156 stocks show deteriorating relative strength:
 | 6 | 100 | $20.28 | [Chart](https://www.tradingview.com/chart/?symbol=HI) | Hillenbrand, Inc. | HI |
 | 6 | 100 | $15.27 | [Chart](https://www.tradingview.com/chart/?symbol=SAFE) | Safehold Inc. | SAFE |
 | 6 | 100 | $22.22 | [Chart](https://www.tradingview.com/chart/?symbol=AMRK) | A-Mark Precious Metals, Inc. | AMRK |
-| 6 | 100 | $38.55 | [Chart](https://www.tradingview.com/chart/?symbol=APOG) | Apogee Enterprises Inc | APOG |
 | 6 | 100 | $31.27 | [Chart](https://www.tradingview.com/chart/?symbol=MBIN) | Merchants Bancorp Common Stock | MBIN |
+| 6 | 100 | $38.55 | [Chart](https://www.tradingview.com/chart/?symbol=APOG) | Apogee Enterprises Inc | APOG |
 | 7 | 100 | $11.90 | [Chart](https://www.tradingview.com/chart/?symbol=HPK) | HighPeak Energy, Inc. Common Stock | HPK |
 | 7 | 100 | $24.90 | [Chart](https://www.tradingview.com/chart/?symbol=JANX) | Janux Therapeutics, Inc. Common Stock | JANX |
 | 7 | 100 | $10.16 | [Chart](https://www.tradingview.com/chart/?symbol=SCS) | Steelcase, Inc. | SCS |
+| 7 | 100 | $17.25 | [Chart](https://www.tradingview.com/chart/?symbol=CODI) | Compass Diversified | CODI |
 | 7 | 100 | $17.01 | [Chart](https://www.tradingview.com/chart/?symbol=AMTB) | Amerant Bancorp Inc. | AMTB |
+| 8 | 100 | $23.52 | [Chart](https://www.tradingview.com/chart/?symbol=RPD) | Rapid7, Inc. Common Stock | RPD |
 | 8 | 100 | $91.28 | [Chart](https://www.tradingview.com/chart/?symbol=ZBH) | Zimmer Biomet Holdings, Inc. | ZBH |
 | 8 | 100 | $12.85 | [Chart](https://www.tradingview.com/chart/?symbol=THRY) | Thryv Holdings, Inc. Common Stock | THRY |
-| 8 | 100 | $17.25 | [Chart](https://www.tradingview.com/chart/?symbol=CODI) | Compass Diversified | CODI |
 | 9 | 100 | $20.30 | [Chart](https://www.tradingview.com/chart/?symbol=SPT) | Sprout Social, Inc Class A Common Stock | SPT |
-| 9 | 100 | $23.52 | [Chart](https://www.tradingview.com/chart/?symbol=RPD) | Rapid7, Inc. Common Stock | RPD |
 | 9 | 100 | $26.08 | [Chart](https://www.tradingview.com/chart/?symbol=VKTX) | Viking Therapeutics, Inc | VKTX |
 | 9 | 100 | $19.40 | [Chart](https://www.tradingview.com/chart/?symbol=HVT) | Haverty Furniture Companies, Inc. | HVT |
 | 10 | 100 | $112.62 | [Chart](https://www.tradingview.com/chart/?symbol=AMR) | Alpha Metallurgical Resources, Inc. | AMR |
@@ -256,11 +255,11 @@ The following 156 stocks show deteriorating relative strength:
 | 7 | 96 | $10.41 | [Chart](https://www.tradingview.com/chart/?symbol=NEWT) | NewtekOne, Inc. Common Stock | NEWT |
 | 9 | 96 | $431.99 | [Chart](https://www.tradingview.com/chart/?symbol=WSO) | Watsco, Inc. | WSO |
 | 11 | 96 | $12.58 | [Chart](https://www.tradingview.com/chart/?symbol=PMT) | PennyMac Mortgage Investment Trust | PMT |
+| 15 | 96 | $10.30 | [Chart](https://www.tradingview.com/chart/?symbol=CARS) | Cars.com Inc. Common Stock | CARS |
 | 9 | 95 | $34.30 | [Chart](https://www.tradingview.com/chart/?symbol=AVNT) | Avient Corporation | AVNT |
 | 10 | 95 | $37.73 | [Chart](https://www.tradingview.com/chart/?symbol=WLY) | John Wiley & Sons, Inc. Class A | WLY |
 | 15 | 95 | $53.56 | [Chart](https://www.tradingview.com/chart/?symbol=GIS) | General Mills, Inc. | GIS |
 | 15 | 95 | $95.67 | [Chart](https://www.tradingview.com/chart/?symbol=UFPI) | UFP Industries, Inc. Common Stock | UFPI |
-| 16 | 95 | $10.30 | [Chart](https://www.tradingview.com/chart/?symbol=CARS) | Cars.com Inc. Common Stock | CARS |
 | 19 | 95 | $24.60 | [Chart](https://www.tradingview.com/chart/?symbol=WS) | Worthington Steel, Inc. | WS |
 | 9 | 94 | $127.52 | [Chart](https://www.tradingview.com/chart/?symbol=RGEN) | Repligen Corp | RGEN |
 | 15 | 94 | $15.06 | [Chart](https://www.tradingview.com/chart/?symbol=SEM) | SELECT MEDICAL HOLDINGS CORP | SEM |
@@ -275,27 +274,27 @@ The following 156 stocks show deteriorating relative strength:
 | 19 | 92 | $91.88 | [Chart](https://www.tradingview.com/chart/?symbol=PCAR) | Paccar Inc | PCAR |
 | 19 | 92 | $14.92 | [Chart](https://www.tradingview.com/chart/?symbol=VRE) | Veris Residential, Inc. | VRE |
 | 9 | 91 | $15.10 | [Chart](https://www.tradingview.com/chart/?symbol=QNST) | QuinStreet, Inc. | QNST |
+| 12 | 91 | $61.88 | [Chart](https://www.tradingview.com/chart/?symbol=MAS) | Masco Corporation | MAS |
 | 13 | 91 | $29.25 | [Chart](https://www.tradingview.com/chart/?symbol=OMCL) | Omnicell Inc | OMCL |
 | 14 | 91 | $72.99 | [Chart](https://www.tradingview.com/chart/?symbol=AAON) | Aaon Inc | AAON |
+| 20 | 91 | $235.26 | [Chart](https://www.tradingview.com/chart/?symbol=HUM) | Humana Inc. | HUM |
 | 22 | 91 | $21.29 | [Chart](https://www.tradingview.com/chart/?symbol=SIRI) | Sirius XM Holdings,  Inc | SIRI |
 | 12 | 90 | $39.11 | [Chart](https://www.tradingview.com/chart/?symbol=PCH) | PotlatchDeltic Corporation Common Stock | PCH |
 | 12 | 90 | $17.45 | [Chart](https://www.tradingview.com/chart/?symbol=ZTO) | ZTO Express (Cayman) Inc. American Depositary Shares, each representing one Class A ordinary share | ZTO |
-| 13 | 90 | $61.88 | [Chart](https://www.tradingview.com/chart/?symbol=MAS) | Masco Corporation | MAS |
 | 14 | 90 | $97.09 | [Chart](https://www.tradingview.com/chart/?symbol=CHD) | Church & Dwight Co., Inc. | CHD |
 | 17 | 90 | $107.02 | [Chart](https://www.tradingview.com/chart/?symbol=MHO) | M/I Homes, Inc. | MHO |
 | 18 | 90 | $10.27 | [Chart](https://www.tradingview.com/chart/?symbol=NMZ) | Nuveen Municipal High Income Opportunity Fund | NMZ |
-| 21 | 90 | $235.26 | [Chart](https://www.tradingview.com/chart/?symbol=HUM) | Humana Inc. | HUM |
 | 21 | 90 | $77.59 | [Chart](https://www.tradingview.com/chart/?symbol=OTTR) | Otter Tail Corp | OTTR |
+| 13 | 89 | $11.63 | [Chart](https://www.tradingview.com/chart/?symbol=FFIC) | Flushing Financial Corp | FFIC |
 | 15 | 89 | $455.45 | [Chart](https://www.tradingview.com/chart/?symbol=VRTX) | Vertex Pharmaceuticals Inc | VRTX |
 | 18 | 89 | $74.01 | [Chart](https://www.tradingview.com/chart/?symbol=MKC) | McCormick & Company, Incorporated Non-VTG CS | MKC |
+| 20 | 89 | $17.08 | [Chart](https://www.tradingview.com/chart/?symbol=SVOL) | Simplify Volatility Premium ETF | SVOL |
 | 23 | 89 | $15.81 | [Chart](https://www.tradingview.com/chart/?symbol=BBN) | BlackRock Taxable Municipal Bond Trust | BBN |
 | 24 | 89 | $41.98 | [Chart](https://www.tradingview.com/chart/?symbol=SW) | Smurfit Westrock plc | SW |
 | 26 | 89 | $13.00 | [Chart](https://www.tradingview.com/chart/?symbol=MRTN) | Marten Transport Ltd | MRTN |
-| 14 | 88 | $11.63 | [Chart](https://www.tradingview.com/chart/?symbol=FFIC) | Flushing Financial Corp | FFIC |
-| 20 | 88 | $62.36 | [Chart](https://www.tradingview.com/chart/?symbol=ELS) | Equity Lifestyle Properties, Inc. | ELS |
 | 20 | 88 | $16.77 | [Chart](https://www.tradingview.com/chart/?symbol=UMH) | UMH Properties, Inc. | UMH |
-| 21 | 88 | $17.08 | [Chart](https://www.tradingview.com/chart/?symbol=SVOL) | Simplify Volatility Premium ETF | SVOL |
 | 23 | 88 | $10.40 | [Chart](https://www.tradingview.com/chart/?symbol=MYI) | BLACKROCK MUNIYIELD QUALITY FUND III, INC. | MYI |
+| 20 | 87 | $62.36 | [Chart](https://www.tradingview.com/chart/?symbol=ELS) | Equity Lifestyle Properties, Inc. | ELS |
 | 21 | 87 | $45.64 | [Chart](https://www.tradingview.com/chart/?symbol=CNA) | CNA Financial Corporation | CNA |
 | 23 | 87 | $40.76 | [Chart](https://www.tradingview.com/chart/?symbol=NBTB) | NBT Bancorp Inc | NBTB |
 | 25 | 87 | $55.22 | [Chart](https://www.tradingview.com/chart/?symbol=CNC) | Centene Corporation | CNC |
@@ -306,9 +305,9 @@ The following 156 stocks show deteriorating relative strength:
 | 20 | 85 | $13.92 | [Chart](https://www.tradingview.com/chart/?symbol=BSM) | Black Stone Minerals, L.P. | BSM |
 | 17 | 84 | $86.00 | [Chart](https://www.tradingview.com/chart/?symbol=BIDU) | Baidu, Inc. | BIDU |
 | 18 | 83 | $196.45 | [Chart](https://www.tradingview.com/chart/?symbol=AAPL) | Apple Inc. | AAPL |
+| 22 | 83 | $23.35 | [Chart](https://www.tradingview.com/chart/?symbol=FFBC) | First Financial Bancorp | FFBC |
 | 23 | 83 | $17.70 | [Chart](https://www.tradingview.com/chart/?symbol=JPMpM) | JPMorgan Chase & Co. Depositary Shares, each representing a 1/400th interest in a share of 4.20% Non-Cumulative Preferred Stock, Series MM | JPMpM |
 | 24 | 83 | $22.68 | [Chart](https://www.tradingview.com/chart/?symbol=TLTW) | iShares 20+ Year Treasury Bond BuyWrite Strategy ETF | TLTW |
-| 23 | 82 | $23.35 | [Chart](https://www.tradingview.com/chart/?symbol=FFBC) | First Financial Bancorp | FFBC |
 | 22 | 81 | $130.84 | [Chart](https://www.tradingview.com/chart/?symbol=KMB) | Kimberly-Clark Corp. | KMB |
 | 22 | 81 | $30.23 | [Chart](https://www.tradingview.com/chart/?symbol=CENTA) | Central Garden & Pet Company | CENTA |
 | 27 | 81 | $71.62 | [Chart](https://www.tradingview.com/chart/?symbol=SWX) | Southwest Gas Holdings, Inc. | SWX |
@@ -320,10 +319,10 @@ The following 156 stocks show deteriorating relative strength:
 | 29 | 79 | $54.94 | [Chart](https://www.tradingview.com/chart/?symbol=VGLT) | Vanguard Long-Term Treasury ETF | VGLT |
 | 28 | 78 | $86.33 | [Chart](https://www.tradingview.com/chart/?symbol=TLT) | iShares 20+ Year Treasury Bond ETF | TLT |
 | 32 | 78 | $44.40 | [Chart](https://www.tradingview.com/chart/?symbol=SON) | Sonoco Products Company | SON |
+| 25 | 77 | $43.21 | [Chart](https://www.tradingview.com/chart/?symbol=FBK) | FB Financial Corporation | FBK |
 | 26 | 77 | $98.39 | [Chart](https://www.tradingview.com/chart/?symbol=CCI) | Crown Castle Inc. | CCI |
 | 26 | 77 | $41.23 | [Chart](https://www.tradingview.com/chart/?symbol=UDR) | UDR, Inc. | UDR |
 | 31 | 77 | $217.27 | [Chart](https://www.tradingview.com/chart/?symbol=LOW) | Lowe's Companies Inc. | LOW |
-| 26 | 76 | $43.21 | [Chart](https://www.tradingview.com/chart/?symbol=FBK) | FB Financial Corporation | FBK |
 | 29 | 76 | $10.82 | [Chart](https://www.tradingview.com/chart/?symbol=NEA) | Nuveen AMT-Free Quality Municipal Income Fund | NEA |
 | 31 | 76 | $85.12 | [Chart](https://www.tradingview.com/chart/?symbol=SIGI) | Selective Insurance Group | SIGI |
 | 25 | 75 | $136.12 | [Chart](https://www.tradingview.com/chart/?symbol=DVA) | DaVita Inc. | DVA |
