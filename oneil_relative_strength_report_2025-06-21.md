@@ -50,8 +50,8 @@ Based on William O'Neil's Relative Strength Methodology
 | ETF | Strength | RS Rating | Performance | Above Key MAs | Trend | Sector |
 |-----|----------|-----------|-------------|--------------|-------|--------|
 | [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 99.0 | 98.0 | 44.30% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
-| [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 98.5 | 97.0 | 35.27% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
 | [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 98.5 | 97.0 | 35.41% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Innovation |
+| [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 98.5 | 97.0 | 35.27% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
 | [GLD](https://www.tradingview.com/chart/?symbol=GLD) | 89.5 | 79.0 | 10.46% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Gold |
 | [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 88.6 | 97.0 | 37.81% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
 | [CIBR](https://www.tradingview.com/chart/?symbol=CIBR) | 80.1 | 80.0 | 10.89% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Cybersecurity |
@@ -59,8 +59,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [URA](https://www.tradingview.com/chart/?symbol=URA) | 79.0 | 98.0 | 44.88% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Uranium |
 | [PAVE](https://www.tradingview.com/chart/?symbol=PAVE) | 77.6 | 75.0 | 8.42% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Infrastructure |
 | [SLV](https://www.tradingview.com/chart/?symbol=SLV) | 76.6 | 73.0 | 7.28% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Silver |
-| [XLY](https://www.tradingview.com/chart/?symbol=XLY) | 76.6 | 73.0 | 7.09% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Consumer Discretionary |
 | [XLI](https://www.tradingview.com/chart/?symbol=XLI) | 76.6 | 73.0 | 7.08% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Industrial |
+| [XLY](https://www.tradingview.com/chart/?symbol=XLY) | 76.6 | 73.0 | 7.09% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Consumer Discretionary |
 | [XLC](https://www.tradingview.com/chart/?symbol=XLC) | 75.6 | 71.0 | 6.20% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Communications |
 | [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 71.6 | 63.0 | 3.64% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
 | [SOXX](https://www.tradingview.com/chart/?symbol=SOXX) | 70.5 | 81.0 | 11.72% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Semiconductors |
@@ -98,7 +98,7 @@ This table shows the relative strength metrics for different market sectors base
 
 ### **Current Sector Leadership**
 
-The current market leadership is coming from the following sectors: **Next Generation Internet, Fintech Innovation, Innovation**.
+The current market leadership is coming from the following sectors: **Next Generation Internet, Innovation, Fintech Innovation**.
 
 The **Next Generation Internet** sector (represented by **ARKW**) is showing particularly strong relative strength with an RS rating of 98.0 and performance of 44.30% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
 
