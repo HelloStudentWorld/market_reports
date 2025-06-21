@@ -58,9 +58,9 @@ Based on William O'Neil's Relative Strength Methodology
 | [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 79.1 | 78.0 | 9.93% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
 | [URA](https://www.tradingview.com/chart/?symbol=URA) | 79.0 | 98.0 | 44.88% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Uranium |
 | [PAVE](https://www.tradingview.com/chart/?symbol=PAVE) | 77.6 | 75.0 | 8.42% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Infrastructure |
-| [XLI](https://www.tradingview.com/chart/?symbol=XLI) | 76.6 | 73.0 | 7.08% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Industrial |
 | [XLY](https://www.tradingview.com/chart/?symbol=XLY) | 76.6 | 73.0 | 7.09% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Consumer Discretionary |
 | [SLV](https://www.tradingview.com/chart/?symbol=SLV) | 76.6 | 73.0 | 7.28% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Silver |
+| [XLI](https://www.tradingview.com/chart/?symbol=XLI) | 76.6 | 73.0 | 7.08% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Industrial |
 | [XLC](https://www.tradingview.com/chart/?symbol=XLC) | 75.6 | 71.0 | 6.20% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Communications |
 | [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 71.6 | 63.0 | 3.64% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
 | [SOXX](https://www.tradingview.com/chart/?symbol=SOXX) | 70.5 | 81.0 | 11.72% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Semiconductors |
