@@ -50,8 +50,8 @@ Based on William O'Neil's Relative Strength Methodology
 | ETF | Strength | RS Rating | Performance | Above Key MAs | Trend | Sector |
 |-----|----------|-----------|-------------|--------------|-------|--------|
 | [URA](https://www.tradingview.com/chart/?symbol=URA) | 99.5 | 99.0 | 52.30% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Uranium |
-| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 99.0 | 98.0 | 39.51% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
 | [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 99.0 | 98.0 | 43.91% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
+| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 99.0 | 98.0 | 39.51% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
 | [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 98.5 | 97.0 | 33.91% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
 | [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 97.5 | 95.0 | 29.75% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Innovation |
 | [XLK](https://www.tradingview.com/chart/?symbol=XLK) | 92.0 | 84.0 | 13.61% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Technology |
@@ -98,7 +98,7 @@ This table shows the relative strength metrics for different market sectors base
 
 ### **Current Sector Leadership**
 
-The current market leadership is coming from the following sectors: **Uranium, Next Generation Internet, Blockchain & Cryptocurrency**.
+The current market leadership is coming from the following sectors: **Uranium, Blockchain & Cryptocurrency, Next Generation Internet**.
 
 The **Uranium** sector (represented by **URA**) is showing particularly strong relative strength with an RS rating of 99.0 and performance of 52.30% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
 
