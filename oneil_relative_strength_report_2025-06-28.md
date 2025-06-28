@@ -50,8 +50,8 @@ Based on William O'Neil's Relative Strength Methodology
 | ETF | Strength | RS Rating | Performance | Above Key MAs | Trend | Sector |
 |-----|----------|-----------|-------------|--------------|-------|--------|
 | [URA](https://www.tradingview.com/chart/?symbol=URA) | 99.5 | 99.0 | 61.04% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Uranium |
-| [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 98.5 | 97.0 | 44.22% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
 | [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 98.5 | 97.0 | 44.98% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
+| [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 98.5 | 97.0 | 44.22% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
 | [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 98.0 | 96.0 | 39.19% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
 | [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 98.0 | 96.0 | 37.53% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Innovation |
 | [XLK](https://www.tradingview.com/chart/?symbol=XLK) | 93.0 | 86.0 | 18.56% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Technology |
@@ -62,8 +62,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [XLC](https://www.tradingview.com/chart/?symbol=XLC) | 85.5 | 71.0 | 9.15% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Communications |
 | [XLY](https://www.tradingview.com/chart/?symbol=XLY) | 83.5 | 67.0 | 7.49% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Consumer Discretionary |
 | [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 81.0 | 62.0 | 5.93% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
-| [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 79.5 | 59.0 | 5.06% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Utilities |
 | [JETS](https://www.tradingview.com/chart/?symbol=JETS) | 79.5 | 59.0 | 5.14% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Airlines |
+| [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 79.5 | 59.0 | 5.06% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Utilities |
 | [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 77.0 | 54.0 | 3.51% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [SOXX](https://www.tradingview.com/chart/?symbol=SOXX) | 75.0 | 90.0 | 22.77% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Semiconductors |
 | [ICLN](https://www.tradingview.com/chart/?symbol=ICLN) | 69.0 | 78.0 | 12.92% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Clean Energy |
@@ -98,7 +98,7 @@ This table shows the relative strength metrics for different market sectors base
 
 ### **Current Sector Leadership**
 
-The current market leadership is coming from the following sectors: **Uranium, Blockchain & Cryptocurrency, Next Generation Internet**.
+The current market leadership is coming from the following sectors: **Uranium, Next Generation Internet, Blockchain & Cryptocurrency**.
 
 The **Uranium** sector (represented by **URA**) is showing particularly strong relative strength with an RS rating of 99.0 and performance of 61.04% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
 
