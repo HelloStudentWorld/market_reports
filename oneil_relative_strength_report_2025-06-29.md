@@ -62,8 +62,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [XLC](https://www.tradingview.com/chart/?symbol=XLC) | 85.5 | 71.0 | 9.15% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Communications |
 | [XLY](https://www.tradingview.com/chart/?symbol=XLY) | 83.5 | 67.0 | 7.49% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Consumer Discretionary |
 | [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 81.0 | 62.0 | 5.93% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
-| [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 79.5 | 59.0 | 5.06% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Utilities |
 | [JETS](https://www.tradingview.com/chart/?symbol=JETS) | 79.5 | 59.0 | 5.14% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Airlines |
+| [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 79.5 | 59.0 | 5.06% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Utilities |
 | [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 77.0 | 54.0 | 3.51% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [SOXX](https://www.tradingview.com/chart/?symbol=SOXX) | 75.0 | 90.0 | 22.77% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Semiconductors |
 | [ICLN](https://www.tradingview.com/chart/?symbol=ICLN) | 69.0 | 78.0 | 12.92% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Clean Energy |
