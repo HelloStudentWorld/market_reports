@@ -213,12 +213,14 @@ The following 97 stocks show exceptional relative strength:
 
 ## **Sell Recommendations**
 
-The following 74 stocks show deteriorating relative strength:
+The following 76 stocks show deteriorating relative strength:
 
 | RS Rating | Sell Score | Current Price | Chart | Name | Ticker |
 |-----------|------------|---------------|-------|------|--------|
 | 1 | 100 | $26.76 | [Chart](https://www.tradingview.com/chart/?symbol=TECS) | Direxion Daily Technology Bear 3x Shares | TECS |
 | 1 | 100 | $25.32 | [Chart](https://www.tradingview.com/chart/?symbol=QID) | ProShares UltraShort QQQ | QID |
+| 1 | 100 | $13.00 | [Chart](https://www.tradingview.com/chart/?symbol=RXST) | RxSight, Inc. Common Stock | RXST |
+| 1 | 100 | $28.38 | [Chart](https://www.tradingview.com/chart/?symbol=HELE) | Helen Of Troy Ltd | HELE |
 | 1 | 100 | $14.46 | [Chart](https://www.tradingview.com/chart/?symbol=NVDS) | Investment Managers Series Trust II Tradr 1.5X Short NVDA Daily ETF | NVDS |
 | 1 | 100 | $10.09 | [Chart](https://www.tradingview.com/chart/?symbol=HIBS) | Direxion Daily S&P 500 High Beta Bear 3X Shares | HIBS |
 | 2 | 100 | $11.39 | [Chart](https://www.tradingview.com/chart/?symbol=NRIX) | Nurix Therapeutics, Inc. Common stock | NRIX |
@@ -261,7 +263,6 @@ The following 74 stocks show deteriorating relative strength:
 | 9 | 93 | $68.45 | [Chart](https://www.tradingview.com/chart/?symbol=WK) | Workiva Inc. | WK |
 | 19 | 93 | $25.48 | [Chart](https://www.tradingview.com/chart/?symbol=DOG) | ProShares Short Dow30 | DOG |
 | 18 | 92 | $25.79 | [Chart](https://www.tradingview.com/chart/?symbol=ATHM) | Autohome Inc. American Depositary Shares, each representing four Class A Ordinary Shares | ATHM |
-| 9 | 91 | $48.31 | [Chart](https://www.tradingview.com/chart/?symbol=SNY) | Sanofi American Depositary Shares (Each representing one-half of one ordinary share) | SNY |
 | 17 | 91 | $73.14 | [Chart](https://www.tradingview.com/chart/?symbol=TNET) | TRINET GROUP, INC. | TNET |
 | 17 | 91 | $46.68 | [Chart](https://www.tradingview.com/chart/?symbol=GLPI) | Gaming and Leisure Properties, Inc. | GLPI |
 | 15 | 90 | $35.01 | [Chart](https://www.tradingview.com/chart/?symbol=WPP) | WPP PLC | WPP |
@@ -273,6 +274,7 @@ The following 74 stocks show deteriorating relative strength:
 | 17 | 87 | $297.90 | [Chart](https://www.tradingview.com/chart/?symbol=MOH) | Molina Healthcare, Inc. | MOH |
 | 19 | 87 | $75.35 | [Chart](https://www.tradingview.com/chart/?symbol=CNS) | Cohen & Steers Inc. | CNS |
 | 26 | 87 | $70.68 | [Chart](https://www.tradingview.com/chart/?symbol=TTC) | Toro Company (The) | TTC |
+| 20 | 86 | $287.35 | [Chart](https://www.tradingview.com/chart/?symbol=UTHR) | United Therapeutics Corp | UTHR |
 | 16 | 84 | $40.83 | [Chart](https://www.tradingview.com/chart/?symbol=UDR) | UDR, Inc. | UDR |
 | 24 | 84 | $101.28 | [Chart](https://www.tradingview.com/chart/?symbol=CROX) | Crocs, Inc. | CROX |
 | 18 | 83 | $124.38 | [Chart](https://www.tradingview.com/chart/?symbol=RGEN) | Repligen Corp | RGEN |
