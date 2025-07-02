@@ -56,8 +56,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [XLK](https://www.tradingview.com/chart/?symbol=XLK) | 92.0 | 84.0 | 21.94% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Technology |
 | [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 90.0 | 80.0 | 18.44% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
 | [URA](https://www.tradingview.com/chart/?symbol=URA) | 89.6 | 99.0 | 63.39% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Uranium |
-| [CIBR](https://www.tradingview.com/chart/?symbol=CIBR) | 89.0 | 78.0 | 17.32% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Cybersecurity |
 | [PAVE](https://www.tradingview.com/chart/?symbol=PAVE) | 89.0 | 78.0 | 17.11% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Infrastructure |
+| [CIBR](https://www.tradingview.com/chart/?symbol=CIBR) | 89.0 | 78.0 | 17.32% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Cybersecurity |
 | [JETS](https://www.tradingview.com/chart/?symbol=JETS) | 88.5 | 77.0 | 16.39% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Airlines |
 | [XLI](https://www.tradingview.com/chart/?symbol=XLI) | 84.5 | 69.0 | 12.40% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Industrial |
 | [XLC](https://www.tradingview.com/chart/?symbol=XLC) | 83.0 | 66.0 | 11.34% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Communications |
@@ -202,9 +202,9 @@ The following 43 stocks show deteriorating relative strength:
 | 5 | 96 | $24.77 | [Chart](https://www.tradingview.com/chart/?symbol=DRV) | Direxion Daily Real Estate Bear 3X Shares | DRV |
 | 10 | 95 | $18.19 | [Chart](https://www.tradingview.com/chart/?symbol=DJT) | Trump Media & Technology Group Corp. Common Stock | DJT |
 | 12 | 93 | $54.22 | [Chart](https://www.tradingview.com/chart/?symbol=CNMD) | CONMED Corporation | CNMD |
-| 11 | 92 | $49.31 | [Chart](https://www.tradingview.com/chart/?symbol=SNY) | Sanofi American Depositary Shares (Each representing one-half of one ordinary share) | SNY |
 | 16 | 92 | $25.27 | [Chart](https://www.tradingview.com/chart/?symbol=DOG) | ProShares Short Dow30 | DOG |
 | 18 | 92 | $86.44 | [Chart](https://www.tradingview.com/chart/?symbol=BIDU) | Baidu, Inc. | BIDU |
+| 11 | 91 | $49.31 | [Chart](https://www.tradingview.com/chart/?symbol=SNY) | Sanofi American Depositary Shares (Each representing one-half of one ordinary share) | SNY |
 | 10 | 90 | $67.85 | [Chart](https://www.tradingview.com/chart/?symbol=WK) | Workiva Inc. | WK |
 | 14 | 89 | $132.36 | [Chart](https://www.tradingview.com/chart/?symbol=KMB) | Kimberly-Clark Corp. | KMB |
 | 17 | 87 | $19.15 | [Chart](https://www.tradingview.com/chart/?symbol=MSDL) | Morgan Stanley Direct Lending Fund | MSDL |
