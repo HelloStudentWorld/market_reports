@@ -49,10 +49,10 @@ Based on William O'Neil's Relative Strength Methodology
 
 | ETF | Strength | RS Rating | Performance | Above Key MAs | Trend | Sector |
 |-----|----------|-----------|-------------|--------------|-------|--------|
-| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 98.5 | 97.0 | 49.06% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
 | [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 98.5 | 97.0 | 48.82% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
-| [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 98.0 | 96.0 | 44.64% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Innovation |
+| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 98.5 | 97.0 | 49.06% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
 | [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 98.0 | 96.0 | 44.72% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
+| [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 98.0 | 96.0 | 44.64% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Innovation |
 | [XLK](https://www.tradingview.com/chart/?symbol=XLK) | 93.0 | 86.0 | 22.64% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Technology |
 | [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 90.5 | 81.0 | 18.95% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
 | [CIBR](https://www.tradingview.com/chart/?symbol=CIBR) | 90.0 | 80.0 | 17.81% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Cybersecurity |
@@ -67,8 +67,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [GLD](https://www.tradingview.com/chart/?symbol=GLD) | 77.0 | 54.0 | 6.59% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Gold |
 | [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 76.5 | 53.0 | 6.04% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [SOXX](https://www.tradingview.com/chart/?symbol=SOXX) | 75.5 | 91.0 | 28.43% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Semiconductors |
-| [ARKG](https://www.tradingview.com/chart/?symbol=ARKG) | 72.5 | 85.0 | 21.66% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Genomics |
 | [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 72.5 | 45.0 | 3.05% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Utilities |
+| [ARKG](https://www.tradingview.com/chart/?symbol=ARKG) | 72.5 | 85.0 | 21.66% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Genomics |
 | [ICLN](https://www.tradingview.com/chart/?symbol=ICLN) | 71.0 | 82.0 | 19.74% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Clean Energy |
 | [XLP](https://www.tradingview.com/chart/?symbol=XLP) | 69.0 | 38.0 | 0.77% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Consumer Staples |
 | [IYT](https://www.tradingview.com/chart/?symbol=IYT) | 60.0 | 60.0 | 8.74% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Transportation |
@@ -98,9 +98,9 @@ This table shows the relative strength metrics for different market sectors base
 
 ### **Current Sector Leadership**
 
-The current market leadership is coming from the following sectors: **Next Generation Internet, Blockchain & Cryptocurrency, Innovation**.
+The current market leadership is coming from the following sectors: **Blockchain & Cryptocurrency, Next Generation Internet, Fintech Innovation**.
 
-The **Next Generation Internet** sector (represented by **ARKW**) is showing particularly strong relative strength with an RS rating of 97.0 and performance of 49.06% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
+The **Blockchain & Cryptocurrency** sector (represented by **BLOK**) is showing particularly strong relative strength with an RS rating of 97.0 and performance of 48.82% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
 
 ---
 
