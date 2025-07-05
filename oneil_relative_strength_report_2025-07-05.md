@@ -49,10 +49,10 @@ Based on William O'Neil's Relative Strength Methodology
 
 | ETF | Strength | RS Rating | Performance | Above Key MAs | Trend | Sector |
 |-----|----------|-----------|-------------|--------------|-------|--------|
-| [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 98.5 | 97.0 | 48.82% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
 | [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 98.5 | 97.0 | 49.06% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
-| [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 98.0 | 96.0 | 44.72% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
+| [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 98.5 | 97.0 | 48.82% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
 | [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 98.0 | 96.0 | 44.64% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Innovation |
+| [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 98.0 | 96.0 | 44.72% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
 | [XLK](https://www.tradingview.com/chart/?symbol=XLK) | 93.0 | 86.0 | 22.64% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Technology |
 | [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 90.5 | 81.0 | 18.95% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
 | [CIBR](https://www.tradingview.com/chart/?symbol=CIBR) | 90.0 | 80.0 | 17.81% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Cybersecurity |
@@ -98,15 +98,15 @@ This table shows the relative strength metrics for different market sectors base
 
 ### **Current Sector Leadership**
 
-The current market leadership is coming from the following sectors: **Blockchain & Cryptocurrency, Next Generation Internet, Fintech Innovation**.
+The current market leadership is coming from the following sectors: **Next Generation Internet, Blockchain & Cryptocurrency, Innovation**.
 
-The **Blockchain & Cryptocurrency** sector (represented by **BLOK**) is showing particularly strong relative strength with an RS rating of 97.0 and performance of 48.82% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
+The **Next Generation Internet** sector (represented by **ARKW**) is showing particularly strong relative strength with an RS rating of 97.0 and performance of 49.06% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
 
 ---
 
 ## **Buy Recommendations**
 
-The following 76 stocks show exceptional relative strength:
+The following 70 stocks show exceptional relative strength:
 
 | RS Rating | Buy Score | Current Price | Chart | Name | Ticker |
 |-----------|-----------|---------------|-------|------|--------|
@@ -148,11 +148,9 @@ The following 76 stocks show exceptional relative strength:
 | 91 | 100 | $403.99 | [Chart](https://www.tradingview.com/chart/?symbol=MSTR) | MicroStrategy Inc | MSTR |
 | 91 | 100 | $106.71 | [Chart](https://www.tradingview.com/chart/?symbol=JCI) | Johnson Controls International plc | JCI |
 | 90 | 100 | $28.23 | [Chart](https://www.tradingview.com/chart/?symbol=SRAD) | Sportradar Group AG Class A Ordinary Shares | SRAD |
-| 90 | 100 | $43.99 | [Chart](https://www.tradingview.com/chart/?symbol=BBIO) | BridgeBio Pharma, Inc. Common Stock | BBIO |
 | 90 | 100 | $65.70 | [Chart](https://www.tradingview.com/chart/?symbol=CAKE) | Cheesecake Factory (The) | CAKE |
 | 90 | 100 | $25.80 | [Chart](https://www.tradingview.com/chart/?symbol=KAR) | OPENLANE, Inc | KAR |
 | 89 | 100 | $238.79 | [Chart](https://www.tradingview.com/chart/?symbol=DASH) | DoorDash, Inc. Class A Common Stock | DASH |
-| 89 | 100 | $30.93 | [Chart](https://www.tradingview.com/chart/?symbol=HODL) | VanEck Bitcoin ETF | HODL |
 | 88 | 100 | $59.10 | [Chart](https://www.tradingview.com/chart/?symbol=SHLD) | Global X Defense Tech ETF | SHLD |
 | 87 | 100 | $46.15 | [Chart](https://www.tradingview.com/chart/?symbol=EXEL) | Exelixis Inc | EXEL |
 | 89 | 99 | $62.19 | [Chart](https://www.tradingview.com/chart/?symbol=IBIT) | iShares Bitcoin Trust ETF | IBIT |
@@ -167,7 +165,6 @@ The following 76 stocks show exceptional relative strength:
 | 84 | 96 | $90.20 | [Chart](https://www.tradingview.com/chart/?symbol=TPR) | Tapestry, Inc. Common Stock | TPR |
 | 83 | 96 | $29.25 | [Chart](https://www.tradingview.com/chart/?symbol=DB) | Deutsche Bank Aktiengesellschaft | DB |
 | 83 | 96 | $29.65 | [Chart](https://www.tradingview.com/chart/?symbol=CAE) | CAE INC | CAE |
-| 83 | 96 | $37.07 | [Chart](https://www.tradingview.com/chart/?symbol=AHR) | American Healthcare REIT, Inc. | AHR |
 | 85 | 95 | $252.69 | [Chart](https://www.tradingview.com/chart/?symbol=WTS) | Watts Water Technologies, Inc. Class A | WTS |
 | 84 | 95 | $186.86 | [Chart](https://www.tradingview.com/chart/?symbol=ITA) | iShares U.S. Aerospace & Defense ETF | ITA |
 | 84 | 95 | $220.91 | [Chart](https://www.tradingview.com/chart/?symbol=COF) | Capital One Financial | COF |
@@ -180,11 +177,8 @@ The following 76 stocks show exceptional relative strength:
 | 83 | 93 | $120.27 | [Chart](https://www.tradingview.com/chart/?symbol=TWLO) | Twilio Inc. | TWLO |
 | 83 | 93 | $60.14 | [Chart](https://www.tradingview.com/chart/?symbol=NTR) | Nutrien Ltd. Common Shares | NTR |
 | 80 | 93 | $182.77 | [Chart](https://www.tradingview.com/chart/?symbol=EAT) | Brinker International, Inc. | EAT |
-| 82 | 92 | $112.51 | [Chart](https://www.tradingview.com/chart/?symbol=SPMO) | Invesco S&P 500 Momentum ETF | SPMO |
 | 80 | 92 | $75.93 | [Chart](https://www.tradingview.com/chart/?symbol=CIBR) | First Trust Exchange-Traded Fund II First Trust NASDAQ Cybersecurity ETF | CIBR |
-| 81 | 91 | $269.02 | [Chart](https://www.tradingview.com/chart/?symbol=FDN) | First Trust Dow Jones Internet Index Fund ETF | FDN |
 | 81 | 91 | $141.76 | [Chart](https://www.tradingview.com/chart/?symbol=PPA) | Invesco Aerospace & Defense ETF | PPA |
-| 80 | 91 | $227.25 | [Chart](https://www.tradingview.com/chart/?symbol=BAP) | Credicorp LTD | BAP |
 | 80 | 90 | $29.41 | [Chart](https://www.tradingview.com/chart/?symbol=NTGR) | NETGEAR, Inc. | NTGR |
 
 ---
