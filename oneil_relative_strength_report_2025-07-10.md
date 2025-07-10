@@ -49,9 +49,9 @@ Based on William O'Neil's Relative Strength Methodology
 
 | ETF | Strength | RS Rating | Performance | Above Key MAs | Trend | Sector |
 |-----|----------|-----------|-------------|--------------|-------|--------|
-| [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 98.0 | 96.0 | 81.58% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Innovation |
-| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 98.0 | 96.0 | 82.19% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
 | [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 98.0 | 96.0 | 76.67% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
+| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 98.0 | 96.0 | 82.19% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
+| [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 98.0 | 96.0 | 81.58% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Innovation |
 | [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 97.0 | 94.0 | 64.59% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
 | [JETS](https://www.tradingview.com/chart/?symbol=JETS) | 93.0 | 86.0 | 47.44% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Airlines |
 | [XLK](https://www.tradingview.com/chart/?symbol=XLK) | 91.5 | 83.0 | 42.98% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Technology |
@@ -69,8 +69,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 68.0 | 36.0 | 12.97% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Utilities |
 | [GLD](https://www.tradingview.com/chart/?symbol=GLD) | 66.5 | 33.0 | 11.26% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Gold |
 | [IYT](https://www.tradingview.com/chart/?symbol=IYT) | 65.5 | 71.0 | 31.37% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Transportation |
-| [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 65.1 | 50.0 | 20.26% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
 | [KWEB](https://www.tradingview.com/chart/?symbol=KWEB) | 65.1 | 50.0 | 20.44% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Chinese Internet |
+| [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 65.1 | 50.0 | 20.26% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
 | [ICLN](https://www.tradingview.com/chart/?symbol=ICLN) | 63.0 | 66.0 | 28.31% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Clean Energy |
 | [XLB](https://www.tradingview.com/chart/?symbol=XLB) | 58.5 | 57.0 | 24.24% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Materials |
 | [IBB](https://www.tradingview.com/chart/?symbol=IBB) | 54.0 | 48.0 | 19.31% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Biotechnology |
@@ -98,9 +98,9 @@ This table shows the relative strength metrics for different market sectors base
 
 ### **Current Sector Leadership**
 
-The current market leadership is coming from the following sectors: **Innovation, Next Generation Internet, Fintech Innovation**.
+The current market leadership is coming from the following sectors: **Fintech Innovation, Next Generation Internet, Innovation**.
 
-The **Innovation** sector (represented by **ARKK**) is showing particularly strong relative strength with an RS rating of 96.0 and performance of 81.58% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
+The **Fintech Innovation** sector (represented by **ARKF**) is showing particularly strong relative strength with an RS rating of 96.0 and performance of 76.67% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
 
 ---
 
@@ -110,14 +110,14 @@ The following 40 stocks show exceptional relative strength:
 
 | RS Rating | Buy Score | Current Price | Chart | Name | Ticker |
 |-----------|-----------|---------------|-------|------|--------|
-| 100 | 100 | $98.70 | [Chart](https://www.tradingview.com/chart/?symbol=HOOD) | Robinhood Markets, Inc. Class A Common Stock | HOOD |
 | 100 | 100 | $197.46 | [Chart](https://www.tradingview.com/chart/?symbol=LEU) | Centrus Energy Corp. | LEU |
+| 100 | 100 | $98.70 | [Chart](https://www.tradingview.com/chart/?symbol=HOOD) | Robinhood Markets, Inc. Class A Common Stock | HOOD |
+| 99 | 100 | $105.03 | [Chart](https://www.tradingview.com/chart/?symbol=RBLX) | Roblox Corporation | RBLX |
 | 99 | 100 | $149.22 | [Chart](https://www.tradingview.com/chart/?symbol=LMB) | Limbach Holdings, Inc Common Stock | LMB |
 | 99 | 100 | $45.23 | [Chart](https://www.tradingview.com/chart/?symbol=MP) | MP Materials Corp. | MP |
 | 99 | 100 | $35.44 | [Chart](https://www.tradingview.com/chart/?symbol=GRPN) | Groupon, Inc.Common Stock | GRPN |
-| 99 | 100 | $105.03 | [Chart](https://www.tradingview.com/chart/?symbol=RBLX) | Roblox Corporation | RBLX |
-| 98 | 100 | $143.49 | [Chart](https://www.tradingview.com/chart/?symbol=FUTU) | Futu Holdings Limited American Depositary Shares | FUTU |
 | 98 | 100 | $104.85 | [Chart](https://www.tradingview.com/chart/?symbol=VRNA) | Verona Pharma plc | VRNA |
+| 98 | 100 | $143.49 | [Chart](https://www.tradingview.com/chart/?symbol=FUTU) | Futu Holdings Limited American Depositary Shares | FUTU |
 | 98 | 100 | $345.55 | [Chart](https://www.tradingview.com/chart/?symbol=CVNA) | Carvana Co. | CVNA |
 | 97 | 100 | $142.50 | [Chart](https://www.tradingview.com/chart/?symbol=PLTR) | Palantir Technologies Inc. Class A Common Stock | PLTR |
 | 97 | 100 | $539.36 | [Chart](https://www.tradingview.com/chart/?symbol=GEV) | GE Vernova Inc. | GEV |
@@ -126,17 +126,17 @@ The following 40 stocks show exceptional relative strength:
 | 95 | 100 | $49.22 | [Chart](https://www.tradingview.com/chart/?symbol=REVG) | REV Group, Inc. | REVG |
 | 94 | 100 | $72.47 | [Chart](https://www.tradingview.com/chart/?symbol=URBN) | Urban Outfitters Inc | URBN |
 | 93 | 100 | $52.70 | [Chart](https://www.tradingview.com/chart/?symbol=INOD) | Innodata Inc. | INOD |
+| 92 | 100 | $58.92 | [Chart](https://www.tradingview.com/chart/?symbol=IBKR) | Interactive Brokers Group, Inc. Class A Common Stock | IBKR |
+| 92 | 100 | $97.64 | [Chart](https://www.tradingview.com/chart/?symbol=TPR) | Tapestry, Inc. Common Stock | TPR |
+| 92 | 100 | $46.27 | [Chart](https://www.tradingview.com/chart/?symbol=KTOS) | Kratos Defense & Security Solutions, Inc. | KTOS |
 | 92 | 100 | $289.87 | [Chart](https://www.tradingview.com/chart/?symbol=RL) | Ralph Lauren Corporation | RL |
 | 92 | 100 | $34.60 | [Chart](https://www.tradingview.com/chart/?symbol=APG) | APi Group Corporation | APG |
-| 92 | 100 | $58.92 | [Chart](https://www.tradingview.com/chart/?symbol=IBKR) | Interactive Brokers Group, Inc. Class A Common Stock | IBKR |
-| 92 | 100 | $46.27 | [Chart](https://www.tradingview.com/chart/?symbol=KTOS) | Kratos Defense & Security Solutions, Inc. | KTOS |
-| 92 | 100 | $97.64 | [Chart](https://www.tradingview.com/chart/?symbol=TPR) | Tapestry, Inc. Common Stock | TPR |
 | 90 | 100 | $46.27 | [Chart](https://www.tradingview.com/chart/?symbol=BBIO) | BridgeBio Pharma, Inc. Common Stock | BBIO |
 | 89 | 100 | $29.99 | [Chart](https://www.tradingview.com/chart/?symbol=DB) | Deutsche Bank Aktiengesellschaft | DB |
 | 87 | 100 | $18.81 | [Chart](https://www.tradingview.com/chart/?symbol=BCS) | Barclays PLC | BCS |
 | 90 | 99 | $89.04 | [Chart](https://www.tradingview.com/chart/?symbol=RYTM) | Rhythm Pharmaceuticals, Inc. Common Stock | RYTM |
-| 88 | 99 | $252.57 | [Chart](https://www.tradingview.com/chart/?symbol=GE) | GE Aerospace | GE |
 | 88 | 99 | $36.03 | [Chart](https://www.tradingview.com/chart/?symbol=ATAT) | Atour Lifestyle Holdings Limited American Depositary Shares | ATAT |
+| 88 | 99 | $252.57 | [Chart](https://www.tradingview.com/chart/?symbol=GE) | GE Aerospace | GE |
 | 87 | 98 | $50.27 | [Chart](https://www.tradingview.com/chart/?symbol=BTC) | Grayscale Bitcoin Mini Trust ETF | BTC |
 | 86 | 98 | $46.24 | [Chart](https://www.tradingview.com/chart/?symbol=DRS) | Leonardo DRS, Inc. Common Stock | DRS |
 | 87 | 97 | $64.50 | [Chart](https://www.tradingview.com/chart/?symbol=IBIT) | iShares Bitcoin Trust ETF | IBIT |
@@ -156,36 +156,36 @@ The following 40 stocks show exceptional relative strength:
 
 ## **Sell Recommendations**
 
-The following 80 stocks show deteriorating relative strength:
+The following 79 stocks show deteriorating relative strength:
 
 | RS Rating | Sell Score | Current Price | Chart | Name | Ticker |
 |-----------|------------|---------------|-------|------|--------|
-| 1 | 100 | $25.02 | [Chart](https://www.tradingview.com/chart/?symbol=QID) | ProShares UltraShort QQQ | QID |
 | 1 | 100 | $23.96 | [Chart](https://www.tradingview.com/chart/?symbol=ZSL) | ProShares UltraShort Silver | ZSL |
-| 1 | 100 | $16.28 | [Chart](https://www.tradingview.com/chart/?symbol=SDS) | ProShares UltraShort S&P500 | SDS |
-| 1 | 100 | $39.97 | [Chart](https://www.tradingview.com/chart/?symbol=SDOW) | ProShares UltraPro Short Dow 30 | SDOW |
 | 1 | 100 | $25.61 | [Chart](https://www.tradingview.com/chart/?symbol=TECS) | Direxion Daily Technology Bear 3x Shares | TECS |
-| 2 | 100 | $13.17 | [Chart](https://www.tradingview.com/chart/?symbol=IART) | Integra LifeSciences Holdings | IART |
-| 2 | 100 | $23.64 | [Chart](https://www.tradingview.com/chart/?symbol=DXD) | ProShares UltraShort Dow 30 | DXD |
-| 2 | 100 | $228.58 | [Chart](https://www.tradingview.com/chart/?symbol=MOH) | Molina Healthcare, Inc. | MOH |
-| 2 | 100 | $20.79 | [Chart](https://www.tradingview.com/chart/?symbol=ERY) | Direxion Daily Energy Bear 2X Shares | ERY |
-| 2 | 100 | $18.65 | [Chart](https://www.tradingview.com/chart/?symbol=BITI) | ProShares Short Bitcoin ETF | BITI |
-| 2 | 100 | $39.25 | [Chart](https://www.tradingview.com/chart/?symbol=SH) | ProShares Short S&P500 | SH |
-| 2 | 100 | $33.48 | [Chart](https://www.tradingview.com/chart/?symbol=PSQ) | ProShares Short QQQ | PSQ |
-| 2 | 100 | $10.25 | [Chart](https://www.tradingview.com/chart/?symbol=SNDX) | Syndax Pharmaceuticals, Inc. | SNDX |
+| 1 | 100 | $16.28 | [Chart](https://www.tradingview.com/chart/?symbol=SDS) | ProShares UltraShort S&P500 | SDS |
+| 1 | 100 | $25.02 | [Chart](https://www.tradingview.com/chart/?symbol=QID) | ProShares UltraShort QQQ | QID |
+| 1 | 100 | $39.97 | [Chart](https://www.tradingview.com/chart/?symbol=SDOW) | ProShares UltraPro Short Dow 30 | SDOW |
 | 2 | 100 | $34.10 | [Chart](https://www.tradingview.com/chart/?symbol=SARK) | Investment Managers Series Trust II Tradr 1X Short Innovation Daily ETF | SARK |
-| 3 | 100 | $10.82 | [Chart](https://www.tradingview.com/chart/?symbol=SD) | SandRidge Energy, Inc. | SD |
+| 2 | 100 | $33.48 | [Chart](https://www.tradingview.com/chart/?symbol=PSQ) | ProShares Short QQQ | PSQ |
+| 2 | 100 | $23.64 | [Chart](https://www.tradingview.com/chart/?symbol=DXD) | ProShares UltraShort Dow 30 | DXD |
+| 2 | 100 | $13.17 | [Chart](https://www.tradingview.com/chart/?symbol=IART) | Integra LifeSciences Holdings | IART |
+| 2 | 100 | $39.25 | [Chart](https://www.tradingview.com/chart/?symbol=SH) | ProShares Short S&P500 | SH |
+| 2 | 100 | $20.79 | [Chart](https://www.tradingview.com/chart/?symbol=ERY) | Direxion Daily Energy Bear 2X Shares | ERY |
+| 2 | 100 | $10.25 | [Chart](https://www.tradingview.com/chart/?symbol=SNDX) | Syndax Pharmaceuticals, Inc. | SNDX |
+| 2 | 100 | $18.65 | [Chart](https://www.tradingview.com/chart/?symbol=BITI) | ProShares Short Bitcoin ETF | BITI |
+| 2 | 100 | $228.58 | [Chart](https://www.tradingview.com/chart/?symbol=MOH) | Molina Healthcare, Inc. | MOH |
+| 3 | 100 | $12.46 | [Chart](https://www.tradingview.com/chart/?symbol=CCRN) | Cross Country Healthcare Inc | CCRN |
+| 3 | 100 | $10.73 | [Chart](https://www.tradingview.com/chart/?symbol=EMBC) | Embecta Corp. Common Stock | EMBC |
 | 3 | 100 | $24.26 | [Chart](https://www.tradingview.com/chart/?symbol=CRTO) | Criteo S.A. | CRTO |
 | 3 | 100 | $25.20 | [Chart](https://www.tradingview.com/chart/?symbol=DOG) | ProShares Short Dow30 | DOG |
 | 3 | 100 | $60.30 | [Chart](https://www.tradingview.com/chart/?symbol=STC) | Stewart Information Services Corporation | STC |
-| 3 | 100 | $12.46 | [Chart](https://www.tradingview.com/chart/?symbol=CCRN) | Cross Country Healthcare Inc | CCRN |
-| 3 | 100 | $10.73 | [Chart](https://www.tradingview.com/chart/?symbol=EMBC) | Embecta Corp. Common Stock | EMBC |
+| 3 | 100 | $10.82 | [Chart](https://www.tradingview.com/chart/?symbol=SD) | SandRidge Energy, Inc. | SD |
 | 3 | 100 | $37.31 | [Chart](https://www.tradingview.com/chart/?symbol=IBTA) | Ibotta, Inc. | IBTA |
-| 4 | 100 | $10.52 | [Chart](https://www.tradingview.com/chart/?symbol=LBTYK) | Liberty Global Ltd. Class C Common Shares | LBTYK |
 | 4 | 100 | $43.07 | [Chart](https://www.tradingview.com/chart/?symbol=LINE) | Lineage, Inc. Common Stock | LINE |
+| 4 | 100 | $10.52 | [Chart](https://www.tradingview.com/chart/?symbol=LBTYK) | Liberty Global Ltd. Class C Common Shares | LBTYK |
 | 4 | 100 | $17.22 | [Chart](https://www.tradingview.com/chart/?symbol=HP) | Helmerich & Payne, Inc. | HP |
-| 5 | 100 | $10.23 | [Chart](https://www.tradingview.com/chart/?symbol=LBTYA) | Liberty Global Ltd. Class A Common Shares | LBTYA |
 | 5 | 100 | $65.13 | [Chart](https://www.tradingview.com/chart/?symbol=ZROZ) | PIMCO 25+ Year Zero Coupon U.S. Treasury Index Exchange-Traded Fund | ZROZ |
+| 5 | 100 | $10.23 | [Chart](https://www.tradingview.com/chart/?symbol=LBTYA) | Liberty Global Ltd. Class A Common Shares | LBTYA |
 | 6 | 100 | $16.56 | [Chart](https://www.tradingview.com/chart/?symbol=COLD) | Americold Realty Trust, Inc. | COLD |
 | 6 | 100 | $10.39 | [Chart](https://www.tradingview.com/chart/?symbol=NMZ) | Nuveen Municipal High Income Opportunity Fund | NMZ |
 | 8 | 100 | $71.20 | [Chart](https://www.tradingview.com/chart/?symbol=TNET) | TRINET GROUP, INC. | TNET |
@@ -233,12 +233,11 @@ The following 80 stocks show deteriorating relative strength:
 | 27 | 79 | $559.90 | [Chart](https://www.tradingview.com/chart/?symbol=TYL) | Tyler Technologies, Inc. | TYL |
 | 29 | 76 | $101.50 | [Chart](https://www.tradingview.com/chart/?symbol=FMX) | FOMENTO ECONOMICO MEXICANO, S.A.B. DE C.V. | FMX |
 | 28 | 75 | $19.19 | [Chart](https://www.tradingview.com/chart/?symbol=MSDL) | Morgan Stanley Direct Lending Fund | MSDL |
-| 29 | 75 | $30.94 | [Chart](https://www.tradingview.com/chart/?symbol=AXTA) | Axalta Coating Systems Ltd. | AXTA |
 | 29 | 75 | $35.73 | [Chart](https://www.tradingview.com/chart/?symbol=AMH) | AMERICAN HOMES 4 RENT | AMH |
+| 29 | 75 | $30.94 | [Chart](https://www.tradingview.com/chart/?symbol=AXTA) | Axalta Coating Systems Ltd. | AXTA |
 | 34 | 67 | $104.97 | [Chart](https://www.tradingview.com/chart/?symbol=PDD) | PDD Holdings Inc. American Depositary Shares | PDD |
 | 39 | 67 | $163.01 | [Chart](https://www.tradingview.com/chart/?symbol=NICE) | NICE Ltd | NICE |
 | 35 | 66 | $40.03 | [Chart](https://www.tradingview.com/chart/?symbol=LZB) | La-Z-Boy Incorporated | LZB |
-| 39 | 64 | $166.74 | [Chart](https://www.tradingview.com/chart/?symbol=EGP) | EastGroup Properties Inc. | EGP |
 | 38 | 63 | $56.62 | [Chart](https://www.tradingview.com/chart/?symbol=ALRM) | Alarm.com Holdings, Inc. | ALRM |
 
 ## **Methodology**
