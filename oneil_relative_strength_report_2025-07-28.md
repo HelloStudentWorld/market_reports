@@ -51,8 +51,8 @@ Based on William O'Neil's Relative Strength Methodology
 |-----|----------|-----------|-------------|--------------|-------|--------|
 | [URA](https://www.tradingview.com/chart/?symbol=URA) | 99.0 | 98.0 | 67.65% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Uranium |
 | [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 98.0 | 96.0 | 53.30% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
-| [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 97.5 | 95.0 | 50.67% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Innovation |
 | [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 97.5 | 95.0 | 49.71% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
+| [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 97.5 | 95.0 | 50.67% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Innovation |
 | [XLK](https://www.tradingview.com/chart/?symbol=XLK) | 91.0 | 82.0 | 26.68% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Technology |
 | [PAVE](https://www.tradingview.com/chart/?symbol=PAVE) | 89.0 | 78.0 | 22.95% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Infrastructure |
 | [AIQ](https://www.tradingview.com/chart/?symbol=AIQ) | 88.5 | 77.0 | 22.19% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Artificial Intelligence & Technology |
@@ -98,7 +98,7 @@ This table shows the relative strength metrics for different market sectors base
 
 ### **Current Sector Leadership**
 
-The current market leadership is coming from the following sectors: **Uranium, Next Generation Internet, Innovation**.
+The current market leadership is coming from the following sectors: **Uranium, Next Generation Internet, Fintech Innovation**.
 
 The **Uranium** sector (represented by **URA**) is showing particularly strong relative strength with an RS rating of 98.0 and performance of 67.65% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
 
@@ -168,7 +168,7 @@ The following 52 stocks show exceptional relative strength:
 
 ## **Sell Recommendations**
 
-The following 87 stocks show deteriorating relative strength:
+The following 86 stocks show deteriorating relative strength:
 
 | RS Rating | Sell Score | Current Price | Chart | Name | Ticker |
 |-----------|------------|---------------|-------|------|--------|
@@ -214,7 +214,6 @@ The following 87 stocks show deteriorating relative strength:
 | 19 | 93 | $11.58 | [Chart](https://www.tradingview.com/chart/?symbol=NVG) | Nuveen AMT-Free Municipal Credit Income Fund | NVG |
 | 16 | 92 | $85.87 | [Chart](https://www.tradingview.com/chart/?symbol=TLT) | iShares 20+ Year Treasury Bond ETF | TLT |
 | 17 | 92 | $54.79 | [Chart](https://www.tradingview.com/chart/?symbol=VGLT) | Vanguard Long-Term Treasury ETF | VGLT |
-| 11 | 91 | $55.59 | [Chart](https://www.tradingview.com/chart/?symbol=HRB) | H&R Block, Inc. | HRB |
 | 12 | 91 | $12.37 | [Chart](https://www.tradingview.com/chart/?symbol=WSR) | Whitestone REIT | WSR |
 | 17 | 91 | $25.95 | [Chart](https://www.tradingview.com/chart/?symbol=SPTL) | SPDR Portfolio Long Term Treasury ETF | SPTL |
 | 17 | 91 | $16.54 | [Chart](https://www.tradingview.com/chart/?symbol=MLN) | VanEck Long Muni ETF | MLN |
