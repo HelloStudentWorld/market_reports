@@ -51,8 +51,8 @@ Based on William O'Neil's Relative Strength Methodology
 |-----|----------|-----------|-------------|--------------|-------|--------|
 | [URA](https://www.tradingview.com/chart/?symbol=URA) | 88.6 | 97.0 | 51.01% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Uranium |
 | [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 87.6 | 95.0 | 45.27% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
-| [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 87.1 | 94.0 | 40.97% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
 | [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 87.1 | 94.0 | 40.16% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Innovation |
+| [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 87.1 | 94.0 | 40.97% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
 | [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 86.6 | 93.0 | 36.74% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
 | [XLK](https://www.tradingview.com/chart/?symbol=XLK) | 81.1 | 82.0 | 20.66% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Technology |
 | [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 79.5 | 59.0 | 8.43% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Utilities |
@@ -76,8 +76,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [UUP](https://www.tradingview.com/chart/?symbol=UUP) | 34.8 | 30.0 | 0.00% | 10d ✓, 50d ✓, 200d ✗ | ↘️ | U.S. Dollar |
 | [TLT](https://www.tradingview.com/chart/?symbol=TLT) | 33.3 | 27.0 | -0.98% | 10d ✓, 50d ✓, 200d ✗ | ↘️ | Long-term Treasuries |
 | [IYT](https://www.tradingview.com/chart/?symbol=IYT) | 31.0 | 62.0 | 9.68% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Transportation |
-| [DBA](https://www.tradingview.com/chart/?symbol=DBA) | 29.5 | 19.0 | -4.86% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | Agriculture |
 | [ARKG](https://www.tradingview.com/chart/?symbol=ARKG) | 29.5 | 59.0 | 8.32% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Genomics |
+| [DBA](https://www.tradingview.com/chart/?symbol=DBA) | 29.5 | 19.0 | -4.86% | 10d ✗, 50d ✗, 200d ✗ | ↗️ | Agriculture |
 | [XLE](https://www.tradingview.com/chart/?symbol=XLE) | 26.0 | 52.0 | 5.93% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Energy |
 | [XLB](https://www.tradingview.com/chart/?symbol=XLB) | 23.0 | 46.0 | 3.83% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Materials |
 | [IYR](https://www.tradingview.com/chart/?symbol=IYR) | 17.5 | 35.0 | 0.85% | 10d ✗, 50d ✗, 200d ✗ | ↘️ | Real Estate |
@@ -98,7 +98,7 @@ This table shows the relative strength metrics for different market sectors base
 
 ### **Current Sector Leadership**
 
-The current market leadership is coming from the following sectors: **Uranium, Next Generation Internet, Fintech Innovation**.
+The current market leadership is coming from the following sectors: **Uranium, Next Generation Internet, Innovation**.
 
 The **Uranium** sector (represented by **URA**) is showing particularly strong relative strength with an RS rating of 97.0 and performance of 51.01% vs. the S&P 500. This sector is trading above its 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
 
@@ -111,28 +111,28 @@ The following 40 stocks show exceptional relative strength:
 | RS Rating | Buy Score | Current Price | Chart | Name | Ticker |
 |-----------|-----------|---------------|-------|------|--------|
 | 100 | 100 | $194.74 | [Chart](https://www.tradingview.com/chart/?symbol=CLS) | Celestica, Inc. | CLS |
+| 100 | 100 | $144.00 | [Chart](https://www.tradingview.com/chart/?symbol=SEZL) | Sezzle Inc. Common Stock | SEZL |
 | 100 | 100 | $63.69 | [Chart](https://www.tradingview.com/chart/?symbol=MP) | MP Materials Corp. | MP |
 | 100 | 100 | $232.73 | [Chart](https://www.tradingview.com/chart/?symbol=DAVE) | Dave Inc. Class A Common Stock | DAVE |
-| 100 | 100 | $144.00 | [Chart](https://www.tradingview.com/chart/?symbol=SEZL) | Sezzle Inc. Common Stock | SEZL |
+| 99 | 100 | $125.03 | [Chart](https://www.tradingview.com/chart/?symbol=RBLX) | Roblox Corporation | RBLX |
+| 99 | 100 | $62.55 | [Chart](https://www.tradingview.com/chart/?symbol=HIMS) | Hims & Hers Health, Inc. | HIMS |
 | 99 | 100 | $26.34 | [Chart](https://www.tradingview.com/chart/?symbol=CPS) | Cooper-Standard Automotive Inc. | CPS |
 | 99 | 100 | $656.50 | [Chart](https://www.tradingview.com/chart/?symbol=GEV) | GE Vernova Inc. | GEV |
-| 99 | 100 | $62.55 | [Chart](https://www.tradingview.com/chart/?symbol=HIMS) | Hims & Hers Health, Inc. | HIMS |
-| 99 | 100 | $125.03 | [Chart](https://www.tradingview.com/chart/?symbol=RBLX) | Roblox Corporation | RBLX |
-| 98 | 100 | $200.11 | [Chart](https://www.tradingview.com/chart/?symbol=NET) | Cloudflare, Inc. Class A common stock, par value $0.001 per share | NET |
 | 98 | 100 | $378.01 | [Chart](https://www.tradingview.com/chart/?symbol=TLN) | Talen Energy Corporation Common Stock | TLN |
+| 98 | 100 | $200.11 | [Chart](https://www.tradingview.com/chart/?symbol=NET) | Cloudflare, Inc. Class A common stock, par value $0.001 per share | NET |
 | 97 | 100 | $164.97 | [Chart](https://www.tradingview.com/chart/?symbol=IRTC) | iRhythm Technologies, Inc | IRTC |
 | 96 | 100 | $167.63 | [Chart](https://www.tradingview.com/chart/?symbol=NRG) | NRG Energy, Inc. | NRG |
+| 95 | 100 | $105.18 | [Chart](https://www.tradingview.com/chart/?symbol=VRNA) | Verona Pharma plc | VRNA |
 | 95 | 100 | $48.37 | [Chart](https://www.tradingview.com/chart/?symbol=REVG) | REV Group, Inc. | REVG |
 | 95 | 100 | $174.26 | [Chart](https://www.tradingview.com/chart/?symbol=COOP) | Mr. Cooper Group Inc. Common Stock | COOP |
-| 95 | 100 | $105.18 | [Chart](https://www.tradingview.com/chart/?symbol=VRNA) | Verona Pharma plc | VRNA |
 | 95 | 100 | $367.78 | [Chart](https://www.tradingview.com/chart/?symbol=CVNA) | Carvana Co. | CVNA |
-| 94 | 100 | $110.96 | [Chart](https://www.tradingview.com/chart/?symbol=SANM) | Sanmina  Corp | SANM |
 | 94 | 100 | $493.58 | [Chart](https://www.tradingview.com/chart/?symbol=CW) | Curtiss-Wright Corp. | CW |
-| 93 | 100 | $379.17 | [Chart](https://www.tradingview.com/chart/?symbol=APP) | Applovin Corporation Class A Common Stock | APP |
+| 94 | 100 | $110.96 | [Chart](https://www.tradingview.com/chart/?symbol=SANM) | Sanmina  Corp | SANM |
 | 93 | 100 | $259.29 | [Chart](https://www.tradingview.com/chart/?symbol=WWD) | Woodward, Inc. | WWD |
 | 93 | 100 | $88.30 | [Chart](https://www.tradingview.com/chart/?symbol=RYTM) | Rhythm Pharmaceuticals, Inc. Common Stock | RYTM |
-| 93 | 100 | $91.74 | [Chart](https://www.tradingview.com/chart/?symbol=EBAY) | eBay Inc | EBAY |
+| 93 | 100 | $379.17 | [Chart](https://www.tradingview.com/chart/?symbol=APP) | Applovin Corporation Class A Common Stock | APP |
 | 93 | 100 | $42.76 | [Chart](https://www.tradingview.com/chart/?symbol=LTM) | LATAM Airlines Group S.A. American Depositary Shares (each representing two thousand (2,000) shares of Common Stock) | LTM |
+| 93 | 100 | $91.74 | [Chart](https://www.tradingview.com/chart/?symbol=EBAY) | eBay Inc | EBAY |
 | 91 | 100 | $269.38 | [Chart](https://www.tradingview.com/chart/?symbol=GE) | GE Aerospace | GE |
 | 90 | 100 | $35.07 | [Chart](https://www.tradingview.com/chart/?symbol=APG) | APi Group Corporation | APG |
 | 90 | 100 | $80.96 | [Chart](https://www.tradingview.com/chart/?symbol=TPB) | Turning Point Brands, Inc. | TPB |
@@ -160,14 +160,14 @@ The following 62 stocks show deteriorating relative strength:
 
 | RS Rating | Sell Score | Current Price | Chart | Name | Ticker |
 |-----------|------------|---------------|-------|------|--------|
-| 1 | 100 | $70.57 | [Chart](https://www.tradingview.com/chart/?symbol=LNTH) | Lantheus Holdings, Inc | LNTH |
 | 1 | 100 | $12.47 | [Chart](https://www.tradingview.com/chart/?symbol=NVDS) | Investment Managers Series Trust II Tradr 1.5X Short NVDA Daily ETF | NVDS |
+| 1 | 100 | $70.57 | [Chart](https://www.tradingview.com/chart/?symbol=LNTH) | Lantheus Holdings, Inc | LNTH |
 | 2 | 100 | $13.70 | [Chart](https://www.tradingview.com/chart/?symbol=CLBT) | Cellebrite DI Ltd. Class A Ordinary Shares | CLBT |
-| 3 | 100 | $14.65 | [Chart](https://www.tradingview.com/chart/?symbol=CSTL) | Castle Biosciences, Inc. Common Stock | CSTL |
 | 3 | 100 | $24.50 | [Chart](https://www.tradingview.com/chart/?symbol=ZSL) | ProShares UltraShort Silver | ZSL |
-| 5 | 100 | $12.22 | [Chart](https://www.tradingview.com/chart/?symbol=CDNA) | CareDx, Inc. | CDNA |
+| 3 | 100 | $14.65 | [Chart](https://www.tradingview.com/chart/?symbol=CSTL) | Castle Biosciences, Inc. Common Stock | CSTL |
 | 5 | 100 | $43.26 | [Chart](https://www.tradingview.com/chart/?symbol=SDOW) | ProShares UltraPro Short Dow 30 | SDOW |
 | 5 | 100 | $10.22 | [Chart](https://www.tradingview.com/chart/?symbol=ARDT) | Ardent Health, Inc. | ARDT |
+| 5 | 100 | $12.22 | [Chart](https://www.tradingview.com/chart/?symbol=CDNA) | CareDx, Inc. | CDNA |
 | 6 | 100 | $10.37 | [Chart](https://www.tradingview.com/chart/?symbol=OEC) | Orion S.A. | OEC |
 | 6 | 100 | $20.39 | [Chart](https://www.tradingview.com/chart/?symbol=KIDS) | OrthoPediatrics Corp. Common Stock | KIDS |
 | 7 | 100 | $20.57 | [Chart](https://www.tradingview.com/chart/?symbol=AMRK) | A-Mark Precious Metals, Inc. | AMRK |
@@ -218,8 +218,8 @@ The following 62 stocks show deteriorating relative strength:
 | 29 | 71 | $22.86 | [Chart](https://www.tradingview.com/chart/?symbol=IBTG) | iShares iBonds Dec 2026 Term Treasury ETF | IBTG |
 | 33 | 69 | $54.05 | [Chart](https://www.tradingview.com/chart/?symbol=ALRM) | Alarm.com Holdings, Inc. | ALRM |
 | 34 | 68 | $47.56 | [Chart](https://www.tradingview.com/chart/?symbol=SPHD) | Invesco S&P 500 High Dividend Low Volatility ETF | SPHD |
-| 35 | 67 | $78.36 | [Chart](https://www.tradingview.com/chart/?symbol=FIS) | Fidelity National Information Services, Inc. | FIS |
 | 35 | 67 | $45.92 | [Chart](https://www.tradingview.com/chart/?symbol=FTSL) | First Trust Senior Loan Fund ETF | FTSL |
+| 35 | 67 | $78.36 | [Chart](https://www.tradingview.com/chart/?symbol=FIS) | Fidelity National Information Services, Inc. | FIS |
 | 39 | 67 | $78.04 | [Chart](https://www.tradingview.com/chart/?symbol=GPN) | Global Payments, Inc. | GPN |
 | 39 | 64 | $36.57 | [Chart](https://www.tradingview.com/chart/?symbol=HYLB) | Xtrackers USD High Yield Corporate Bond ETF | HYLB |
 
