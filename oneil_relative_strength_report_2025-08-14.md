@@ -49,8 +49,8 @@ Based on William O'Neil's Relative Strength Methodology
 
 | ETF | Strength | RS Rating | Performance | Above Key MAs | Trend | Sector |
 |-----|----------|-----------|-------------|--------------|-------|--------|
-| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 96.5 | 93.0 | 33.98% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
 | [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 96.5 | 93.0 | 33.86% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Innovation |
+| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 96.5 | 93.0 | 33.98% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
 | [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 96.5 | 93.0 | 32.02% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
 | [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 94.5 | 89.0 | 26.21% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
 | [SLV](https://www.tradingview.com/chart/?symbol=SLV) | 91.0 | 82.0 | 17.95% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Silver |
@@ -63,8 +63,8 @@ Based on William O'Neil's Relative Strength Methodology
 | [IYZ](https://www.tradingview.com/chart/?symbol=IYZ) | 82.5 | 65.0 | 9.34% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Telecommunications |
 | [XLI](https://www.tradingview.com/chart/?symbol=XLI) | 79.5 | 59.0 | 7.49% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Industrial |
 | [XLY](https://www.tradingview.com/chart/?symbol=XLY) | 77.0 | 54.0 | 6.24% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Consumer Discretionary |
-| [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 73.0 | 46.0 | 4.06% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [KWEB](https://www.tradingview.com/chart/?symbol=KWEB) | 73.0 | 46.0 | 3.98% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Chinese Internet |
+| [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 73.0 | 46.0 | 4.06% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Financial |
 | [SOXX](https://www.tradingview.com/chart/?symbol=SOXX) | 71.5 | 83.0 | 18.32% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Semiconductors |
 | [ARKG](https://www.tradingview.com/chart/?symbol=ARKG) | 71.5 | 83.0 | 18.69% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Genomics |
 | [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 70.6 | 61.0 | 8.28% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Utilities |
@@ -98,9 +98,9 @@ This table shows the relative strength metrics for different market sectors base
 
 ### **Current Sector Leadership**
 
-The current market leadership is coming from the following sectors: **Next Generation Internet, Innovation, Fintech Innovation**.
+The current market leadership is coming from the following sectors: **Innovation, Next Generation Internet, Fintech Innovation**.
 
-The **Next Generation Internet** sector (represented by **ARKW**) is showing particularly strong relative strength with an RS rating of 93.0 and performance of 33.98% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
+The **Innovation** sector (represented by **ARKK**) is showing particularly strong relative strength with an RS rating of 93.0 and performance of 33.86% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
 
 ---
 
@@ -175,7 +175,7 @@ The following 59 stocks show exceptional relative strength:
 
 ## **Sell Recommendations**
 
-The following 67 stocks show deteriorating relative strength:
+The following 66 stocks show deteriorating relative strength:
 
 | RS Rating | Sell Score | Current Price | Chart | Name | Ticker |
 |-----------|------------|---------------|-------|------|--------|
@@ -218,13 +218,13 @@ The following 67 stocks show deteriorating relative strength:
 | 20 | 89 | $13.93 | [Chart](https://www.tradingview.com/chart/?symbol=EWTX) | Edgewise Therapeutics, Inc. Common Stock | EWTX |
 | 13 | 87 | $320.23 | [Chart](https://www.tradingview.com/chart/?symbol=CPAY) | Corpay, Inc. | CPAY |
 | 18 | 86 | $91.40 | [Chart](https://www.tradingview.com/chart/?symbol=IRM) | Iron Mountain Inc. | IRM |
-| 20 | 86 | $13.15 | [Chart](https://www.tradingview.com/chart/?symbol=NAVI) | Navient Corporation | NAVI |
 | 21 | 86 | $48.52 | [Chart](https://www.tradingview.com/chart/?symbol=FR) | First Industrial Realty Trust, Inc. | FR |
 | 21 | 86 | $10.15 | [Chart](https://www.tradingview.com/chart/?symbol=NMZ) | Nuveen Municipal High Income Opportunity Fund | NMZ |
 | 18 | 85 | $29.79 | [Chart](https://www.tradingview.com/chart/?symbol=CNQ) | Canadian Natural Resources Limited | CNQ |
+| 20 | 85 | $13.15 | [Chart](https://www.tradingview.com/chart/?symbol=NAVI) | Navient Corporation | NAVI |
 | 21 | 85 | $161.90 | [Chart](https://www.tradingview.com/chart/?symbol=EGP) | EastGroup Properties Inc. | EGP |
-| 25 | 85 | $18.23 | [Chart](https://www.tradingview.com/chart/?symbol=EBF) | Ennis, Inc. | EBF |
 | 24 | 84 | $36.70 | [Chart](https://www.tradingview.com/chart/?symbol=PBA) | PEMBINA PIPELINE CORPORATION | PBA |
+| 25 | 84 | $18.23 | [Chart](https://www.tradingview.com/chart/?symbol=EBF) | Ennis, Inc. | EBF |
 | 21 | 82 | $44.37 | [Chart](https://www.tradingview.com/chart/?symbol=EPI) | WisdomTree India Earnings Fund ETF | EPI |
 | 25 | 81 | $105.85 | [Chart](https://www.tradingview.com/chart/?symbol=PLD) | PROLOGIS, INC. | PLD |
 | 21 | 80 | $11.91 | [Chart](https://www.tradingview.com/chart/?symbol=CEPU) | Central Puerto S.A. American Depositary Shares (each represents ten Common Shares) | CEPU |
@@ -233,7 +233,6 @@ The following 67 stocks show deteriorating relative strength:
 | 24 | 79 | $275.74 | [Chart](https://www.tradingview.com/chart/?symbol=CB) | Chubb Limited | CB |
 | 28 | 78 | $72.16 | [Chart](https://www.tradingview.com/chart/?symbol=ADC) | Agree Realty Corporation | ADC |
 | 28 | 78 | $14.80 | [Chart](https://www.tradingview.com/chart/?symbol=GBDC) | Golub Capital BDC, Inc. | GBDC |
-| 23 | 77 | $216.91 | [Chart](https://www.tradingview.com/chart/?symbol=SBAC) | SBA Communications Corp | SBAC |
 | 31 | 76 | $56.17 | [Chart](https://www.tradingview.com/chart/?symbol=USRT) | iShares Core U.S. REIT ETF | USRT |
 | 30 | 75 | $91.58 | [Chart](https://www.tradingview.com/chart/?symbol=BIL) | SPDR Bloomberg 1-3 Month T-Bill ETF | BIL |
 | 38 | 74 | $14.50 | [Chart](https://www.tradingview.com/chart/?symbol=MNR) | Mach Natural Resources LP Common Units representing Limited Partner Interests | MNR |
