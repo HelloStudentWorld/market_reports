@@ -49,8 +49,8 @@ Based on William O'Neil's Relative Strength Methodology
 
 | ETF | Strength | RS Rating | Performance | Above Key MAs | Trend | Sector |
 |-----|----------|-----------|-------------|--------------|-------|--------|
-| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 97.0 | 94.0 | 35.63% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
 | [ARKK](https://www.tradingview.com/chart/?symbol=ARKK) | 97.0 | 94.0 | 35.75% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Innovation |
+| [ARKW](https://www.tradingview.com/chart/?symbol=ARKW) | 97.0 | 94.0 | 35.63% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Next Generation Internet |
 | [ARKF](https://www.tradingview.com/chart/?symbol=ARKF) | 96.5 | 93.0 | 33.68% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Fintech Innovation |
 | [BLOK](https://www.tradingview.com/chart/?symbol=BLOK) | 95.0 | 90.0 | 26.78% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Blockchain & Cryptocurrency |
 | [SOXX](https://www.tradingview.com/chart/?symbol=SOXX) | 90.5 | 81.0 | 16.36% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Semiconductors |
@@ -66,10 +66,10 @@ Based on William O'Neil's Relative Strength Methodology
 | [XLY](https://www.tradingview.com/chart/?symbol=XLY) | 79.0 | 58.0 | 6.22% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Consumer Discretionary |
 | [ARKG](https://www.tradingview.com/chart/?symbol=ARKG) | 72.0 | 84.0 | 19.00% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Genomics |
 | [XLF](https://www.tradingview.com/chart/?symbol=XLF) | 72.0 | 44.0 | 2.30% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Financial |
-| [ITB](https://www.tradingview.com/chart/?symbol=ITB) | 70.5 | 81.0 | 16.56% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Home Construction |
 | [IBB](https://www.tradingview.com/chart/?symbol=IBB) | 70.5 | 81.0 | 16.37% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Biotechnology |
-| [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 68.1 | 56.0 | 5.72% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Utilities |
+| [ITB](https://www.tradingview.com/chart/?symbol=ITB) | 70.5 | 81.0 | 16.56% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Home Construction |
 | [XLI](https://www.tradingview.com/chart/?symbol=XLI) | 68.1 | 56.0 | 5.82% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Industrial |
+| [XLU](https://www.tradingview.com/chart/?symbol=XLU) | 68.1 | 56.0 | 5.72% | 10d ✗, 50d ✓, 200d ✓ | ↗️ | Utilities |
 | [DBA](https://www.tradingview.com/chart/?symbol=DBA) | 64.0 | 28.0 | -1.17% | 10d ✓, 50d ✓, 200d ✓ | ↗️ | Agriculture |
 | [ICLN](https://www.tradingview.com/chart/?symbol=ICLN) | 62.5 | 65.0 | 8.46% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Clean Energy |
 | [XLB](https://www.tradingview.com/chart/?symbol=XLB) | 55.5 | 51.0 | 4.48% | 10d ✓, 50d ✓, 200d ✓ | ↘️ | Materials |
@@ -98,9 +98,9 @@ This table shows the relative strength metrics for different market sectors base
 
 ### **Current Sector Leadership**
 
-The current market leadership is coming from the following sectors: **Next Generation Internet, Innovation, Fintech Innovation**.
+The current market leadership is coming from the following sectors: **Innovation, Next Generation Internet, Fintech Innovation**.
 
-The **Next Generation Internet** sector (represented by **ARKW**) is showing particularly strong relative strength with an RS rating of 94.0 and performance of 35.63% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
+The **Innovation** sector (represented by **ARKK**) is showing particularly strong relative strength with an RS rating of 94.0 and performance of 35.75% vs. the S&P 500. This sector is trading above its 10-day, 50-day, 200-day moving average(s). Investors should consider focusing on high RS stocks within these leading sectors for potential outperformance.
 
 ---
 
